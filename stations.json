@@ -1,0 +1,26 @@
+[
+  {
+    "id": "es-barcelona-sants",
+    "name": "Barcelona Sants",
+    "country": "ES",
+    "latitude": 41.3791,
+    "longitude": 2.1403,
+    "operators": ["renfe", "iryo", "ouigo-es", "sncf"]
+  },
+  {
+    "id": "es-madrid-atocha",
+    "name": "Madrid Atocha",
+    "country": "ES",
+    "latitude": 40.4066,
+    "longitude": -3.6908,
+    "operators": ["renfe", "iryo", "ouigo-es"]
+  },
+  {
+    "id": "fr-paris-gare-de-lyon",
+    "name": "Paris Gare de Lyon",
+    "country": "FR",
+    "latitude": 48.8443,
+    "longitude": 2.3739,
+    "operators": ["sncf", "trenitalia-france", "tgv-lyria"]
+  }
+]
