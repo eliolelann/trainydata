@@ -1,0 +1,17 @@
+{
+  "country": "ES",
+  "source": "renfe",
+  "filterMethod": "route_type",
+  "allowedRouteTypes": [
+    "101",
+    "2"
+  ],
+  "totalRoutes": 680,
+  "railRoutes": 680,
+  "totalTrips": 6461,
+  "railTrips": 6461,
+  "railStopTimes": 52544,
+  "totalStops": 1019,
+  "railStations": 1019,
+  "generatedTripDetails": 6461
+}

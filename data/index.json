@@ -1,4 +1,19 @@
 {
   "version": "2026-05-18-test",
-  "feeds": []
+  "feeds": [
+    {
+      "id": "CH",
+      "name": "Switzerland",
+      "country": "CH",
+      "source": "opentransportdata.swiss",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/CH"
+    },
+    {
+      "id": "ES_RENFE",
+      "name": "Spain - Renfe",
+      "country": "ES",
+      "source": "renfe",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/ES_RENFE"
+    }
+  ]
 }
