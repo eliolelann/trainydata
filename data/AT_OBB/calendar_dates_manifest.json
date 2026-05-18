@@ -1,0 +1,93 @@
+{
+  "country": "AT",
+  "source": "oebb",
+  "totalCalendarDates": 168246,
+  "chunkSize": 10000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "calendar_dates_parts/calendar_dates_000.json",
+      "count": 10000
+    },
+    {
+      "index": 1,
+      "file": "calendar_dates_parts/calendar_dates_001.json",
+      "count": 10000
+    },
+    {
+      "index": 2,
+      "file": "calendar_dates_parts/calendar_dates_002.json",
+      "count": 10000
+    },
+    {
+      "index": 3,
+      "file": "calendar_dates_parts/calendar_dates_003.json",
+      "count": 10000
+    },
+    {
+      "index": 4,
+      "file": "calendar_dates_parts/calendar_dates_004.json",
+      "count": 10000
+    },
+    {
+      "index": 5,
+      "file": "calendar_dates_parts/calendar_dates_005.json",
+      "count": 10000
+    },
+    {
+      "index": 6,
+      "file": "calendar_dates_parts/calendar_dates_006.json",
+      "count": 10000
+    },
+    {
+      "index": 7,
+      "file": "calendar_dates_parts/calendar_dates_007.json",
+      "count": 10000
+    },
+    {
+      "index": 8,
+      "file": "calendar_dates_parts/calendar_dates_008.json",
+      "count": 10000
+    },
+    {
+      "index": 9,
+      "file": "calendar_dates_parts/calendar_dates_009.json",
+      "count": 10000
+    },
+    {
+      "index": 10,
+      "file": "calendar_dates_parts/calendar_dates_010.json",
+      "count": 10000
+    },
+    {
+      "index": 11,
+      "file": "calendar_dates_parts/calendar_dates_011.json",
+      "count": 10000
+    },
+    {
+      "index": 12,
+      "file": "calendar_dates_parts/calendar_dates_012.json",
+      "count": 10000
+    },
+    {
+      "index": 13,
+      "file": "calendar_dates_parts/calendar_dates_013.json",
+      "count": 10000
+    },
+    {
+      "index": 14,
+      "file": "calendar_dates_parts/calendar_dates_014.json",
+      "count": 10000
+    },
+    {
+      "index": 15,
+      "file": "calendar_dates_parts/calendar_dates_015.json",
+      "count": 10000
+    },
+    {
+      "index": 16,
+      "file": "calendar_dates_parts/calendar_dates_016.json",
+      "count": 8246
+    }
+  ]
+}

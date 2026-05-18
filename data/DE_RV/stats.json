@@ -1,0 +1,28 @@
+{
+  "country": "DE",
+  "source": "gtfs.de-rv",
+  "filterMethod": "route_type",
+  "allowedRouteTypes": [
+    "101",
+    "102",
+    "103",
+    "105",
+    "106",
+    "107",
+    "109",
+    "117",
+    "2"
+  ],
+  "totalRoutes": 967,
+  "railRoutes": 967,
+  "totalTrips": 113065,
+  "railTrips": 113065,
+  "railStopTimes": 1650583,
+  "totalStops": 16700,
+  "railStations": 7804,
+  "generatedTripDetails": 113065,
+  "tripsIndexParts": 23,
+  "stationTripsIndexFiles": 7804,
+  "calendarDatesParts": 2,
+  "skipTripDetails": false
+}

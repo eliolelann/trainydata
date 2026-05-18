@@ -1,0 +1,21 @@
+{
+  "country": "FR",
+  "source": "sncf",
+  "filterMethod": "route_type",
+  "allowedRouteTypes": [
+    "101",
+    "2"
+  ],
+  "totalRoutes": 720,
+  "railRoutes": 589,
+  "totalTrips": 49354,
+  "railTrips": 47131,
+  "railStopTimes": 403679,
+  "totalStops": 8792,
+  "railStations": 2834,
+  "generatedTripDetails": 47131,
+  "tripsIndexParts": 10,
+  "stationTripsIndexFiles": 2834,
+  "calendarDatesParts": 38,
+  "skipTripDetails": false
+}

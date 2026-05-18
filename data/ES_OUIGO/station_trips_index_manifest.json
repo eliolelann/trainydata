@@ -1,0 +1,104 @@
+{
+  "country": "ES",
+  "source": "ouigo",
+  "totalStationsWithTrips": 16,
+  "files": [
+    {
+      "stationId": "007151003",
+      "file": "station_trips_index/007151003.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "007150500",
+      "file": "station_trips_index/007150500.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "007160000",
+      "file": "station_trips_index/007160000.json",
+      "count": 43,
+      "originalCount": 43
+    },
+    {
+      "stationId": "007104040",
+      "file": "station_trips_index/007104040.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "007171801",
+      "file": "station_trips_index/007171801.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "007104104",
+      "file": "station_trips_index/007104104.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "007103216",
+      "file": "station_trips_index/007103216.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "007117000",
+      "file": "station_trips_index/007117000.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "007103208",
+      "file": "station_trips_index/007103208.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "007154413",
+      "file": "station_trips_index/007154413.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "007161200",
+      "file": "station_trips_index/007161200.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "007103410",
+      "file": "station_trips_index/007103410.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "007160600",
+      "file": "station_trips_index/007160600.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "007160911",
+      "file": "station_trips_index/007160911.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "007110600",
+      "file": "station_trips_index/007110600.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "007108004",
+      "file": "station_trips_index/007108004.json",
+      "count": 8,
+      "originalCount": 8
+    }
+  ],
+  "limitedPerStation": 0
+}

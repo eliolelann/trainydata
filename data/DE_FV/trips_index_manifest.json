@@ -1,0 +1,18 @@
+{
+  "country": "DE",
+  "source": "gtfs.de-fv",
+  "totalTrips": 6209,
+  "chunkSize": 5000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "trips_index_parts/trips_index_000.json",
+      "count": 5000
+    },
+    {
+      "index": 1,
+      "file": "trips_index_parts/trips_index_001.json",
+      "count": 1209
+    }
+  ]
+}

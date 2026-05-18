@@ -1,0 +1,21 @@
+{
+  "country": "EU",
+  "source": "eurostar",
+  "filterMethod": "route_type",
+  "allowedRouteTypes": [
+    "101",
+    "2"
+  ],
+  "totalRoutes": 22,
+  "railRoutes": 22,
+  "totalTrips": 11162,
+  "railTrips": 11162,
+  "railStopTimes": 38922,
+  "totalStops": 161,
+  "railStations": 17,
+  "generatedTripDetails": 11162,
+  "tripsIndexParts": 3,
+  "stationTripsIndexFiles": 17,
+  "calendarDatesParts": 2,
+  "skipTripDetails": false
+}

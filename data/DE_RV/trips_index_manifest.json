@@ -1,0 +1,123 @@
+{
+  "country": "DE",
+  "source": "gtfs.de-rv",
+  "totalTrips": 113065,
+  "chunkSize": 5000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "trips_index_parts/trips_index_000.json",
+      "count": 5000
+    },
+    {
+      "index": 1,
+      "file": "trips_index_parts/trips_index_001.json",
+      "count": 5000
+    },
+    {
+      "index": 2,
+      "file": "trips_index_parts/trips_index_002.json",
+      "count": 5000
+    },
+    {
+      "index": 3,
+      "file": "trips_index_parts/trips_index_003.json",
+      "count": 5000
+    },
+    {
+      "index": 4,
+      "file": "trips_index_parts/trips_index_004.json",
+      "count": 5000
+    },
+    {
+      "index": 5,
+      "file": "trips_index_parts/trips_index_005.json",
+      "count": 5000
+    },
+    {
+      "index": 6,
+      "file": "trips_index_parts/trips_index_006.json",
+      "count": 5000
+    },
+    {
+      "index": 7,
+      "file": "trips_index_parts/trips_index_007.json",
+      "count": 5000
+    },
+    {
+      "index": 8,
+      "file": "trips_index_parts/trips_index_008.json",
+      "count": 5000
+    },
+    {
+      "index": 9,
+      "file": "trips_index_parts/trips_index_009.json",
+      "count": 5000
+    },
+    {
+      "index": 10,
+      "file": "trips_index_parts/trips_index_010.json",
+      "count": 5000
+    },
+    {
+      "index": 11,
+      "file": "trips_index_parts/trips_index_011.json",
+      "count": 5000
+    },
+    {
+      "index": 12,
+      "file": "trips_index_parts/trips_index_012.json",
+      "count": 5000
+    },
+    {
+      "index": 13,
+      "file": "trips_index_parts/trips_index_013.json",
+      "count": 5000
+    },
+    {
+      "index": 14,
+      "file": "trips_index_parts/trips_index_014.json",
+      "count": 5000
+    },
+    {
+      "index": 15,
+      "file": "trips_index_parts/trips_index_015.json",
+      "count": 5000
+    },
+    {
+      "index": 16,
+      "file": "trips_index_parts/trips_index_016.json",
+      "count": 5000
+    },
+    {
+      "index": 17,
+      "file": "trips_index_parts/trips_index_017.json",
+      "count": 5000
+    },
+    {
+      "index": 18,
+      "file": "trips_index_parts/trips_index_018.json",
+      "count": 5000
+    },
+    {
+      "index": 19,
+      "file": "trips_index_parts/trips_index_019.json",
+      "count": 5000
+    },
+    {
+      "index": 20,
+      "file": "trips_index_parts/trips_index_020.json",
+      "count": 5000
+    },
+    {
+      "index": 21,
+      "file": "trips_index_parts/trips_index_021.json",
+      "count": 5000
+    },
+    {
+      "index": 22,
+      "file": "trips_index_parts/trips_index_022.json",
+      "count": 3065
+    }
+  ]
+}

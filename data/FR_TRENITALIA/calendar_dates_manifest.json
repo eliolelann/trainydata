@@ -1,0 +1,13 @@
+{
+  "country": "FR",
+  "source": "trenitalia-france",
+  "totalCalendarDates": 4295,
+  "chunkSize": 10000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "calendar_dates_parts/calendar_dates_000.json",
+      "count": 4295
+    }
+  ]
+}

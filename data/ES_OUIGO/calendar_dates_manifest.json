@@ -1,0 +1,13 @@
+{
+  "country": "ES",
+  "source": "ouigo",
+  "totalCalendarDates": 274,
+  "chunkSize": 10000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "calendar_dates_parts/calendar_dates_000.json",
+      "count": 274
+    }
+  ]
+}

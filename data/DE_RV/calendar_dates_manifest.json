@@ -1,0 +1,18 @@
+{
+  "country": "DE",
+  "source": "gtfs.de-rv",
+  "totalCalendarDates": 11755,
+  "chunkSize": 10000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "calendar_dates_parts/calendar_dates_000.json",
+      "count": 10000
+    },
+    {
+      "index": 1,
+      "file": "calendar_dates_parts/calendar_dates_001.json",
+      "count": 1755
+    }
+  ]
+}

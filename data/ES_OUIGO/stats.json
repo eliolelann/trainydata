@@ -1,0 +1,21 @@
+{
+  "country": "ES",
+  "source": "ouigo",
+  "filterMethod": "route_type",
+  "allowedRouteTypes": [
+    "101",
+    "2"
+  ],
+  "totalRoutes": 10,
+  "railRoutes": 10,
+  "totalTrips": 65,
+  "railTrips": 65,
+  "railStopTimes": 220,
+  "totalStops": 16,
+  "railStations": 16,
+  "generatedTripDetails": 65,
+  "tripsIndexParts": 1,
+  "stationTripsIndexFiles": 16,
+  "calendarDatesParts": 1,
+  "skipTripDetails": false
+}

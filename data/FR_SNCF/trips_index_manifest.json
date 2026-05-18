@@ -1,0 +1,58 @@
+{
+  "country": "FR",
+  "source": "sncf",
+  "totalTrips": 47131,
+  "chunkSize": 5000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "trips_index_parts/trips_index_000.json",
+      "count": 5000
+    },
+    {
+      "index": 1,
+      "file": "trips_index_parts/trips_index_001.json",
+      "count": 5000
+    },
+    {
+      "index": 2,
+      "file": "trips_index_parts/trips_index_002.json",
+      "count": 5000
+    },
+    {
+      "index": 3,
+      "file": "trips_index_parts/trips_index_003.json",
+      "count": 5000
+    },
+    {
+      "index": 4,
+      "file": "trips_index_parts/trips_index_004.json",
+      "count": 5000
+    },
+    {
+      "index": 5,
+      "file": "trips_index_parts/trips_index_005.json",
+      "count": 5000
+    },
+    {
+      "index": 6,
+      "file": "trips_index_parts/trips_index_006.json",
+      "count": 5000
+    },
+    {
+      "index": 7,
+      "file": "trips_index_parts/trips_index_007.json",
+      "count": 5000
+    },
+    {
+      "index": 8,
+      "file": "trips_index_parts/trips_index_008.json",
+      "count": 5000
+    },
+    {
+      "index": 9,
+      "file": "trips_index_parts/trips_index_009.json",
+      "count": 2131
+    }
+  ]
+}

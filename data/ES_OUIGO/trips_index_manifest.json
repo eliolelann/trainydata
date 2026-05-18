@@ -1,0 +1,13 @@
+{
+  "country": "ES",
+  "source": "ouigo",
+  "totalTrips": 65,
+  "chunkSize": 5000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "trips_index_parts/trips_index_000.json",
+      "count": 65
+    }
+  ]
+}

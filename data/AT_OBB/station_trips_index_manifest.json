@@ -1,0 +1,6932 @@
+{
+  "country": "AT",
+  "source": "oebb",
+  "totalStationsWithTrips": 1154,
+  "files": [
+    {
+      "stationId": "Pat:49:1349",
+      "file": "station_trips_index/Pat_49_1349.json",
+      "count": 3703,
+      "originalCount": 3703
+    },
+    {
+      "stationId": "Pat:49:1260",
+      "file": "station_trips_index/Pat_49_1260.json",
+      "count": 295,
+      "originalCount": 295
+    },
+    {
+      "stationId": "Pat:49:465",
+      "file": "station_trips_index/Pat_49_465.json",
+      "count": 113,
+      "originalCount": 113
+    },
+    {
+      "stationId": "Pat:49:1301",
+      "file": "station_trips_index/Pat_49_1301.json",
+      "count": 113,
+      "originalCount": 113
+    },
+    {
+      "stationId": "Pat:49:1299",
+      "file": "station_trips_index/Pat_49_1299.json",
+      "count": 295,
+      "originalCount": 295
+    },
+    {
+      "stationId": "Pat:49:288",
+      "file": "station_trips_index/Pat_49_288.json",
+      "count": 162,
+      "originalCount": 162
+    },
+    {
+      "stationId": "Pat:49:532",
+      "file": "station_trips_index/Pat_49_532.json",
+      "count": 162,
+      "originalCount": 162
+    },
+    {
+      "stationId": "Pat:49:910",
+      "file": "station_trips_index/Pat_49_910.json",
+      "count": 211,
+      "originalCount": 211
+    },
+    {
+      "stationId": "Pat:43:4613",
+      "file": "station_trips_index/Pat_43_4613.json",
+      "count": 54,
+      "originalCount": 54
+    },
+    {
+      "stationId": "Pat:43:3527",
+      "file": "station_trips_index/Pat_43_3527.json",
+      "count": 54,
+      "originalCount": 54
+    },
+    {
+      "stationId": "Pat:43:4764",
+      "file": "station_trips_index/Pat_43_4764.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:43:5090",
+      "file": "station_trips_index/Pat_43_5090.json",
+      "count": 54,
+      "originalCount": 54
+    },
+    {
+      "stationId": "Pat:43:4745",
+      "file": "station_trips_index/Pat_43_4745.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:43:3204",
+      "file": "station_trips_index/Pat_43_3204.json",
+      "count": 54,
+      "originalCount": 54
+    },
+    {
+      "stationId": "Pat:43:4132",
+      "file": "station_trips_index/Pat_43_4132.json",
+      "count": 197,
+      "originalCount": 197
+    },
+    {
+      "stationId": "Pat:48:134",
+      "file": "station_trips_index/Pat_48_134.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:48:892",
+      "file": "station_trips_index/Pat_48_892.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:48:139",
+      "file": "station_trips_index/Pat_48_139.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:48:326",
+      "file": "station_trips_index/Pat_48_326.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:48:187",
+      "file": "station_trips_index/Pat_48_187.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:48:1303",
+      "file": "station_trips_index/Pat_48_1303.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:48:511",
+      "file": "station_trips_index/Pat_48_511.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:48:413",
+      "file": "station_trips_index/Pat_48_413.json",
+      "count": 90,
+      "originalCount": 90
+    },
+    {
+      "stationId": "at:48:130:0:4",
+      "file": "station_trips_index/at_48_130_0_4.json",
+      "count": 176,
+      "originalCount": 176
+    },
+    {
+      "stationId": "Pat:48:1405",
+      "file": "station_trips_index/Pat_48_1405.json",
+      "count": 134,
+      "originalCount": 134
+    },
+    {
+      "stationId": "Pat:48:1305",
+      "file": "station_trips_index/Pat_48_1305.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "Pat:48:1377",
+      "file": "station_trips_index/Pat_48_1377.json",
+      "count": 183,
+      "originalCount": 183
+    },
+    {
+      "stationId": "Pat:48:1679",
+      "file": "station_trips_index/Pat_48_1679.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "Pat:48:868",
+      "file": "station_trips_index/Pat_48_868.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "at:48:817:0:5",
+      "file": "station_trips_index/at_48_817_0_5.json",
+      "count": 270,
+      "originalCount": 270
+    },
+    {
+      "stationId": "Pat:48:847",
+      "file": "station_trips_index/Pat_48_847.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "at:48:1436:0:2",
+      "file": "station_trips_index/at_48_1436_0_2.json",
+      "count": 134,
+      "originalCount": 134
+    },
+    {
+      "stationId": "Pat:48:233",
+      "file": "station_trips_index/Pat_48_233.json",
+      "count": 135,
+      "originalCount": 135
+    },
+    {
+      "stationId": "at:48:1184:0:5",
+      "file": "station_trips_index/at_48_1184_0_5.json",
+      "count": 69,
+      "originalCount": 69
+    },
+    {
+      "stationId": "Pat:48:1029",
+      "file": "station_trips_index/Pat_48_1029.json",
+      "count": 242,
+      "originalCount": 242
+    },
+    {
+      "stationId": "at:48:394:0:3",
+      "file": "station_trips_index/at_48_394_0_3.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "at:48:1133:0:2",
+      "file": "station_trips_index/at_48_1133_0_2.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:48:628",
+      "file": "station_trips_index/Pat_48_628.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "Pat:48:738",
+      "file": "station_trips_index/Pat_48_738.json",
+      "count": 161,
+      "originalCount": 161
+    },
+    {
+      "stationId": "at:48:585:0:3",
+      "file": "station_trips_index/at_48_585_0_3.json",
+      "count": 192,
+      "originalCount": 192
+    },
+    {
+      "stationId": "Pat:48:1099",
+      "file": "station_trips_index/Pat_48_1099.json",
+      "count": 155,
+      "originalCount": 155
+    },
+    {
+      "stationId": "Pat:48:146",
+      "file": "station_trips_index/Pat_48_146.json",
+      "count": 157,
+      "originalCount": 157
+    },
+    {
+      "stationId": "Pat:48:356",
+      "file": "station_trips_index/Pat_48_356.json",
+      "count": 160,
+      "originalCount": 160
+    },
+    {
+      "stationId": "Pat:48:1252",
+      "file": "station_trips_index/Pat_48_1252.json",
+      "count": 162,
+      "originalCount": 162
+    },
+    {
+      "stationId": "Pat:48:454",
+      "file": "station_trips_index/Pat_48_454.json",
+      "count": 316,
+      "originalCount": 316
+    },
+    {
+      "stationId": "Pat:48:452",
+      "file": "station_trips_index/Pat_48_452.json",
+      "count": 574,
+      "originalCount": 574
+    },
+    {
+      "stationId": "Pat:42:2127",
+      "file": "station_trips_index/Pat_42_2127.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "Pat:42:2128",
+      "file": "station_trips_index/Pat_42_2128.json",
+      "count": 281,
+      "originalCount": 281
+    },
+    {
+      "stationId": "Pat:46:3040",
+      "file": "station_trips_index/Pat_46_3040.json",
+      "count": 688,
+      "originalCount": 688
+    },
+    {
+      "stationId": "Pat:46:1758",
+      "file": "station_trips_index/Pat_46_1758.json",
+      "count": 130,
+      "originalCount": 130
+    },
+    {
+      "stationId": "Pat:46:525",
+      "file": "station_trips_index/Pat_46_525.json",
+      "count": 134,
+      "originalCount": 134
+    },
+    {
+      "stationId": "Pat:46:1759",
+      "file": "station_trips_index/Pat_46_1759.json",
+      "count": 130,
+      "originalCount": 130
+    },
+    {
+      "stationId": "Pat:46:1760",
+      "file": "station_trips_index/Pat_46_1760.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "Pat:46:2042",
+      "file": "station_trips_index/Pat_46_2042.json",
+      "count": 180,
+      "originalCount": 180
+    },
+    {
+      "stationId": "Pat:43:7242",
+      "file": "station_trips_index/Pat_43_7242.json",
+      "count": 349,
+      "originalCount": 349
+    },
+    {
+      "stationId": "Pat:43:7243",
+      "file": "station_trips_index/Pat_43_7243.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:44:41910",
+      "file": "station_trips_index/Pat_44_41910.json",
+      "count": 125,
+      "originalCount": 125
+    },
+    {
+      "stationId": "Pat:44:41900",
+      "file": "station_trips_index/Pat_44_41900.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "Pat:44:41027",
+      "file": "station_trips_index/Pat_44_41027.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "Pat:44:41121",
+      "file": "station_trips_index/Pat_44_41121.json",
+      "count": 108,
+      "originalCount": 108
+    },
+    {
+      "stationId": "Pat:44:41164",
+      "file": "station_trips_index/Pat_44_41164.json",
+      "count": 1603,
+      "originalCount": 1603
+    },
+    {
+      "stationId": "Pat:46:4498",
+      "file": "station_trips_index/Pat_46_4498.json",
+      "count": 307,
+      "originalCount": 307
+    },
+    {
+      "stationId": "Pat:46:4279",
+      "file": "station_trips_index/Pat_46_4279.json",
+      "count": 211,
+      "originalCount": 211
+    },
+    {
+      "stationId": "Pat:46:942",
+      "file": "station_trips_index/Pat_46_942.json",
+      "count": 144,
+      "originalCount": 144
+    },
+    {
+      "stationId": "Pat:46:1746",
+      "file": "station_trips_index/Pat_46_1746.json",
+      "count": 145,
+      "originalCount": 145
+    },
+    {
+      "stationId": "Pat:46:1794",
+      "file": "station_trips_index/Pat_46_1794.json",
+      "count": 145,
+      "originalCount": 145
+    },
+    {
+      "stationId": "Pat:46:1747",
+      "file": "station_trips_index/Pat_46_1747.json",
+      "count": 145,
+      "originalCount": 145
+    },
+    {
+      "stationId": "Pat:48:466",
+      "file": "station_trips_index/Pat_48_466.json",
+      "count": 202,
+      "originalCount": 202
+    },
+    {
+      "stationId": "Pat:48:889",
+      "file": "station_trips_index/Pat_48_889.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "de:09776:1592:1:1",
+      "file": "station_trips_index/de_09776_1592_1_1.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pde:09776:1546",
+      "file": "station_trips_index/Pde_09776_1546.json",
+      "count": 148,
+      "originalCount": 148
+    },
+    {
+      "stationId": "Pat:49:1015",
+      "file": "station_trips_index/Pat_49_1015.json",
+      "count": 3210,
+      "originalCount": 3210
+    },
+    {
+      "stationId": "Pat:49:849",
+      "file": "station_trips_index/Pat_49_849.json",
+      "count": 1645,
+      "originalCount": 1645
+    },
+    {
+      "stationId": "Pit:22021:1980",
+      "file": "station_trips_index/Pit_22021_1980.json",
+      "count": 148,
+      "originalCount": 148
+    },
+    {
+      "stationId": "Pit:22021:1219",
+      "file": "station_trips_index/Pit_22021_1219.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pit:22021:1961",
+      "file": "station_trips_index/Pit_22021_1961.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pit:22021:1922",
+      "file": "station_trips_index/Pit_22021_1922.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pit:22021:1899",
+      "file": "station_trips_index/Pit_22021_1899.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pit:22021:1891",
+      "file": "station_trips_index/Pit_22021_1891.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pit:22021:2308",
+      "file": "station_trips_index/Pit_22021_2308.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pit:22021:1194",
+      "file": "station_trips_index/Pit_22021_1194.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pat:42:3654",
+      "file": "station_trips_index/Pat_42_3654.json",
+      "count": 782,
+      "originalCount": 782
+    },
+    {
+      "stationId": "Pat:42:3655",
+      "file": "station_trips_index/Pat_42_3655.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:42:3814",
+      "file": "station_trips_index/Pat_42_3814.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:42:3813",
+      "file": "station_trips_index/Pat_42_3813.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:42:3812",
+      "file": "station_trips_index/Pat_42_3812.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:42:3811",
+      "file": "station_trips_index/Pat_42_3811.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:42:3810",
+      "file": "station_trips_index/Pat_42_3810.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:42:3809",
+      "file": "station_trips_index/Pat_42_3809.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:42:3808",
+      "file": "station_trips_index/Pat_42_3808.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:42:3807",
+      "file": "station_trips_index/Pat_42_3807.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:44:41072",
+      "file": "station_trips_index/Pat_44_41072.json",
+      "count": 112,
+      "originalCount": 112
+    },
+    {
+      "stationId": "Pat:44:41500",
+      "file": "station_trips_index/Pat_44_41500.json",
+      "count": 112,
+      "originalCount": 112
+    },
+    {
+      "stationId": "Pat:44:41501",
+      "file": "station_trips_index/Pat_44_41501.json",
+      "count": 114,
+      "originalCount": 114
+    },
+    {
+      "stationId": "Pat:44:41570",
+      "file": "station_trips_index/Pat_44_41570.json",
+      "count": 109,
+      "originalCount": 109
+    },
+    {
+      "stationId": "Pat:44:42300",
+      "file": "station_trips_index/Pat_44_42300.json",
+      "count": 209,
+      "originalCount": 209
+    },
+    {
+      "stationId": "Pat:44:42107",
+      "file": "station_trips_index/Pat_44_42107.json",
+      "count": 726,
+      "originalCount": 726
+    },
+    {
+      "stationId": "Pat:45:56702",
+      "file": "station_trips_index/Pat_45_56702.json",
+      "count": 226,
+      "originalCount": 226
+    },
+    {
+      "stationId": "Pat:45:51024",
+      "file": "station_trips_index/Pat_45_51024.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:45:51023",
+      "file": "station_trips_index/Pat_45_51023.json",
+      "count": 224,
+      "originalCount": 224
+    },
+    {
+      "stationId": "Pat:45:50002",
+      "file": "station_trips_index/Pat_45_50002.json",
+      "count": 1275,
+      "originalCount": 1275
+    },
+    {
+      "stationId": "Pch:23016:20302",
+      "file": "station_trips_index/Pch_23016_20302.json",
+      "count": 187,
+      "originalCount": 187
+    },
+    {
+      "stationId": "Pfl:21:104",
+      "file": "station_trips_index/Pfl_21_104.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "Pfl:21:4145",
+      "file": "station_trips_index/Pfl_21_4145.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "Pfl:21:1371",
+      "file": "station_trips_index/Pfl_21_1371.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "Pat:48:276",
+      "file": "station_trips_index/Pat_48_276.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "Pat:48:975",
+      "file": "station_trips_index/Pat_48_975.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "Pat:48:567",
+      "file": "station_trips_index/Pat_48_567.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "at:48:817:0:3",
+      "file": "station_trips_index/at_48_817_0_3.json",
+      "count": 117,
+      "originalCount": 117
+    },
+    {
+      "stationId": "Pat:49:1040",
+      "file": "station_trips_index/Pat_49_1040.json",
+      "count": 1851,
+      "originalCount": 1851
+    },
+    {
+      "stationId": "Pat:49:1385",
+      "file": "station_trips_index/Pat_49_1385.json",
+      "count": 1772,
+      "originalCount": 1772
+    },
+    {
+      "stationId": "Pat:49:1705",
+      "file": "station_trips_index/Pat_49_1705.json",
+      "count": 2316,
+      "originalCount": 2316
+    },
+    {
+      "stationId": "Pat:42:3844",
+      "file": "station_trips_index/Pat_42_3844.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:42:3843",
+      "file": "station_trips_index/Pat_42_3843.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:42:3847",
+      "file": "station_trips_index/Pat_42_3847.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:42:3842",
+      "file": "station_trips_index/Pat_42_3842.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:42:3642",
+      "file": "station_trips_index/Pat_42_3642.json",
+      "count": 622,
+      "originalCount": 622
+    },
+    {
+      "stationId": "Pat:46:977",
+      "file": "station_trips_index/Pat_46_977.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:46:3039",
+      "file": "station_trips_index/Pat_46_3039.json",
+      "count": 96,
+      "originalCount": 96
+    },
+    {
+      "stationId": "Pat:46:3747",
+      "file": "station_trips_index/Pat_46_3747.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:46:3038",
+      "file": "station_trips_index/Pat_46_3038.json",
+      "count": 100,
+      "originalCount": 100
+    },
+    {
+      "stationId": "Pat:44:41060",
+      "file": "station_trips_index/Pat_44_41060.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:45:50034",
+      "file": "station_trips_index/Pat_45_50034.json",
+      "count": 141,
+      "originalCount": 141
+    },
+    {
+      "stationId": "Pde:09172:42293",
+      "file": "station_trips_index/Pde_09172_42293.json",
+      "count": 575,
+      "originalCount": 575
+    },
+    {
+      "stationId": "Pat:48:1098",
+      "file": "station_trips_index/Pat_48_1098.json",
+      "count": 96,
+      "originalCount": 96
+    },
+    {
+      "stationId": "Pat:48:2383",
+      "file": "station_trips_index/Pat_48_2383.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:42:3662",
+      "file": "station_trips_index/Pat_42_3662.json",
+      "count": 96,
+      "originalCount": 96
+    },
+    {
+      "stationId": "Pat:42:3661",
+      "file": "station_trips_index/Pat_42_3661.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:42:3660",
+      "file": "station_trips_index/Pat_42_3660.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:42:3659",
+      "file": "station_trips_index/Pat_42_3659.json",
+      "count": 89,
+      "originalCount": 89
+    },
+    {
+      "stationId": "Pat:42:3657",
+      "file": "station_trips_index/Pat_42_3657.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:42:3656",
+      "file": "station_trips_index/Pat_42_3656.json",
+      "count": 147,
+      "originalCount": 147
+    },
+    {
+      "stationId": "Pat:44:41740",
+      "file": "station_trips_index/Pat_44_41740.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:44:41602",
+      "file": "station_trips_index/Pat_44_41602.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:44:41600",
+      "file": "station_trips_index/Pat_44_41600.json",
+      "count": 176,
+      "originalCount": 176
+    },
+    {
+      "stationId": "Pat:44:41601",
+      "file": "station_trips_index/Pat_44_41601.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:44:41298",
+      "file": "station_trips_index/Pat_44_41298.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:44:41224",
+      "file": "station_trips_index/Pat_44_41224.json",
+      "count": 100,
+      "originalCount": 100
+    },
+    {
+      "stationId": "Pat:47:1187",
+      "file": "station_trips_index/Pat_47_1187.json",
+      "count": 1258,
+      "originalCount": 1258
+    },
+    {
+      "stationId": "Pat:47:1189",
+      "file": "station_trips_index/Pat_47_1189.json",
+      "count": 389,
+      "originalCount": 389
+    },
+    {
+      "stationId": "Pat:47:1191",
+      "file": "station_trips_index/Pat_47_1191.json",
+      "count": 302,
+      "originalCount": 302
+    },
+    {
+      "stationId": "Pat:47:1192",
+      "file": "station_trips_index/Pat_47_1192.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:47:1194",
+      "file": "station_trips_index/Pat_47_1194.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:47:1195",
+      "file": "station_trips_index/Pat_47_1195.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:47:1196",
+      "file": "station_trips_index/Pat_47_1196.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:47:1197",
+      "file": "station_trips_index/Pat_47_1197.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:47:1193",
+      "file": "station_trips_index/Pat_47_1193.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:47:1198",
+      "file": "station_trips_index/Pat_47_1198.json",
+      "count": 328,
+      "originalCount": 328
+    },
+    {
+      "stationId": "Pat:47:1199",
+      "file": "station_trips_index/Pat_47_1199.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:47:1200",
+      "file": "station_trips_index/Pat_47_1200.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:47:1201",
+      "file": "station_trips_index/Pat_47_1201.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:47:1202",
+      "file": "station_trips_index/Pat_47_1202.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:47:1203",
+      "file": "station_trips_index/Pat_47_1203.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:47:1204",
+      "file": "station_trips_index/Pat_47_1204.json",
+      "count": 304,
+      "originalCount": 304
+    },
+    {
+      "stationId": "Pat:43:5057",
+      "file": "station_trips_index/Pat_43_5057.json",
+      "count": 297,
+      "originalCount": 297
+    },
+    {
+      "stationId": "Pat:43:5034",
+      "file": "station_trips_index/Pat_43_5034.json",
+      "count": 514,
+      "originalCount": 514
+    },
+    {
+      "stationId": "Pat:49:560",
+      "file": "station_trips_index/Pat_49_560.json",
+      "count": 1122,
+      "originalCount": 1122
+    },
+    {
+      "stationId": "Pat:49:1003",
+      "file": "station_trips_index/Pat_49_1003.json",
+      "count": 738,
+      "originalCount": 738
+    },
+    {
+      "stationId": "Pat:42:2137",
+      "file": "station_trips_index/Pat_42_2137.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:42:2138",
+      "file": "station_trips_index/Pat_42_2138.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:42:2139",
+      "file": "station_trips_index/Pat_42_2139.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:42:2149",
+      "file": "station_trips_index/Pat_42_2149.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:46:2065",
+      "file": "station_trips_index/Pat_46_2065.json",
+      "count": 470,
+      "originalCount": 470
+    },
+    {
+      "stationId": "Pat:46:1745",
+      "file": "station_trips_index/Pat_46_1745.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:46:2051",
+      "file": "station_trips_index/Pat_46_2051.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:46:1748",
+      "file": "station_trips_index/Pat_46_1748.json",
+      "count": 139,
+      "originalCount": 139
+    },
+    {
+      "stationId": "Pat:46:1749",
+      "file": "station_trips_index/Pat_46_1749.json",
+      "count": 132,
+      "originalCount": 132
+    },
+    {
+      "stationId": "Pat:46:3918",
+      "file": "station_trips_index/Pat_46_3918.json",
+      "count": 190,
+      "originalCount": 190
+    },
+    {
+      "stationId": "Pat:46:1827",
+      "file": "station_trips_index/Pat_46_1827.json",
+      "count": 197,
+      "originalCount": 197
+    },
+    {
+      "stationId": "Pat:43:4605",
+      "file": "station_trips_index/Pat_43_4605.json",
+      "count": 185,
+      "originalCount": 185
+    },
+    {
+      "stationId": "Pat:43:4601",
+      "file": "station_trips_index/Pat_43_4601.json",
+      "count": 185,
+      "originalCount": 185
+    },
+    {
+      "stationId": "Pat:49:1458",
+      "file": "station_trips_index/Pat_49_1458.json",
+      "count": 185,
+      "originalCount": 185
+    },
+    {
+      "stationId": "Pat:49:460",
+      "file": "station_trips_index/Pat_49_460.json",
+      "count": 185,
+      "originalCount": 185
+    },
+    {
+      "stationId": "Pat:49:1482",
+      "file": "station_trips_index/Pat_49_1482.json",
+      "count": 185,
+      "originalCount": 185
+    },
+    {
+      "stationId": "Pat:49:1468",
+      "file": "station_trips_index/Pat_49_1468.json",
+      "count": 485,
+      "originalCount": 485
+    },
+    {
+      "stationId": "Pat:46:1753",
+      "file": "station_trips_index/Pat_46_1753.json",
+      "count": 34,
+      "originalCount": 34
+    },
+    {
+      "stationId": "Pat:46:1752",
+      "file": "station_trips_index/Pat_46_1752.json",
+      "count": 34,
+      "originalCount": 34
+    },
+    {
+      "stationId": "Pat:46:1751",
+      "file": "station_trips_index/Pat_46_1751.json",
+      "count": 34,
+      "originalCount": 34
+    },
+    {
+      "stationId": "Pat:46:1839",
+      "file": "station_trips_index/Pat_46_1839.json",
+      "count": 162,
+      "originalCount": 162
+    },
+    {
+      "stationId": "Pat:42:2136",
+      "file": "station_trips_index/Pat_42_2136.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:42:2134",
+      "file": "station_trips_index/Pat_42_2134.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:42:2133",
+      "file": "station_trips_index/Pat_42_2133.json",
+      "count": 90,
+      "originalCount": 90
+    },
+    {
+      "stationId": "Pat:42:2132",
+      "file": "station_trips_index/Pat_42_2132.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:42:2131",
+      "file": "station_trips_index/Pat_42_2131.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:42:2130",
+      "file": "station_trips_index/Pat_42_2130.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:47:2221",
+      "file": "station_trips_index/Pat_47_2221.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:47:2222",
+      "file": "station_trips_index/Pat_47_2222.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:47:2223",
+      "file": "station_trips_index/Pat_47_2223.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:47:2225",
+      "file": "station_trips_index/Pat_47_2225.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:47:2226",
+      "file": "station_trips_index/Pat_47_2226.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:47:2227",
+      "file": "station_trips_index/Pat_47_2227.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:47:2228",
+      "file": "station_trips_index/Pat_47_2228.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:49:1257",
+      "file": "station_trips_index/Pat_49_1257.json",
+      "count": 386,
+      "originalCount": 386
+    },
+    {
+      "stationId": "Pat:43:3895",
+      "file": "station_trips_index/Pat_43_3895.json",
+      "count": 148,
+      "originalCount": 148
+    },
+    {
+      "stationId": "Pat:43:4054",
+      "file": "station_trips_index/Pat_43_4054.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:43:3538",
+      "file": "station_trips_index/Pat_43_3538.json",
+      "count": 325,
+      "originalCount": 325
+    },
+    {
+      "stationId": "Pat:43:3655",
+      "file": "station_trips_index/Pat_43_3655.json",
+      "count": 138,
+      "originalCount": 138
+    },
+    {
+      "stationId": "Pat:43:5013",
+      "file": "station_trips_index/Pat_43_5013.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:43:4688",
+      "file": "station_trips_index/Pat_43_4688.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:43:5239",
+      "file": "station_trips_index/Pat_43_5239.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:43:3209",
+      "file": "station_trips_index/Pat_43_3209.json",
+      "count": 413,
+      "originalCount": 413
+    },
+    {
+      "stationId": "Pat:49:582",
+      "file": "station_trips_index/Pat_49_582.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:43:3723",
+      "file": "station_trips_index/Pat_43_3723.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:43:3008",
+      "file": "station_trips_index/Pat_43_3008.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:43:4231",
+      "file": "station_trips_index/Pat_43_4231.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:43:3653",
+      "file": "station_trips_index/Pat_43_3653.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:43:5147",
+      "file": "station_trips_index/Pat_43_5147.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:43:4562",
+      "file": "station_trips_index/Pat_43_4562.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:3318",
+      "file": "station_trips_index/Pat_43_3318.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:5072",
+      "file": "station_trips_index/Pat_43_5072.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:4395",
+      "file": "station_trips_index/Pat_43_4395.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:5227",
+      "file": "station_trips_index/Pat_43_5227.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:5210",
+      "file": "station_trips_index/Pat_43_5210.json",
+      "count": 1480,
+      "originalCount": 1480
+    },
+    {
+      "stationId": "Pat:42:3641",
+      "file": "station_trips_index/Pat_42_3641.json",
+      "count": 98,
+      "originalCount": 98
+    },
+    {
+      "stationId": "Pat:42:3640",
+      "file": "station_trips_index/Pat_42_3640.json",
+      "count": 154,
+      "originalCount": 154
+    },
+    {
+      "stationId": "Pat:42:3639",
+      "file": "station_trips_index/Pat_42_3639.json",
+      "count": 98,
+      "originalCount": 98
+    },
+    {
+      "stationId": "Pat:42:3636",
+      "file": "station_trips_index/Pat_42_3636.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:42:3633",
+      "file": "station_trips_index/Pat_42_3633.json",
+      "count": 172,
+      "originalCount": 172
+    },
+    {
+      "stationId": "Pat:43:4710",
+      "file": "station_trips_index/Pat_43_4710.json",
+      "count": 490,
+      "originalCount": 490
+    },
+    {
+      "stationId": "Pat:49:1780",
+      "file": "station_trips_index/Pat_49_1780.json",
+      "count": 521,
+      "originalCount": 521
+    },
+    {
+      "stationId": "Pat:46:6344",
+      "file": "station_trips_index/Pat_46_6344.json",
+      "count": 280,
+      "originalCount": 280
+    },
+    {
+      "stationId": "Pat:46:30454",
+      "file": "station_trips_index/Pat_46_30454.json",
+      "count": 125,
+      "originalCount": 125
+    },
+    {
+      "stationId": "Pat:46:7461",
+      "file": "station_trips_index/Pat_46_7461.json",
+      "count": 126,
+      "originalCount": 126
+    },
+    {
+      "stationId": "Pat:45:54104",
+      "file": "station_trips_index/Pat_45_54104.json",
+      "count": 198,
+      "originalCount": 198
+    },
+    {
+      "stationId": "Pat:45:54253",
+      "file": "station_trips_index/Pat_45_54253.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:45:54001",
+      "file": "station_trips_index/Pat_45_54001.json",
+      "count": 218,
+      "originalCount": 218
+    },
+    {
+      "stationId": "Pat:49:334",
+      "file": "station_trips_index/Pat_49_334.json",
+      "count": 1892,
+      "originalCount": 1892
+    },
+    {
+      "stationId": "Pat:46:6750",
+      "file": "station_trips_index/Pat_46_6750.json",
+      "count": 165,
+      "originalCount": 165
+    },
+    {
+      "stationId": "Pat:47:3879",
+      "file": "station_trips_index/Pat_47_3879.json",
+      "count": 100,
+      "originalCount": 100
+    },
+    {
+      "stationId": "Pat:47:3881",
+      "file": "station_trips_index/Pat_47_3881.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:47:3878",
+      "file": "station_trips_index/Pat_47_3878.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:47:3877",
+      "file": "station_trips_index/Pat_47_3877.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:47:3876",
+      "file": "station_trips_index/Pat_47_3876.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:47:3875",
+      "file": "station_trips_index/Pat_47_3875.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:47:3873",
+      "file": "station_trips_index/Pat_47_3873.json",
+      "count": 152,
+      "originalCount": 152
+    },
+    {
+      "stationId": "Pat:47:1184",
+      "file": "station_trips_index/Pat_47_1184.json",
+      "count": 425,
+      "originalCount": 425
+    },
+    {
+      "stationId": "Pat:47:1183",
+      "file": "station_trips_index/Pat_47_1183.json",
+      "count": 205,
+      "originalCount": 205
+    },
+    {
+      "stationId": "Pat:47:1182",
+      "file": "station_trips_index/Pat_47_1182.json",
+      "count": 205,
+      "originalCount": 205
+    },
+    {
+      "stationId": "Pat:47:1181",
+      "file": "station_trips_index/Pat_47_1181.json",
+      "count": 205,
+      "originalCount": 205
+    },
+    {
+      "stationId": "Pat:47:1180",
+      "file": "station_trips_index/Pat_47_1180.json",
+      "count": 205,
+      "originalCount": 205
+    },
+    {
+      "stationId": "Pat:47:1179",
+      "file": "station_trips_index/Pat_47_1179.json",
+      "count": 410,
+      "originalCount": 410
+    },
+    {
+      "stationId": "Pat:47:1178",
+      "file": "station_trips_index/Pat_47_1178.json",
+      "count": 205,
+      "originalCount": 205
+    },
+    {
+      "stationId": "Pat:47:61321",
+      "file": "station_trips_index/Pat_47_61321.json",
+      "count": 810,
+      "originalCount": 810
+    },
+    {
+      "stationId": "Pat:47:2263",
+      "file": "station_trips_index/Pat_47_2263.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:47:2264",
+      "file": "station_trips_index/Pat_47_2264.json",
+      "count": 112,
+      "originalCount": 112
+    },
+    {
+      "stationId": "Pat:47:2184",
+      "file": "station_trips_index/Pat_47_2184.json",
+      "count": 943,
+      "originalCount": 943
+    },
+    {
+      "stationId": "Pat:47:2183",
+      "file": "station_trips_index/Pat_47_2183.json",
+      "count": 202,
+      "originalCount": 202
+    },
+    {
+      "stationId": "Pat:47:2181",
+      "file": "station_trips_index/Pat_47_2181.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:47:1170",
+      "file": "station_trips_index/Pat_47_1170.json",
+      "count": 977,
+      "originalCount": 977
+    },
+    {
+      "stationId": "Pat:47:1172",
+      "file": "station_trips_index/Pat_47_1172.json",
+      "count": 235,
+      "originalCount": 235
+    },
+    {
+      "stationId": "Pat:47:1173",
+      "file": "station_trips_index/Pat_47_1173.json",
+      "count": 235,
+      "originalCount": 235
+    },
+    {
+      "stationId": "Pat:47:1174",
+      "file": "station_trips_index/Pat_47_1174.json",
+      "count": 235,
+      "originalCount": 235
+    },
+    {
+      "stationId": "Pat:47:1175",
+      "file": "station_trips_index/Pat_47_1175.json",
+      "count": 235,
+      "originalCount": 235
+    },
+    {
+      "stationId": "Pat:47:294",
+      "file": "station_trips_index/Pat_47_294.json",
+      "count": 216,
+      "originalCount": 216
+    },
+    {
+      "stationId": "Pat:47:1186",
+      "file": "station_trips_index/Pat_47_1186.json",
+      "count": 361,
+      "originalCount": 361
+    },
+    {
+      "stationId": "Pat:42:2121",
+      "file": "station_trips_index/Pat_42_2121.json",
+      "count": 217,
+      "originalCount": 217
+    },
+    {
+      "stationId": "Pat:45:52204",
+      "file": "station_trips_index/Pat_45_52204.json",
+      "count": 177,
+      "originalCount": 177
+    },
+    {
+      "stationId": "Pat:45:52197",
+      "file": "station_trips_index/Pat_45_52197.json",
+      "count": 376,
+      "originalCount": 376
+    },
+    {
+      "stationId": "Pat:45:52385",
+      "file": "station_trips_index/Pat_45_52385.json",
+      "count": 263,
+      "originalCount": 263
+    },
+    {
+      "stationId": "Pat:45:52099",
+      "file": "station_trips_index/Pat_45_52099.json",
+      "count": 302,
+      "originalCount": 302
+    },
+    {
+      "stationId": "Pat:45:50591",
+      "file": "station_trips_index/Pat_45_50591.json",
+      "count": 292,
+      "originalCount": 292
+    },
+    {
+      "stationId": "Pat:43:4848",
+      "file": "station_trips_index/Pat_43_4848.json",
+      "count": 1533,
+      "originalCount": 1533
+    },
+    {
+      "stationId": "Phu:17905:27000493",
+      "file": "station_trips_index/Phu_17905_27000493.json",
+      "count": 235,
+      "originalCount": 235
+    },
+    {
+      "stationId": "Pat:43:4708",
+      "file": "station_trips_index/Pat_43_4708.json",
+      "count": 769,
+      "originalCount": 769
+    },
+    {
+      "stationId": "Pat:43:7234",
+      "file": "station_trips_index/Pat_43_7234.json",
+      "count": 405,
+      "originalCount": 405
+    },
+    {
+      "stationId": "Pat:43:5759",
+      "file": "station_trips_index/Pat_43_5759.json",
+      "count": 395,
+      "originalCount": 395
+    },
+    {
+      "stationId": "Pat:45:54179",
+      "file": "station_trips_index/Pat_45_54179.json",
+      "count": 95,
+      "originalCount": 95
+    },
+    {
+      "stationId": "Pat:45:54180",
+      "file": "station_trips_index/Pat_45_54180.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:45:52191",
+      "file": "station_trips_index/Pat_45_52191.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:45:52434",
+      "file": "station_trips_index/Pat_45_52434.json",
+      "count": 113,
+      "originalCount": 113
+    },
+    {
+      "stationId": "Pat:45:50580",
+      "file": "station_trips_index/Pat_45_50580.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:45:50494",
+      "file": "station_trips_index/Pat_45_50494.json",
+      "count": 193,
+      "originalCount": 193
+    },
+    {
+      "stationId": "Pat:45:50458",
+      "file": "station_trips_index/Pat_45_50458.json",
+      "count": 194,
+      "originalCount": 194
+    },
+    {
+      "stationId": "Pat:46:6938",
+      "file": "station_trips_index/Pat_46_6938.json",
+      "count": 237,
+      "originalCount": 237
+    },
+    {
+      "stationId": "Pat:46:7449",
+      "file": "station_trips_index/Pat_46_7449.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:44:43660",
+      "file": "station_trips_index/Pat_44_43660.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:44:43649",
+      "file": "station_trips_index/Pat_44_43649.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:44:43640",
+      "file": "station_trips_index/Pat_44_43640.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:44:43620",
+      "file": "station_trips_index/Pat_44_43620.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "Pat:44:43589",
+      "file": "station_trips_index/Pat_44_43589.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:44:43510",
+      "file": "station_trips_index/Pat_44_43510.json",
+      "count": 96,
+      "originalCount": 96
+    },
+    {
+      "stationId": "Pat:44:43500",
+      "file": "station_trips_index/Pat_44_43500.json",
+      "count": 166,
+      "originalCount": 166
+    },
+    {
+      "stationId": "Pat:44:42390",
+      "file": "station_trips_index/Pat_44_42390.json",
+      "count": 172,
+      "originalCount": 172
+    },
+    {
+      "stationId": "Pat:44:43450",
+      "file": "station_trips_index/Pat_44_43450.json",
+      "count": 174,
+      "originalCount": 174
+    },
+    {
+      "stationId": "Pat:44:41761",
+      "file": "station_trips_index/Pat_44_41761.json",
+      "count": 174,
+      "originalCount": 174
+    },
+    {
+      "stationId": "Pat:47:1206",
+      "file": "station_trips_index/Pat_47_1206.json",
+      "count": 259,
+      "originalCount": 259
+    },
+    {
+      "stationId": "Pat:47:1212",
+      "file": "station_trips_index/Pat_47_1212.json",
+      "count": 431,
+      "originalCount": 431
+    },
+    {
+      "stationId": "Pat:47:1222",
+      "file": "station_trips_index/Pat_47_1222.json",
+      "count": 217,
+      "originalCount": 217
+    },
+    {
+      "stationId": "Pat:48:1226",
+      "file": "station_trips_index/Pat_48_1226.json",
+      "count": 203,
+      "originalCount": 203
+    },
+    {
+      "stationId": "at:48:130:0:11",
+      "file": "station_trips_index/at_48_130_0_11.json",
+      "count": 186,
+      "originalCount": 186
+    },
+    {
+      "stationId": "Pat:42:3866",
+      "file": "station_trips_index/Pat_42_3866.json",
+      "count": 52,
+      "originalCount": 52
+    },
+    {
+      "stationId": "Pat:42:3870",
+      "file": "station_trips_index/Pat_42_3870.json",
+      "count": 52,
+      "originalCount": 52
+    },
+    {
+      "stationId": "Pat:45:52201",
+      "file": "station_trips_index/Pat_45_52201.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "Pat:45:52199",
+      "file": "station_trips_index/Pat_45_52199.json",
+      "count": 52,
+      "originalCount": 52
+    },
+    {
+      "stationId": "Pit:22095:7068",
+      "file": "station_trips_index/Pit_22095_7068.json",
+      "count": 157,
+      "originalCount": 157
+    },
+    {
+      "stationId": "Pch:23026:688",
+      "file": "station_trips_index/Pch_23026_688.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pch:23026:20038",
+      "file": "station_trips_index/Pch_23026_20038.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pch:23016:20307",
+      "file": "station_trips_index/Pch_23016_20307.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pch:23016:20309",
+      "file": "station_trips_index/Pch_23016_20309.json",
+      "count": 230,
+      "originalCount": 230
+    },
+    {
+      "stationId": "Pde:09262:156",
+      "file": "station_trips_index/Pde_09262_156.json",
+      "count": 572,
+      "originalCount": 572
+    },
+    {
+      "stationId": "Pde:09162:100",
+      "file": "station_trips_index/Pde_09162_100.json",
+      "count": 277,
+      "originalCount": 277
+    },
+    {
+      "stationId": "Pde:09163:9",
+      "file": "station_trips_index/Pde_09163_9.json",
+      "count": 364,
+      "originalCount": 364
+    },
+    {
+      "stationId": "Psk:56:2",
+      "file": "station_trips_index/Psk_56_2.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Psk:56:1",
+      "file": "station_trips_index/Psk_56_1.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "Pat:45:52205",
+      "file": "station_trips_index/Pat_45_52205.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:46:7426",
+      "file": "station_trips_index/Pat_46_7426.json",
+      "count": 198,
+      "originalCount": 198
+    },
+    {
+      "stationId": "Pcz:0:5433425",
+      "file": "station_trips_index/Pcz_0_5433425.json",
+      "count": 226,
+      "originalCount": 226
+    },
+    {
+      "stationId": "Pat:42:3721",
+      "file": "station_trips_index/Pat_42_3721.json",
+      "count": 269,
+      "originalCount": 269
+    },
+    {
+      "stationId": "Pat:46:30077",
+      "file": "station_trips_index/Pat_46_30077.json",
+      "count": 127,
+      "originalCount": 127
+    },
+    {
+      "stationId": "at:48:817:0:4",
+      "file": "station_trips_index/at_48_817_0_4.json",
+      "count": 212,
+      "originalCount": 212
+    },
+    {
+      "stationId": "at:48:1436:0:3",
+      "file": "station_trips_index/at_48_1436_0_3.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "at:48:1133:0:3",
+      "file": "station_trips_index/at_48_1133_0_3.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "at:48:585:0:4",
+      "file": "station_trips_index/at_48_585_0_4.json",
+      "count": 190,
+      "originalCount": 190
+    },
+    {
+      "stationId": "Pat:49:1350",
+      "file": "station_trips_index/Pat_49_1350.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "Pat:44:47200",
+      "file": "station_trips_index/Pat_44_47200.json",
+      "count": 488,
+      "originalCount": 488
+    },
+    {
+      "stationId": "Pat:44:47000",
+      "file": "station_trips_index/Pat_44_47000.json",
+      "count": 246,
+      "originalCount": 246
+    },
+    {
+      "stationId": "at:48:130:0:1",
+      "file": "station_trips_index/at_48_130_0_1.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "Pat:42:3650",
+      "file": "station_trips_index/Pat_42_3650.json",
+      "count": 300,
+      "originalCount": 300
+    },
+    {
+      "stationId": "Pat:42:3648",
+      "file": "station_trips_index/Pat_42_3648.json",
+      "count": 210,
+      "originalCount": 210
+    },
+    {
+      "stationId": "Psi:63:5948",
+      "file": "station_trips_index/Psi_63_5948.json",
+      "count": 100,
+      "originalCount": 100
+    },
+    {
+      "stationId": "Psi:63:102",
+      "file": "station_trips_index/Psi_63_102.json",
+      "count": 92,
+      "originalCount": 92
+    },
+    {
+      "stationId": "Pat:46:30205",
+      "file": "station_trips_index/Pat_46_30205.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pch:23016:20329",
+      "file": "station_trips_index/Pch_23016_20329.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Pcz:0:5433295",
+      "file": "station_trips_index/Pcz_0_5433295.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "Pcz:55100:NVBW_99212",
+      "file": "station_trips_index/Pcz_55100_NVBW_99212.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "Pcz:0:5457256",
+      "file": "station_trips_index/Pcz_0_5457256.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "Pcz:0:5455659",
+      "file": "station_trips_index/Pcz_0_5455659.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "Pde:05913:131",
+      "file": "station_trips_index/Pde_05913_131.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pde:09564:510",
+      "file": "station_trips_index/Pde_09564_510.json",
+      "count": 548,
+      "originalCount": 548
+    },
+    {
+      "stationId": "Pde:09761:100",
+      "file": "station_trips_index/Pde_09761_100.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pde:02000:80953",
+      "file": "station_trips_index/Pde_02000_80953.json",
+      "count": 232,
+      "originalCount": 232
+    },
+    {
+      "stationId": "de:02000:10950:4:14",
+      "file": "station_trips_index/de_02000_10950_4_14.json",
+      "count": 124,
+      "originalCount": 124
+    },
+    {
+      "stationId": "Pde:09162:5",
+      "file": "station_trips_index/Pde_09162_5.json",
+      "count": 120,
+      "originalCount": 120
+    },
+    {
+      "stationId": "de:02000:10950:3:11",
+      "file": "station_trips_index/de_02000_10950_3_11.json",
+      "count": 109,
+      "originalCount": 109
+    },
+    {
+      "stationId": "it:22099:110:51:1",
+      "file": "station_trips_index/it_22099_110_51_1.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "Pit:22099:7023",
+      "file": "station_trips_index/Pit_22099_7023.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "Pit:22095:7049",
+      "file": "station_trips_index/Pit_22095_7049.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Phr:62:80",
+      "file": "station_trips_index/Phr_62_80.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "si:63:311:0:3",
+      "file": "station_trips_index/si_63_311_0_3.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "Phr:62:65",
+      "file": "station_trips_index/Phr_62_65.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Psi:63:106",
+      "file": "station_trips_index/Psi_63_106.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "Pat:44:45090",
+      "file": "station_trips_index/Pat_44_45090.json",
+      "count": 102,
+      "originalCount": 102
+    },
+    {
+      "stationId": "Pat:44:45450",
+      "file": "station_trips_index/Pat_44_45450.json",
+      "count": 36,
+      "originalCount": 36
+    },
+    {
+      "stationId": "Pat:44:49759",
+      "file": "station_trips_index/Pat_44_49759.json",
+      "count": 30,
+      "originalCount": 30
+    },
+    {
+      "stationId": "Pat:44:45000",
+      "file": "station_trips_index/Pat_44_45000.json",
+      "count": 36,
+      "originalCount": 36
+    },
+    {
+      "stationId": "Pat:44:45260",
+      "file": "station_trips_index/Pat_44_45260.json",
+      "count": 36,
+      "originalCount": 36
+    },
+    {
+      "stationId": "Pat:44:99981",
+      "file": "station_trips_index/Pat_44_99981.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "Pat:46:6092",
+      "file": "station_trips_index/Pat_46_6092.json",
+      "count": 183,
+      "originalCount": 183
+    },
+    {
+      "stationId": "Pat:43:8769",
+      "file": "station_trips_index/Pat_43_8769.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "Psk:56000:5613600",
+      "file": "station_trips_index/Psk_56000_5613600.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "Pat:47:1167",
+      "file": "station_trips_index/Pat_47_1167.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "Pat:47:1164",
+      "file": "station_trips_index/Pat_47_1164.json",
+      "count": 147,
+      "originalCount": 147
+    },
+    {
+      "stationId": "Pat:47:1163",
+      "file": "station_trips_index/Pat_47_1163.json",
+      "count": 170,
+      "originalCount": 170
+    },
+    {
+      "stationId": "Pat:47:1161",
+      "file": "station_trips_index/Pat_47_1161.json",
+      "count": 161,
+      "originalCount": 161
+    },
+    {
+      "stationId": "Pat:47:1160",
+      "file": "station_trips_index/Pat_47_1160.json",
+      "count": 170,
+      "originalCount": 170
+    },
+    {
+      "stationId": "Pat:47:1157",
+      "file": "station_trips_index/Pat_47_1157.json",
+      "count": 170,
+      "originalCount": 170
+    },
+    {
+      "stationId": "Pat:47:1155",
+      "file": "station_trips_index/Pat_47_1155.json",
+      "count": 161,
+      "originalCount": 161
+    },
+    {
+      "stationId": "Pat:47:1153",
+      "file": "station_trips_index/Pat_47_1153.json",
+      "count": 161,
+      "originalCount": 161
+    },
+    {
+      "stationId": "Pat:45:54276",
+      "file": "station_trips_index/Pat_45_54276.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "Pat:46:6892",
+      "file": "station_trips_index/Pat_46_6892.json",
+      "count": 158,
+      "originalCount": 158
+    },
+    {
+      "stationId": "Pat:46:7112",
+      "file": "station_trips_index/Pat_46_7112.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:46:7316",
+      "file": "station_trips_index/Pat_46_7316.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:46:7512",
+      "file": "station_trips_index/Pat_46_7512.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:46:7513",
+      "file": "station_trips_index/Pat_46_7513.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:46:7063",
+      "file": "station_trips_index/Pat_46_7063.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:44:46640",
+      "file": "station_trips_index/Pat_44_46640.json",
+      "count": 111,
+      "originalCount": 111
+    },
+    {
+      "stationId": "Pat:44:46631",
+      "file": "station_trips_index/Pat_44_46631.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:44:46580",
+      "file": "station_trips_index/Pat_44_46580.json",
+      "count": 111,
+      "originalCount": 111
+    },
+    {
+      "stationId": "Pat:44:46571",
+      "file": "station_trips_index/Pat_44_46571.json",
+      "count": 111,
+      "originalCount": 111
+    },
+    {
+      "stationId": "Pat:44:46500",
+      "file": "station_trips_index/Pat_44_46500.json",
+      "count": 118,
+      "originalCount": 118
+    },
+    {
+      "stationId": "Pat:44:46441",
+      "file": "station_trips_index/Pat_44_46441.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "Pat:44:46011",
+      "file": "station_trips_index/Pat_44_46011.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "Pat:44:46010",
+      "file": "station_trips_index/Pat_44_46010.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "Pua:22010",
+      "file": "station_trips_index/Pua_22010.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "Phu:55635",
+      "file": "station_trips_index/Phu_55635.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "Pat:42:3632",
+      "file": "station_trips_index/Pat_42_3632.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:42:3631",
+      "file": "station_trips_index/Pat_42_3631.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:42:3629",
+      "file": "station_trips_index/Pat_42_3629.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:42:3628",
+      "file": "station_trips_index/Pat_42_3628.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:42:3627",
+      "file": "station_trips_index/Pat_42_3627.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "Pat:42:3626",
+      "file": "station_trips_index/Pat_42_3626.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:42:3625",
+      "file": "station_trips_index/Pat_42_3625.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "at:48:130:0:10",
+      "file": "station_trips_index/at_48_130_0_10.json",
+      "count": 134,
+      "originalCount": 134
+    },
+    {
+      "stationId": "Pde:09277:80490",
+      "file": "station_trips_index/Pde_09277_80490.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pit:22021:1389",
+      "file": "station_trips_index/Pit_22021_1389.json",
+      "count": 152,
+      "originalCount": 152
+    },
+    {
+      "stationId": "Pat:45:50273",
+      "file": "station_trips_index/Pat_45_50273.json",
+      "count": 321,
+      "originalCount": 321
+    },
+    {
+      "stationId": "de:09776:1592:2:2",
+      "file": "station_trips_index/de_09776_1592_2_2.json",
+      "count": 154,
+      "originalCount": 154
+    },
+    {
+      "stationId": "Pat:49:743",
+      "file": "station_trips_index/Pat_49_743.json",
+      "count": 1355,
+      "originalCount": 1355
+    },
+    {
+      "stationId": "Pat:47:2266",
+      "file": "station_trips_index/Pat_47_2266.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:47:2265",
+      "file": "station_trips_index/Pat_47_2265.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:46:7420",
+      "file": "station_trips_index/Pat_46_7420.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "Pat:46:6155",
+      "file": "station_trips_index/Pat_46_6155.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "Pat:46:6313",
+      "file": "station_trips_index/Pat_46_6313.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "Pat:46:7423",
+      "file": "station_trips_index/Pat_46_7423.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "Pat:46:6539",
+      "file": "station_trips_index/Pat_46_6539.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "Pat:46:7424",
+      "file": "station_trips_index/Pat_46_7424.json",
+      "count": 69,
+      "originalCount": 69
+    },
+    {
+      "stationId": "Phu:08518:27001898",
+      "file": "station_trips_index/Phu_08518_27001898.json",
+      "count": 100,
+      "originalCount": 100
+    },
+    {
+      "stationId": "Pat:41:3145",
+      "file": "station_trips_index/Pat_41_3145.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "Pat:41:3303",
+      "file": "station_trips_index/Pat_41_3303.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "Pat:41:5286",
+      "file": "station_trips_index/Pat_41_5286.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "Pat:41:3294",
+      "file": "station_trips_index/Pat_41_3294.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "Pat:46:1960",
+      "file": "station_trips_index/Pat_46_1960.json",
+      "count": 164,
+      "originalCount": 164
+    },
+    {
+      "stationId": "Pat:46:1923",
+      "file": "station_trips_index/Pat_46_1923.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:46:28",
+      "file": "station_trips_index/Pat_46_28.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:46:2244",
+      "file": "station_trips_index/Pat_46_2244.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:46:1761",
+      "file": "station_trips_index/Pat_46_1761.json",
+      "count": 95,
+      "originalCount": 95
+    },
+    {
+      "stationId": "Pat:46:5511",
+      "file": "station_trips_index/Pat_46_5511.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:46:7471",
+      "file": "station_trips_index/Pat_46_7471.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "Pat:46:7470",
+      "file": "station_trips_index/Pat_46_7470.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "Pat:46:7469",
+      "file": "station_trips_index/Pat_46_7469.json",
+      "count": 131,
+      "originalCount": 131
+    },
+    {
+      "stationId": "Pat:46:7468",
+      "file": "station_trips_index/Pat_46_7468.json",
+      "count": 131,
+      "originalCount": 131
+    },
+    {
+      "stationId": "Pat:46:7466",
+      "file": "station_trips_index/Pat_46_7466.json",
+      "count": 131,
+      "originalCount": 131
+    },
+    {
+      "stationId": "Pit:22032:trieste-centrale",
+      "file": "station_trips_index/Pit_22032_trieste-centrale.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "Pat:46:7438",
+      "file": "station_trips_index/Pat_46_7438.json",
+      "count": 55,
+      "originalCount": 55
+    },
+    {
+      "stationId": "Pat:46:7437",
+      "file": "station_trips_index/Pat_46_7437.json",
+      "count": 149,
+      "originalCount": 149
+    },
+    {
+      "stationId": "Pat:46:6947",
+      "file": "station_trips_index/Pat_46_6947.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:46:7436",
+      "file": "station_trips_index/Pat_46_7436.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:46:7435",
+      "file": "station_trips_index/Pat_46_7435.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:46:7433",
+      "file": "station_trips_index/Pat_46_7433.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:46:7432",
+      "file": "station_trips_index/Pat_46_7432.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:46:6770",
+      "file": "station_trips_index/Pat_46_6770.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:46:7431",
+      "file": "station_trips_index/Pat_46_7431.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:44:49000",
+      "file": "station_trips_index/Pat_44_49000.json",
+      "count": 168,
+      "originalCount": 168
+    },
+    {
+      "stationId": "Pat:44:49190",
+      "file": "station_trips_index/Pat_44_49190.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:49210",
+      "file": "station_trips_index/Pat_44_49210.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:49220",
+      "file": "station_trips_index/Pat_44_49220.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:49650",
+      "file": "station_trips_index/Pat_44_49650.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:48315",
+      "file": "station_trips_index/Pat_44_48315.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:49666",
+      "file": "station_trips_index/Pat_44_49666.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:40179",
+      "file": "station_trips_index/Pat_44_40179.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:49331",
+      "file": "station_trips_index/Pat_44_49331.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:45:56483",
+      "file": "station_trips_index/Pat_45_56483.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:45:50281",
+      "file": "station_trips_index/Pat_45_50281.json",
+      "count": 88,
+      "originalCount": 88
+    },
+    {
+      "stationId": "Pat:45:56183",
+      "file": "station_trips_index/Pat_45_56183.json",
+      "count": 225,
+      "originalCount": 225
+    },
+    {
+      "stationId": "Pat:44:44900",
+      "file": "station_trips_index/Pat_44_44900.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:44:44881",
+      "file": "station_trips_index/Pat_44_44881.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:44:44880",
+      "file": "station_trips_index/Pat_44_44880.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "Pat:44:44961",
+      "file": "station_trips_index/Pat_44_44961.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:44960",
+      "file": "station_trips_index/Pat_44_44960.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:44850",
+      "file": "station_trips_index/Pat_44_44850.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:40222",
+      "file": "station_trips_index/Pat_44_40222.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:44500",
+      "file": "station_trips_index/Pat_44_44500.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:44550",
+      "file": "station_trips_index/Pat_44_44550.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "Pat:44:44551",
+      "file": "station_trips_index/Pat_44_44551.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:44410",
+      "file": "station_trips_index/Pat_44_44410.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:43:7211",
+      "file": "station_trips_index/Pat_43_7211.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "Pat:44:49844",
+      "file": "station_trips_index/Pat_44_49844.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:44:49841",
+      "file": "station_trips_index/Pat_44_49841.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:44:45530",
+      "file": "station_trips_index/Pat_44_45530.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "Pat:44:45500",
+      "file": "station_trips_index/Pat_44_45500.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:44:45550",
+      "file": "station_trips_index/Pat_44_45550.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:44:45680",
+      "file": "station_trips_index/Pat_44_45680.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:44:45750",
+      "file": "station_trips_index/Pat_44_45750.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "Pat:44:45765",
+      "file": "station_trips_index/Pat_44_45765.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "Pat:44:45780",
+      "file": "station_trips_index/Pat_44_45780.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:44:44052",
+      "file": "station_trips_index/Pat_44_44052.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:44:44050",
+      "file": "station_trips_index/Pat_44_44050.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:44:44040",
+      "file": "station_trips_index/Pat_44_44040.json",
+      "count": 123,
+      "originalCount": 123
+    },
+    {
+      "stationId": "Pat:44:44020",
+      "file": "station_trips_index/Pat_44_44020.json",
+      "count": 123,
+      "originalCount": 123
+    },
+    {
+      "stationId": "Pat:44:44001",
+      "file": "station_trips_index/Pat_44_44001.json",
+      "count": 123,
+      "originalCount": 123
+    },
+    {
+      "stationId": "Pat:44:41272",
+      "file": "station_trips_index/Pat_44_41272.json",
+      "count": 123,
+      "originalCount": 123
+    },
+    {
+      "stationId": "Pat:43:3993",
+      "file": "station_trips_index/Pat_43_3993.json",
+      "count": 227,
+      "originalCount": 227
+    },
+    {
+      "stationId": "Pat:43:3493",
+      "file": "station_trips_index/Pat_43_3493.json",
+      "count": 69,
+      "originalCount": 69
+    },
+    {
+      "stationId": "Pat:43:3660",
+      "file": "station_trips_index/Pat_43_3660.json",
+      "count": 206,
+      "originalCount": 206
+    },
+    {
+      "stationId": "Pat:43:3528",
+      "file": "station_trips_index/Pat_43_3528.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:43:4036",
+      "file": "station_trips_index/Pat_43_4036.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:5323",
+      "file": "station_trips_index/Pat_43_5323.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:43:4742",
+      "file": "station_trips_index/Pat_43_4742.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:4881",
+      "file": "station_trips_index/Pat_43_4881.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:3005",
+      "file": "station_trips_index/Pat_43_3005.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:43:4549",
+      "file": "station_trips_index/Pat_43_4549.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:3260",
+      "file": "station_trips_index/Pat_43_3260.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:3486",
+      "file": "station_trips_index/Pat_43_3486.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:4674",
+      "file": "station_trips_index/Pat_43_4674.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:43:3784",
+      "file": "station_trips_index/Pat_43_3784.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "Pat:43:3264",
+      "file": "station_trips_index/Pat_43_3264.json",
+      "count": 116,
+      "originalCount": 116
+    },
+    {
+      "stationId": "Pat:43:3885",
+      "file": "station_trips_index/Pat_43_3885.json",
+      "count": 116,
+      "originalCount": 116
+    },
+    {
+      "stationId": "Pat:43:4338",
+      "file": "station_trips_index/Pat_43_4338.json",
+      "count": 131,
+      "originalCount": 131
+    },
+    {
+      "stationId": "Pat:43:4140",
+      "file": "station_trips_index/Pat_43_4140.json",
+      "count": 131,
+      "originalCount": 131
+    },
+    {
+      "stationId": "Pat:43:3347",
+      "file": "station_trips_index/Pat_43_3347.json",
+      "count": 214,
+      "originalCount": 214
+    },
+    {
+      "stationId": "Pat:43:4574",
+      "file": "station_trips_index/Pat_43_4574.json",
+      "count": 216,
+      "originalCount": 216
+    },
+    {
+      "stationId": "Pat:43:5068",
+      "file": "station_trips_index/Pat_43_5068.json",
+      "count": 242,
+      "originalCount": 242
+    },
+    {
+      "stationId": "Pat:43:4556",
+      "file": "station_trips_index/Pat_43_4556.json",
+      "count": 108,
+      "originalCount": 108
+    },
+    {
+      "stationId": "Pat:43:4440",
+      "file": "station_trips_index/Pat_43_4440.json",
+      "count": 108,
+      "originalCount": 108
+    },
+    {
+      "stationId": "Pat:43:4337",
+      "file": "station_trips_index/Pat_43_4337.json",
+      "count": 123,
+      "originalCount": 123
+    },
+    {
+      "stationId": "Pat:43:4603",
+      "file": "station_trips_index/Pat_43_4603.json",
+      "count": 233,
+      "originalCount": 233
+    },
+    {
+      "stationId": "Pat:43:7450",
+      "file": "station_trips_index/Pat_43_7450.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7449",
+      "file": "station_trips_index/Pat_43_7449.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7448",
+      "file": "station_trips_index/Pat_43_7448.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7447",
+      "file": "station_trips_index/Pat_43_7447.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7446",
+      "file": "station_trips_index/Pat_43_7446.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7445",
+      "file": "station_trips_index/Pat_43_7445.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7444",
+      "file": "station_trips_index/Pat_43_7444.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7443",
+      "file": "station_trips_index/Pat_43_7443.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:43:7442",
+      "file": "station_trips_index/Pat_43_7442.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7435",
+      "file": "station_trips_index/Pat_43_7435.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:43:7227",
+      "file": "station_trips_index/Pat_43_7227.json",
+      "count": 216,
+      "originalCount": 216
+    },
+    {
+      "stationId": "Pat:43:7226",
+      "file": "station_trips_index/Pat_43_7226.json",
+      "count": 156,
+      "originalCount": 156
+    },
+    {
+      "stationId": "Pat:43:7224",
+      "file": "station_trips_index/Pat_43_7224.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:43:7223",
+      "file": "station_trips_index/Pat_43_7223.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:43:7900",
+      "file": "station_trips_index/Pat_43_7900.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:43:7897",
+      "file": "station_trips_index/Pat_43_7897.json",
+      "count": 83,
+      "originalCount": 83
+    },
+    {
+      "stationId": "Pat:43:7894",
+      "file": "station_trips_index/Pat_43_7894.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:4367",
+      "file": "station_trips_index/Pat_41_4367.json",
+      "count": 55,
+      "originalCount": 55
+    },
+    {
+      "stationId": "Pat:41:5312",
+      "file": "station_trips_index/Pat_41_5312.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:41:4469",
+      "file": "station_trips_index/Pat_41_4469.json",
+      "count": 105,
+      "originalCount": 105
+    },
+    {
+      "stationId": "Pat:41:4473",
+      "file": "station_trips_index/Pat_41_4473.json",
+      "count": 282,
+      "originalCount": 282
+    },
+    {
+      "stationId": "Pat:41:4464",
+      "file": "station_trips_index/Pat_41_4464.json",
+      "count": 88,
+      "originalCount": 88
+    },
+    {
+      "stationId": "Pat:41:5143",
+      "file": "station_trips_index/Pat_41_5143.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:4821",
+      "file": "station_trips_index/Pat_41_4821.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:3443",
+      "file": "station_trips_index/Pat_41_3443.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:4309",
+      "file": "station_trips_index/Pat_41_4309.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:3531",
+      "file": "station_trips_index/Pat_41_3531.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:5157",
+      "file": "station_trips_index/Pat_41_5157.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:4348",
+      "file": "station_trips_index/Pat_41_4348.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:41:4351",
+      "file": "station_trips_index/Pat_41_4351.json",
+      "count": 183,
+      "originalCount": 183
+    },
+    {
+      "stationId": "Pat:41:5288",
+      "file": "station_trips_index/Pat_41_5288.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "at:41:3351:0:4",
+      "file": "station_trips_index/at_41_3351_0_4.json",
+      "count": 39,
+      "originalCount": 39
+    },
+    {
+      "stationId": "Pat:44:47150",
+      "file": "station_trips_index/Pat_44_47150.json",
+      "count": 126,
+      "originalCount": 126
+    },
+    {
+      "stationId": "Pat:44:47151",
+      "file": "station_trips_index/Pat_44_47151.json",
+      "count": 90,
+      "originalCount": 90
+    },
+    {
+      "stationId": "Pat:44:42791",
+      "file": "station_trips_index/Pat_44_42791.json",
+      "count": 118,
+      "originalCount": 118
+    },
+    {
+      "stationId": "Pat:44:42790",
+      "file": "station_trips_index/Pat_44_42790.json",
+      "count": 126,
+      "originalCount": 126
+    },
+    {
+      "stationId": "Pat:44:42750",
+      "file": "station_trips_index/Pat_44_42750.json",
+      "count": 123,
+      "originalCount": 123
+    },
+    {
+      "stationId": "Pat:44:47270",
+      "file": "station_trips_index/Pat_44_47270.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Pat:44:47301",
+      "file": "station_trips_index/Pat_44_47301.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Pat:43:7105",
+      "file": "station_trips_index/Pat_43_7105.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:8074",
+      "file": "station_trips_index/Pat_43_8074.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7104",
+      "file": "station_trips_index/Pat_43_7104.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:8059",
+      "file": "station_trips_index/Pat_43_8059.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7102",
+      "file": "station_trips_index/Pat_43_7102.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:43:7101",
+      "file": "station_trips_index/Pat_43_7101.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7100",
+      "file": "station_trips_index/Pat_43_7100.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:43:7108",
+      "file": "station_trips_index/Pat_43_7108.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:43:7099",
+      "file": "station_trips_index/Pat_43_7099.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7098",
+      "file": "station_trips_index/Pat_43_7098.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:43:7097",
+      "file": "station_trips_index/Pat_43_7097.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7109",
+      "file": "station_trips_index/Pat_43_7109.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7094",
+      "file": "station_trips_index/Pat_43_7094.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7093",
+      "file": "station_trips_index/Pat_43_7093.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:43:7092",
+      "file": "station_trips_index/Pat_43_7092.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7091",
+      "file": "station_trips_index/Pat_43_7091.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "Pat:43:3408",
+      "file": "station_trips_index/Pat_43_3408.json",
+      "count": 104,
+      "originalCount": 104
+    },
+    {
+      "stationId": "Pat:43:5138",
+      "file": "station_trips_index/Pat_43_5138.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "Pat:43:3420",
+      "file": "station_trips_index/Pat_43_3420.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "Pat:42:3831",
+      "file": "station_trips_index/Pat_42_3831.json",
+      "count": 173,
+      "originalCount": 173
+    },
+    {
+      "stationId": "Pat:42:3718",
+      "file": "station_trips_index/Pat_42_3718.json",
+      "count": 140,
+      "originalCount": 140
+    },
+    {
+      "stationId": "Pat:42:3717",
+      "file": "station_trips_index/Pat_42_3717.json",
+      "count": 140,
+      "originalCount": 140
+    },
+    {
+      "stationId": "Pat:42:3716",
+      "file": "station_trips_index/Pat_42_3716.json",
+      "count": 140,
+      "originalCount": 140
+    },
+    {
+      "stationId": "Pat:42:3715",
+      "file": "station_trips_index/Pat_42_3715.json",
+      "count": 140,
+      "originalCount": 140
+    },
+    {
+      "stationId": "Pat:45:50290",
+      "file": "station_trips_index/Pat_45_50290.json",
+      "count": 213,
+      "originalCount": 213
+    },
+    {
+      "stationId": "Pat:44:47901",
+      "file": "station_trips_index/Pat_44_47901.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "Pat:44:47880",
+      "file": "station_trips_index/Pat_44_47880.json",
+      "count": 112,
+      "originalCount": 112
+    },
+    {
+      "stationId": "Pat:44:47870",
+      "file": "station_trips_index/Pat_44_47870.json",
+      "count": 116,
+      "originalCount": 116
+    },
+    {
+      "stationId": "Pat:44:47860",
+      "file": "station_trips_index/Pat_44_47860.json",
+      "count": 113,
+      "originalCount": 113
+    },
+    {
+      "stationId": "Pat:44:47841",
+      "file": "station_trips_index/Pat_44_47841.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:44:47800",
+      "file": "station_trips_index/Pat_44_47800.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:49:1091",
+      "file": "station_trips_index/Pat_49_1091.json",
+      "count": 1350,
+      "originalCount": 1350
+    },
+    {
+      "stationId": "Pat:44:44450",
+      "file": "station_trips_index/Pat_44_44450.json",
+      "count": 69,
+      "originalCount": 69
+    },
+    {
+      "stationId": "Pat:44:44361",
+      "file": "station_trips_index/Pat_44_44361.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "Pat:46:7208",
+      "file": "station_trips_index/Pat_46_7208.json",
+      "count": 104,
+      "originalCount": 104
+    },
+    {
+      "stationId": "Pat:46:7447",
+      "file": "station_trips_index/Pat_46_7447.json",
+      "count": 36,
+      "originalCount": 36
+    },
+    {
+      "stationId": "Pat:45:52418",
+      "file": "station_trips_index/Pat_45_52418.json",
+      "count": 36,
+      "originalCount": 36
+    },
+    {
+      "stationId": "Pat:45:52114",
+      "file": "station_trips_index/Pat_45_52114.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:45:52183",
+      "file": "station_trips_index/Pat_45_52183.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:45:52343",
+      "file": "station_trips_index/Pat_45_52343.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:45:52495",
+      "file": "station_trips_index/Pat_45_52495.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "Pat:45:52600",
+      "file": "station_trips_index/Pat_45_52600.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "Pat:45:52106",
+      "file": "station_trips_index/Pat_45_52106.json",
+      "count": 34,
+      "originalCount": 34
+    },
+    {
+      "stationId": "Pat:42:3907",
+      "file": "station_trips_index/Pat_42_3907.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:42:3906",
+      "file": "station_trips_index/Pat_42_3906.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:42:3905",
+      "file": "station_trips_index/Pat_42_3905.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:42:3904",
+      "file": "station_trips_index/Pat_42_3904.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:42:3903",
+      "file": "station_trips_index/Pat_42_3903.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:42:3902",
+      "file": "station_trips_index/Pat_42_3902.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:42:3901",
+      "file": "station_trips_index/Pat_42_3901.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:46:7463",
+      "file": "station_trips_index/Pat_46_7463.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:46:7465",
+      "file": "station_trips_index/Pat_46_7465.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:46:7472",
+      "file": "station_trips_index/Pat_46_7472.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:46:7473",
+      "file": "station_trips_index/Pat_46_7473.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:46:7474",
+      "file": "station_trips_index/Pat_46_7474.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:46:6793",
+      "file": "station_trips_index/Pat_46_6793.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "Pat:46:7452",
+      "file": "station_trips_index/Pat_46_7452.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "Pat:46:6802",
+      "file": "station_trips_index/Pat_46_6802.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "Pat:46:6589",
+      "file": "station_trips_index/Pat_46_6589.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "Pat:44:49320",
+      "file": "station_trips_index/Pat_44_49320.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "Pat:44:49330",
+      "file": "station_trips_index/Pat_44_49330.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "Pat:42:2126",
+      "file": "station_trips_index/Pat_42_2126.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Pat:42:2125",
+      "file": "station_trips_index/Pat_42_2125.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Pat:43:5223",
+      "file": "station_trips_index/Pat_43_5223.json",
+      "count": 200,
+      "originalCount": 200
+    },
+    {
+      "stationId": "Pat:43:4990",
+      "file": "station_trips_index/Pat_43_4990.json",
+      "count": 221,
+      "originalCount": 221
+    },
+    {
+      "stationId": "Pat:43:3415",
+      "file": "station_trips_index/Pat_43_3415.json",
+      "count": 614,
+      "originalCount": 614
+    },
+    {
+      "stationId": "Pat:43:4801",
+      "file": "station_trips_index/Pat_43_4801.json",
+      "count": 268,
+      "originalCount": 268
+    },
+    {
+      "stationId": "Pat:43:4084",
+      "file": "station_trips_index/Pat_43_4084.json",
+      "count": 712,
+      "originalCount": 712
+    },
+    {
+      "stationId": "Pat:43:3989",
+      "file": "station_trips_index/Pat_43_3989.json",
+      "count": 237,
+      "originalCount": 237
+    },
+    {
+      "stationId": "Pat:43:3090",
+      "file": "station_trips_index/Pat_43_3090.json",
+      "count": 564,
+      "originalCount": 564
+    },
+    {
+      "stationId": "Pat:43:3101",
+      "file": "station_trips_index/Pat_43_3101.json",
+      "count": 857,
+      "originalCount": 857
+    },
+    {
+      "stationId": "Pat:43:4533",
+      "file": "station_trips_index/Pat_43_4533.json",
+      "count": 236,
+      "originalCount": 236
+    },
+    {
+      "stationId": "Pat:43:3602",
+      "file": "station_trips_index/Pat_43_3602.json",
+      "count": 251,
+      "originalCount": 251
+    },
+    {
+      "stationId": "Pat:43:3616",
+      "file": "station_trips_index/Pat_43_3616.json",
+      "count": 236,
+      "originalCount": 236
+    },
+    {
+      "stationId": "Pat:43:4239",
+      "file": "station_trips_index/Pat_43_4239.json",
+      "count": 1042,
+      "originalCount": 1042
+    },
+    {
+      "stationId": "Pat:49:788",
+      "file": "station_trips_index/Pat_49_788.json",
+      "count": 1299,
+      "originalCount": 1299
+    },
+    {
+      "stationId": "Pat:46:1768",
+      "file": "station_trips_index/Pat_46_1768.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:46:1770",
+      "file": "station_trips_index/Pat_46_1770.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:46:1771",
+      "file": "station_trips_index/Pat_46_1771.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:46:1982",
+      "file": "station_trips_index/Pat_46_1982.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Phu:31583:27000652",
+      "file": "station_trips_index/Phu_31583_27000652.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:41:7455",
+      "file": "station_trips_index/Pat_41_7455.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:41:7075",
+      "file": "station_trips_index/Pat_41_7075.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:46:1767",
+      "file": "station_trips_index/Pat_46_1767.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:42:3825",
+      "file": "station_trips_index/Pat_42_3825.json",
+      "count": 119,
+      "originalCount": 119
+    },
+    {
+      "stationId": "Pat:42:99979",
+      "file": "station_trips_index/Pat_42_99979.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "Pat:43:3709",
+      "file": "station_trips_index/Pat_43_3709.json",
+      "count": 111,
+      "originalCount": 111
+    },
+    {
+      "stationId": "Pat:43:4884",
+      "file": "station_trips_index/Pat_43_4884.json",
+      "count": 515,
+      "originalCount": 515
+    },
+    {
+      "stationId": "Pat:43:4083",
+      "file": "station_trips_index/Pat_43_4083.json",
+      "count": 321,
+      "originalCount": 321
+    },
+    {
+      "stationId": "Pat:43:3963",
+      "file": "station_trips_index/Pat_43_3963.json",
+      "count": 572,
+      "originalCount": 572
+    },
+    {
+      "stationId": "Pat:44:46950",
+      "file": "station_trips_index/Pat_44_46950.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:44:46940",
+      "file": "station_trips_index/Pat_44_46940.json",
+      "count": 98,
+      "originalCount": 98
+    },
+    {
+      "stationId": "Pat:44:46930",
+      "file": "station_trips_index/Pat_44_46930.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:46910",
+      "file": "station_trips_index/Pat_44_46910.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:43981",
+      "file": "station_trips_index/Pat_44_43981.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:43960",
+      "file": "station_trips_index/Pat_44_43960.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:43950",
+      "file": "station_trips_index/Pat_44_43950.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:43941",
+      "file": "station_trips_index/Pat_44_43941.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:43940",
+      "file": "station_trips_index/Pat_44_43940.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Pat:44:43934",
+      "file": "station_trips_index/Pat_44_43934.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:43900",
+      "file": "station_trips_index/Pat_44_43900.json",
+      "count": 132,
+      "originalCount": 132
+    },
+    {
+      "stationId": "at:48:585:0:2",
+      "file": "station_trips_index/at_48_585_0_2.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "at:48:817:0:2",
+      "file": "station_trips_index/at_48_817_0_2.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "Pat:45:56900",
+      "file": "station_trips_index/Pat_45_56900.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pat:49:94",
+      "file": "station_trips_index/Pat_49_94.json",
+      "count": 907,
+      "originalCount": 907
+    },
+    {
+      "stationId": "Pat:49:511",
+      "file": "station_trips_index/Pat_49_511.json",
+      "count": 907,
+      "originalCount": 907
+    },
+    {
+      "stationId": "Pat:43:4824",
+      "file": "station_trips_index/Pat_43_4824.json",
+      "count": 337,
+      "originalCount": 337
+    },
+    {
+      "stationId": "Pat:43:3800",
+      "file": "station_trips_index/Pat_43_3800.json",
+      "count": 336,
+      "originalCount": 336
+    },
+    {
+      "stationId": "Pat:43:3995",
+      "file": "station_trips_index/Pat_43_3995.json",
+      "count": 336,
+      "originalCount": 336
+    },
+    {
+      "stationId": "Pat:43:3952",
+      "file": "station_trips_index/Pat_43_3952.json",
+      "count": 336,
+      "originalCount": 336
+    },
+    {
+      "stationId": "Pat:43:3953",
+      "file": "station_trips_index/Pat_43_3953.json",
+      "count": 336,
+      "originalCount": 336
+    },
+    {
+      "stationId": "Pat:49:491",
+      "file": "station_trips_index/Pat_49_491.json",
+      "count": 1123,
+      "originalCount": 1123
+    },
+    {
+      "stationId": "Pcz:0:5473632",
+      "file": "station_trips_index/Pcz_0_5473632.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "Pat:43:99980",
+      "file": "station_trips_index/Pat_43_99980.json",
+      "count": 53,
+      "originalCount": 53
+    },
+    {
+      "stationId": "Pat:44:44003",
+      "file": "station_trips_index/Pat_44_44003.json",
+      "count": 121,
+      "originalCount": 121
+    },
+    {
+      "stationId": "Pat:44:44002",
+      "file": "station_trips_index/Pat_44_44002.json",
+      "count": 119,
+      "originalCount": 119
+    },
+    {
+      "stationId": "Pat:44:44009",
+      "file": "station_trips_index/Pat_44_44009.json",
+      "count": 119,
+      "originalCount": 119
+    },
+    {
+      "stationId": "Pat:44:44000",
+      "file": "station_trips_index/Pat_44_44000.json",
+      "count": 119,
+      "originalCount": 119
+    },
+    {
+      "stationId": "Pat:43:3189",
+      "file": "station_trips_index/Pat_43_3189.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:43:4789",
+      "file": "station_trips_index/Pat_43_4789.json",
+      "count": 178,
+      "originalCount": 178
+    },
+    {
+      "stationId": "Pat:48:1313",
+      "file": "station_trips_index/Pat_48_1313.json",
+      "count": 95,
+      "originalCount": 95
+    },
+    {
+      "stationId": "Pat:46:7456",
+      "file": "station_trips_index/Pat_46_7456.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:46942",
+      "file": "station_trips_index/Pat_44_46942.json",
+      "count": 55,
+      "originalCount": 55
+    },
+    {
+      "stationId": "Pat:44:46960",
+      "file": "station_trips_index/Pat_44_46960.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:44:46900",
+      "file": "station_trips_index/Pat_44_46900.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7901",
+      "file": "station_trips_index/Pat_43_7901.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7899",
+      "file": "station_trips_index/Pat_43_7899.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:43:7898",
+      "file": "station_trips_index/Pat_43_7898.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:43:7896",
+      "file": "station_trips_index/Pat_43_7896.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:43:7895",
+      "file": "station_trips_index/Pat_43_7895.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:43:7893",
+      "file": "station_trips_index/Pat_43_7893.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:44:48530",
+      "file": "station_trips_index/Pat_44_48530.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:44:48500",
+      "file": "station_trips_index/Pat_44_48500.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:44:48790",
+      "file": "station_trips_index/Pat_44_48790.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:48800",
+      "file": "station_trips_index/Pat_44_48800.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:48880",
+      "file": "station_trips_index/Pat_44_48880.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pat:44:48171",
+      "file": "station_trips_index/Pat_44_48171.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:44:48170",
+      "file": "station_trips_index/Pat_44_48170.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pat:44:47795",
+      "file": "station_trips_index/Pat_44_47795.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pat:44:40156",
+      "file": "station_trips_index/Pat_44_40156.json",
+      "count": 156,
+      "originalCount": 156
+    },
+    {
+      "stationId": "Pat:43:7225",
+      "file": "station_trips_index/Pat_43_7225.json",
+      "count": 151,
+      "originalCount": 151
+    },
+    {
+      "stationId": "Pat:43:7222",
+      "file": "station_trips_index/Pat_43_7222.json",
+      "count": 138,
+      "originalCount": 138
+    },
+    {
+      "stationId": "Pat:44:42431",
+      "file": "station_trips_index/Pat_44_42431.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:42430",
+      "file": "station_trips_index/Pat_44_42430.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:42412",
+      "file": "station_trips_index/Pat_44_42412.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:42411",
+      "file": "station_trips_index/Pat_44_42411.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:42410",
+      "file": "station_trips_index/Pat_44_42410.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:44:42268",
+      "file": "station_trips_index/Pat_44_42268.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:44:42146",
+      "file": "station_trips_index/Pat_44_42146.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:43:7241",
+      "file": "station_trips_index/Pat_43_7241.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:43:7239",
+      "file": "station_trips_index/Pat_43_7239.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:43:7238",
+      "file": "station_trips_index/Pat_43_7238.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:43:7237",
+      "file": "station_trips_index/Pat_43_7237.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:43:7236",
+      "file": "station_trips_index/Pat_43_7236.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:43:7235",
+      "file": "station_trips_index/Pat_43_7235.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:43:7402",
+      "file": "station_trips_index/Pat_43_7402.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Pat:43:7403",
+      "file": "station_trips_index/Pat_43_7403.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Pat:43:7371",
+      "file": "station_trips_index/Pat_43_7371.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "Pat:43:4016",
+      "file": "station_trips_index/Pat_43_4016.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "Pde:09180:42873",
+      "file": "station_trips_index/Pde_09180_42873.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "Pat:47:2231",
+      "file": "station_trips_index/Pat_47_2231.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:46:7510",
+      "file": "station_trips_index/Pat_46_7510.json",
+      "count": 54,
+      "originalCount": 54
+    },
+    {
+      "stationId": "Pat:44:47300",
+      "file": "station_trips_index/Pat_44_47300.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:44:47271",
+      "file": "station_trips_index/Pat_44_47271.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:44:47060",
+      "file": "station_trips_index/Pat_44_47060.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:46:7427",
+      "file": "station_trips_index/Pat_46_7427.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:46:7428",
+      "file": "station_trips_index/Pat_46_7428.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:43:8768",
+      "file": "station_trips_index/Pat_43_8768.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "Pat:43:8767",
+      "file": "station_trips_index/Pat_43_8767.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:43:8766",
+      "file": "station_trips_index/Pat_43_8766.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:43:8765",
+      "file": "station_trips_index/Pat_43_8765.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "at:43:8764:0:1",
+      "file": "station_trips_index/at_43_8764_0_1.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "Pat:43:8763",
+      "file": "station_trips_index/Pat_43_8763.json",
+      "count": 271,
+      "originalCount": 271
+    },
+    {
+      "stationId": "Pat:43:7040",
+      "file": "station_trips_index/Pat_43_7040.json",
+      "count": 112,
+      "originalCount": 112
+    },
+    {
+      "stationId": "Pat:43:7039",
+      "file": "station_trips_index/Pat_43_7039.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:43:7038",
+      "file": "station_trips_index/Pat_43_7038.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "Pat:43:7037",
+      "file": "station_trips_index/Pat_43_7037.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:43:7036",
+      "file": "station_trips_index/Pat_43_7036.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:43:7035",
+      "file": "station_trips_index/Pat_43_7035.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:43:7034",
+      "file": "station_trips_index/Pat_43_7034.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:43:7033",
+      "file": "station_trips_index/Pat_43_7033.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:43:7032",
+      "file": "station_trips_index/Pat_43_7032.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "Pat:43:7057",
+      "file": "station_trips_index/Pat_43_7057.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "Pat:43:4995",
+      "file": "station_trips_index/Pat_43_4995.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:43:4301",
+      "file": "station_trips_index/Pat_43_4301.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:43:3617",
+      "file": "station_trips_index/Pat_43_3617.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:43:4067",
+      "file": "station_trips_index/Pat_43_4067.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:43:4165",
+      "file": "station_trips_index/Pat_43_4165.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:43:5255",
+      "file": "station_trips_index/Pat_43_5255.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:3401",
+      "file": "station_trips_index/Pat_43_3401.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:3766",
+      "file": "station_trips_index/Pat_43_3766.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:4849",
+      "file": "station_trips_index/Pat_43_4849.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:3155",
+      "file": "station_trips_index/Pat_43_3155.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:3160",
+      "file": "station_trips_index/Pat_43_3160.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:4565",
+      "file": "station_trips_index/Pat_43_4565.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:5195",
+      "file": "station_trips_index/Pat_43_5195.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:7096",
+      "file": "station_trips_index/Pat_43_7096.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:43:7110",
+      "file": "station_trips_index/Pat_43_7110.json",
+      "count": 92,
+      "originalCount": 92
+    },
+    {
+      "stationId": "Pat:43:7106",
+      "file": "station_trips_index/Pat_43_7106.json",
+      "count": 92,
+      "originalCount": 92
+    },
+    {
+      "stationId": "Pat:43:7112",
+      "file": "station_trips_index/Pat_43_7112.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:8022",
+      "file": "station_trips_index/Pat_43_8022.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "Pat:43:6003",
+      "file": "station_trips_index/Pat_43_6003.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:43:7230",
+      "file": "station_trips_index/Pat_43_7230.json",
+      "count": 104,
+      "originalCount": 104
+    },
+    {
+      "stationId": "Pat:42:3653",
+      "file": "station_trips_index/Pat_42_3653.json",
+      "count": 156,
+      "originalCount": 156
+    },
+    {
+      "stationId": "Pat:42:3652",
+      "file": "station_trips_index/Pat_42_3652.json",
+      "count": 159,
+      "originalCount": 159
+    },
+    {
+      "stationId": "Pat:42:3651",
+      "file": "station_trips_index/Pat_42_3651.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:42:3649",
+      "file": "station_trips_index/Pat_42_3649.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "at:42:3647:0:1",
+      "file": "station_trips_index/at_42_3647_0_1.json",
+      "count": 83,
+      "originalCount": 83
+    },
+    {
+      "stationId": "Pat:42:3646",
+      "file": "station_trips_index/Pat_42_3646.json",
+      "count": 159,
+      "originalCount": 159
+    },
+    {
+      "stationId": "Pat:42:3643",
+      "file": "station_trips_index/Pat_42_3643.json",
+      "count": 159,
+      "originalCount": 159
+    },
+    {
+      "stationId": "Pat:42:3645",
+      "file": "station_trips_index/Pat_42_3645.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:46:76",
+      "file": "station_trips_index/Pat_46_76.json",
+      "count": 114,
+      "originalCount": 114
+    },
+    {
+      "stationId": "Pat:42:3806",
+      "file": "station_trips_index/Pat_42_3806.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:42:3805",
+      "file": "station_trips_index/Pat_42_3805.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:42:3804",
+      "file": "station_trips_index/Pat_42_3804.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:42:3803",
+      "file": "station_trips_index/Pat_42_3803.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:42:3802",
+      "file": "station_trips_index/Pat_42_3802.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:42:3800",
+      "file": "station_trips_index/Pat_42_3800.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:45:50253",
+      "file": "station_trips_index/Pat_45_50253.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:45:50254",
+      "file": "station_trips_index/Pat_45_50254.json",
+      "count": 139,
+      "originalCount": 139
+    },
+    {
+      "stationId": "Pat:45:50230",
+      "file": "station_trips_index/Pat_45_50230.json",
+      "count": 104,
+      "originalCount": 104
+    },
+    {
+      "stationId": "Pat:45:56408",
+      "file": "station_trips_index/Pat_45_56408.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "Pat:45:50209",
+      "file": "station_trips_index/Pat_45_50209.json",
+      "count": 102,
+      "originalCount": 102
+    },
+    {
+      "stationId": "Pat:45:50210",
+      "file": "station_trips_index/Pat_45_50210.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "Pat:46:1766",
+      "file": "station_trips_index/Pat_46_1766.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:46:1765",
+      "file": "station_trips_index/Pat_46_1765.json",
+      "count": 82,
+      "originalCount": 82
+    },
+    {
+      "stationId": "Pat:46:1764",
+      "file": "station_trips_index/Pat_46_1764.json",
+      "count": 82,
+      "originalCount": 82
+    },
+    {
+      "stationId": "Pat:46:1034",
+      "file": "station_trips_index/Pat_46_1034.json",
+      "count": 95,
+      "originalCount": 95
+    },
+    {
+      "stationId": "Pat:46:1762",
+      "file": "station_trips_index/Pat_46_1762.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:44:44350",
+      "file": "station_trips_index/Pat_44_44350.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "Pat:44:44351",
+      "file": "station_trips_index/Pat_44_44351.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "Pat:44:44360",
+      "file": "station_trips_index/Pat_44_44360.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "Pat:44:44470",
+      "file": "station_trips_index/Pat_44_44470.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:44:44471",
+      "file": "station_trips_index/Pat_44_44471.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:44:44472",
+      "file": "station_trips_index/Pat_44_44472.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:45:50578",
+      "file": "station_trips_index/Pat_45_50578.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:56199",
+      "file": "station_trips_index/Pat_45_56199.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:50500",
+      "file": "station_trips_index/Pat_45_50500.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:50489",
+      "file": "station_trips_index/Pat_45_50489.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:50475",
+      "file": "station_trips_index/Pat_45_50475.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:56656",
+      "file": "station_trips_index/Pat_45_56656.json",
+      "count": 132,
+      "originalCount": 132
+    },
+    {
+      "stationId": "Pat:45:50470",
+      "file": "station_trips_index/Pat_45_50470.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:50457",
+      "file": "station_trips_index/Pat_45_50457.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:50456",
+      "file": "station_trips_index/Pat_45_50456.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:45:56533",
+      "file": "station_trips_index/Pat_45_56533.json",
+      "count": 132,
+      "originalCount": 132
+    },
+    {
+      "stationId": "Pat:45:50861",
+      "file": "station_trips_index/Pat_45_50861.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:44:43520",
+      "file": "station_trips_index/Pat_44_43520.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:44:43530",
+      "file": "station_trips_index/Pat_44_43530.json",
+      "count": 84,
+      "originalCount": 84
+    },
+    {
+      "stationId": "Pat:44:43540",
+      "file": "station_trips_index/Pat_44_43540.json",
+      "count": 101,
+      "originalCount": 101
+    },
+    {
+      "stationId": "Pat:44:41770",
+      "file": "station_trips_index/Pat_44_41770.json",
+      "count": 98,
+      "originalCount": 98
+    },
+    {
+      "stationId": "Pat:44:41760",
+      "file": "station_trips_index/Pat_44_41760.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:47:211",
+      "file": "station_trips_index/Pat_47_211.json",
+      "count": 262,
+      "originalCount": 262
+    },
+    {
+      "stationId": "Pat:43:3481",
+      "file": "station_trips_index/Pat_43_3481.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "Pat:43:3004",
+      "file": "station_trips_index/Pat_43_3004.json",
+      "count": 307,
+      "originalCount": 307
+    },
+    {
+      "stationId": "Pat:49:166",
+      "file": "station_trips_index/Pat_49_166.json",
+      "count": 551,
+      "originalCount": 551
+    },
+    {
+      "stationId": "Pat:49:981",
+      "file": "station_trips_index/Pat_49_981.json",
+      "count": 551,
+      "originalCount": 551
+    },
+    {
+      "stationId": "Pat:49:505",
+      "file": "station_trips_index/Pat_49_505.json",
+      "count": 551,
+      "originalCount": 551
+    },
+    {
+      "stationId": "Pat:49:393",
+      "file": "station_trips_index/Pat_49_393.json",
+      "count": 551,
+      "originalCount": 551
+    },
+    {
+      "stationId": "Pat:49:723",
+      "file": "station_trips_index/Pat_49_723.json",
+      "count": 551,
+      "originalCount": 551
+    },
+    {
+      "stationId": "Pat:49:959",
+      "file": "station_trips_index/Pat_49_959.json",
+      "count": 551,
+      "originalCount": 551
+    },
+    {
+      "stationId": "Pat:42:2143",
+      "file": "station_trips_index/Pat_42_2143.json",
+      "count": 53,
+      "originalCount": 53
+    },
+    {
+      "stationId": "Pat:46:1891",
+      "file": "station_trips_index/Pat_46_1891.json",
+      "count": 33,
+      "originalCount": 33
+    },
+    {
+      "stationId": "Pat:46:1757",
+      "file": "station_trips_index/Pat_46_1757.json",
+      "count": 33,
+      "originalCount": 33
+    },
+    {
+      "stationId": "Pat:46:1756",
+      "file": "station_trips_index/Pat_46_1756.json",
+      "count": 33,
+      "originalCount": 33
+    },
+    {
+      "stationId": "Pat:46:1858",
+      "file": "station_trips_index/Pat_46_1858.json",
+      "count": 33,
+      "originalCount": 33
+    },
+    {
+      "stationId": "Pat:42:3861",
+      "file": "station_trips_index/Pat_42_3861.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:42:3862",
+      "file": "station_trips_index/Pat_42_3862.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:42:3863",
+      "file": "station_trips_index/Pat_42_3863.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:42:3864",
+      "file": "station_trips_index/Pat_42_3864.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:42:3865",
+      "file": "station_trips_index/Pat_42_3865.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:42:3867",
+      "file": "station_trips_index/Pat_42_3867.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:42:3868",
+      "file": "station_trips_index/Pat_42_3868.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:42:3869",
+      "file": "station_trips_index/Pat_42_3869.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:47:3871",
+      "file": "station_trips_index/Pat_47_3871.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:47:3872",
+      "file": "station_trips_index/Pat_47_3872.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:47:1150",
+      "file": "station_trips_index/Pat_47_1150.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "Pat:47:2230",
+      "file": "station_trips_index/Pat_47_2230.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:49:1519",
+      "file": "station_trips_index/Pat_49_1519.json",
+      "count": 282,
+      "originalCount": 282
+    },
+    {
+      "stationId": "Pat:49:484",
+      "file": "station_trips_index/Pat_49_484.json",
+      "count": 282,
+      "originalCount": 282
+    },
+    {
+      "stationId": "Pat:49:1425",
+      "file": "station_trips_index/Pat_49_1425.json",
+      "count": 282,
+      "originalCount": 282
+    },
+    {
+      "stationId": "Pat:45:54252",
+      "file": "station_trips_index/Pat_45_54252.json",
+      "count": 61,
+      "originalCount": 61
+    },
+    {
+      "stationId": "Pat:47:1154",
+      "file": "station_trips_index/Pat_47_1154.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:47:1156",
+      "file": "station_trips_index/Pat_47_1156.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:47:1159",
+      "file": "station_trips_index/Pat_47_1159.json",
+      "count": 61,
+      "originalCount": 61
+    },
+    {
+      "stationId": "Pat:47:1162",
+      "file": "station_trips_index/Pat_47_1162.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:47:1165",
+      "file": "station_trips_index/Pat_47_1165.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "Pat:47:1166",
+      "file": "station_trips_index/Pat_47_1166.json",
+      "count": 59,
+      "originalCount": 59
+    },
+    {
+      "stationId": "Pat:47:1168",
+      "file": "station_trips_index/Pat_47_1168.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:47:1169",
+      "file": "station_trips_index/Pat_47_1169.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:49:1295",
+      "file": "station_trips_index/Pat_49_1295.json",
+      "count": 142,
+      "originalCount": 142
+    },
+    {
+      "stationId": "Pit:22021:2765",
+      "file": "station_trips_index/Pit_22021_2765.json",
+      "count": 83,
+      "originalCount": 83
+    },
+    {
+      "stationId": "Pat:47:3880",
+      "file": "station_trips_index/Pat_47_3880.json",
+      "count": 83,
+      "originalCount": 83
+    },
+    {
+      "stationId": "Pat:43:99985",
+      "file": "station_trips_index/Pat_43_99985.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Phu:28007:51761",
+      "file": "station_trips_index/Phu_28007_51761.json",
+      "count": 34,
+      "originalCount": 34
+    },
+    {
+      "stationId": "Phu:14216:27001535",
+      "file": "station_trips_index/Phu_14216_27001535.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "de:09161:9000:3:3",
+      "file": "station_trips_index/de_09161_9000_3_3.json",
+      "count": 124,
+      "originalCount": 124
+    },
+    {
+      "stationId": "Pat:46:7442",
+      "file": "station_trips_index/Pat_46_7442.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "Pat:44:44870",
+      "file": "station_trips_index/Pat_44_44870.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:43:8001",
+      "file": "station_trips_index/Pat_43_8001.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "Pat:43:8009",
+      "file": "station_trips_index/Pat_43_8009.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:43:8010",
+      "file": "station_trips_index/Pat_43_8010.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:43:8003",
+      "file": "station_trips_index/Pat_43_8003.json",
+      "count": 219,
+      "originalCount": 219
+    },
+    {
+      "stationId": "Pat:44:47750",
+      "file": "station_trips_index/Pat_44_47750.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:44:47510",
+      "file": "station_trips_index/Pat_44_47510.json",
+      "count": 92,
+      "originalCount": 92
+    },
+    {
+      "stationId": "at:41:3351:0:5",
+      "file": "station_trips_index/at_41_3351_0_5.json",
+      "count": 65,
+      "originalCount": 65
+    },
+    {
+      "stationId": "Pat:41:3490",
+      "file": "station_trips_index/Pat_41_3490.json",
+      "count": 139,
+      "originalCount": 139
+    },
+    {
+      "stationId": "Pat:44:46570",
+      "file": "station_trips_index/Pat_44_46570.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:44:46534",
+      "file": "station_trips_index/Pat_44_46534.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:44:46470",
+      "file": "station_trips_index/Pat_44_46470.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pat:44:46440",
+      "file": "station_trips_index/Pat_44_46440.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "Pat:44:46430",
+      "file": "station_trips_index/Pat_44_46430.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "Pat:44:46406",
+      "file": "station_trips_index/Pat_44_46406.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "Pat:44:46009",
+      "file": "station_trips_index/Pat_44_46009.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "Pat:44:47250",
+      "file": "station_trips_index/Pat_44_47250.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:46:1772",
+      "file": "station_trips_index/Pat_46_1772.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:46:2735",
+      "file": "station_trips_index/Pat_46_2735.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:46:1774",
+      "file": "station_trips_index/Pat_46_1774.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:46:1775",
+      "file": "station_trips_index/Pat_46_1775.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:46:2022",
+      "file": "station_trips_index/Pat_46_2022.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "Pat:46:5205",
+      "file": "station_trips_index/Pat_46_5205.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "Pat:46:5211",
+      "file": "station_trips_index/Pat_46_5211.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "Pat:46:5230",
+      "file": "station_trips_index/Pat_46_5230.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "Pat:46:7542",
+      "file": "station_trips_index/Pat_46_7542.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "Pat:46:7543",
+      "file": "station_trips_index/Pat_46_7543.json",
+      "count": 56,
+      "originalCount": 56
+    },
+    {
+      "stationId": "Pat:46:7547",
+      "file": "station_trips_index/Pat_46_7547.json",
+      "count": 56,
+      "originalCount": 56
+    },
+    {
+      "stationId": "Pat:46:7548",
+      "file": "station_trips_index/Pat_46_7548.json",
+      "count": 56,
+      "originalCount": 56
+    },
+    {
+      "stationId": "Pat:43:7042",
+      "file": "station_trips_index/Pat_43_7042.json",
+      "count": 55,
+      "originalCount": 55
+    },
+    {
+      "stationId": "Pat:43:7041",
+      "file": "station_trips_index/Pat_43_7041.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:41:4109",
+      "file": "station_trips_index/Pat_41_4109.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:41:4176",
+      "file": "station_trips_index/Pat_41_4176.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:41:4177",
+      "file": "station_trips_index/Pat_41_4177.json",
+      "count": 88,
+      "originalCount": 88
+    },
+    {
+      "stationId": "Pat:43:3880",
+      "file": "station_trips_index/Pat_43_3880.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "Pat:49:1062",
+      "file": "station_trips_index/Pat_49_1062.json",
+      "count": 406,
+      "originalCount": 406
+    },
+    {
+      "stationId": "Pat:49:345",
+      "file": "station_trips_index/Pat_49_345.json",
+      "count": 406,
+      "originalCount": 406
+    },
+    {
+      "stationId": "Pat:44:43005",
+      "file": "station_trips_index/Pat_44_43005.json",
+      "count": 101,
+      "originalCount": 101
+    },
+    {
+      "stationId": "Pat:44:43133",
+      "file": "station_trips_index/Pat_44_43133.json",
+      "count": 101,
+      "originalCount": 101
+    },
+    {
+      "stationId": "Pat:43:8241",
+      "file": "station_trips_index/Pat_43_8241.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:43:8240",
+      "file": "station_trips_index/Pat_43_8240.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:47:1205",
+      "file": "station_trips_index/Pat_47_1205.json",
+      "count": 120,
+      "originalCount": 120
+    },
+    {
+      "stationId": "at:48:817:0:6",
+      "file": "station_trips_index/at_48_817_0_6.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "Pat:49:1346",
+      "file": "station_trips_index/Pat_49_1346.json",
+      "count": 986,
+      "originalCount": 986
+    },
+    {
+      "stationId": "Pat:44:42850",
+      "file": "station_trips_index/Pat_44_42850.json",
+      "count": 93,
+      "originalCount": 93
+    },
+    {
+      "stationId": "at:48:1184:0:4",
+      "file": "station_trips_index/at_48_1184_0_4.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:45:52192",
+      "file": "station_trips_index/Pat_45_52192.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:45:52428",
+      "file": "station_trips_index/Pat_45_52428.json",
+      "count": 61,
+      "originalCount": 61
+    },
+    {
+      "stationId": "Pat:45:52210",
+      "file": "station_trips_index/Pat_45_52210.json",
+      "count": 61,
+      "originalCount": 61
+    },
+    {
+      "stationId": "Pat:43:3255",
+      "file": "station_trips_index/Pat_43_3255.json",
+      "count": 642,
+      "originalCount": 642
+    },
+    {
+      "stationId": "at:43:7169:0:1",
+      "file": "station_trips_index/at_43_7169_0_1.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "Pat:44:47650",
+      "file": "station_trips_index/Pat_44_47650.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "Pat:44:47511",
+      "file": "station_trips_index/Pat_44_47511.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:44:42940",
+      "file": "station_trips_index/Pat_44_42940.json",
+      "count": 58,
+      "originalCount": 58
+    },
+    {
+      "stationId": "Pat:44:49100",
+      "file": "station_trips_index/Pat_44_49100.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:44:49110",
+      "file": "station_trips_index/Pat_44_49110.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:44:49120",
+      "file": "station_trips_index/Pat_44_49120.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:44:49130",
+      "file": "station_trips_index/Pat_44_49130.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:44:49131",
+      "file": "station_trips_index/Pat_44_49131.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "Pat:44:48081",
+      "file": "station_trips_index/Pat_44_48081.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:44:48080",
+      "file": "station_trips_index/Pat_44_48080.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:44:48000",
+      "file": "station_trips_index/Pat_44_48000.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "Pat:44:48190",
+      "file": "station_trips_index/Pat_44_48190.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "Pat:44:48201",
+      "file": "station_trips_index/Pat_44_48201.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:44:48210",
+      "file": "station_trips_index/Pat_44_48210.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "Pat:44:46340",
+      "file": "station_trips_index/Pat_44_46340.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:46323",
+      "file": "station_trips_index/Pat_44_46323.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:46322",
+      "file": "station_trips_index/Pat_44_46322.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:46321",
+      "file": "station_trips_index/Pat_44_46321.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:46320",
+      "file": "station_trips_index/Pat_44_46320.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:43790",
+      "file": "station_trips_index/Pat_44_43790.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:43835",
+      "file": "station_trips_index/Pat_44_43835.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:43860",
+      "file": "station_trips_index/Pat_44_43860.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:42453",
+      "file": "station_trips_index/Pat_44_42453.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:42452",
+      "file": "station_trips_index/Pat_44_42452.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:44:42451",
+      "file": "station_trips_index/Pat_44_42451.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "Pat:43:7372",
+      "file": "station_trips_index/Pat_43_7372.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:43:7376",
+      "file": "station_trips_index/Pat_43_7376.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:43:7377",
+      "file": "station_trips_index/Pat_43_7377.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:43:7378",
+      "file": "station_trips_index/Pat_43_7378.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "Pat:43:7381",
+      "file": "station_trips_index/Pat_43_7381.json",
+      "count": 114,
+      "originalCount": 114
+    },
+    {
+      "stationId": "Pat:43:7399",
+      "file": "station_trips_index/Pat_43_7399.json",
+      "count": 43,
+      "originalCount": 43
+    },
+    {
+      "stationId": "Pat:43:7400",
+      "file": "station_trips_index/Pat_43_7400.json",
+      "count": 43,
+      "originalCount": 43
+    },
+    {
+      "stationId": "Pat:43:7401",
+      "file": "station_trips_index/Pat_43_7401.json",
+      "count": 43,
+      "originalCount": 43
+    },
+    {
+      "stationId": "Pat:44:46630",
+      "file": "station_trips_index/Pat_44_46630.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "Pat:44:46790",
+      "file": "station_trips_index/Pat_44_46790.json",
+      "count": 56,
+      "originalCount": 56
+    },
+    {
+      "stationId": "Pat:44:48531",
+      "file": "station_trips_index/Pat_44_48531.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:44:48900",
+      "file": "station_trips_index/Pat_44_48900.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:44:48920",
+      "file": "station_trips_index/Pat_44_48920.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:44:48930",
+      "file": "station_trips_index/Pat_44_48930.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:44:48141",
+      "file": "station_trips_index/Pat_44_48141.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:44:48140",
+      "file": "station_trips_index/Pat_44_48140.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:44:48101",
+      "file": "station_trips_index/Pat_44_48101.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "Pat:44:48050",
+      "file": "station_trips_index/Pat_44_48050.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "Pat:44:48060",
+      "file": "station_trips_index/Pat_44_48060.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:48300",
+      "file": "station_trips_index/Pat_44_48300.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:48310",
+      "file": "station_trips_index/Pat_44_48310.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:48320",
+      "file": "station_trips_index/Pat_44_48320.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:47130",
+      "file": "station_trips_index/Pat_44_47130.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:47120",
+      "file": "station_trips_index/Pat_44_47120.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:47980",
+      "file": "station_trips_index/Pat_44_47980.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:44:47230",
+      "file": "station_trips_index/Pat_44_47230.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "Pat:46:7441",
+      "file": "station_trips_index/Pat_46_7441.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "Pat:46:7443",
+      "file": "station_trips_index/Pat_46_7443.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "Pat:46:7024",
+      "file": "station_trips_index/Pat_46_7024.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pat:46:7444",
+      "file": "station_trips_index/Pat_46_7444.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "Pat:46:7445",
+      "file": "station_trips_index/Pat_46_7445.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "Pat:46:7189",
+      "file": "station_trips_index/Pat_46_7189.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "at:43:8764:0:2",
+      "file": "station_trips_index/at_43_8764_0_2.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "Pat:41:5980",
+      "file": "station_trips_index/Pat_41_5980.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:41:5233",
+      "file": "station_trips_index/Pat_41_5233.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:41:3087",
+      "file": "station_trips_index/Pat_41_3087.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:41:4325",
+      "file": "station_trips_index/Pat_41_4325.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:43:3867",
+      "file": "station_trips_index/Pat_43_3867.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:43:7120",
+      "file": "station_trips_index/Pat_43_7120.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:8068",
+      "file": "station_trips_index/Pat_43_8068.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7118",
+      "file": "station_trips_index/Pat_43_7118.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7117",
+      "file": "station_trips_index/Pat_43_7117.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7116",
+      "file": "station_trips_index/Pat_43_7116.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7115",
+      "file": "station_trips_index/Pat_43_7115.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7119",
+      "file": "station_trips_index/Pat_43_7119.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7114",
+      "file": "station_trips_index/Pat_43_7114.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:43:7113",
+      "file": "station_trips_index/Pat_43_7113.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "Pat:49:1248",
+      "file": "station_trips_index/Pat_49_1248.json",
+      "count": 805,
+      "originalCount": 805
+    },
+    {
+      "stationId": "Pat:49:769",
+      "file": "station_trips_index/Pat_49_769.json",
+      "count": 924,
+      "originalCount": 924
+    },
+    {
+      "stationId": "Pat:49:1357",
+      "file": "station_trips_index/Pat_49_1357.json",
+      "count": 263,
+      "originalCount": 263
+    },
+    {
+      "stationId": "Pat:43:3279",
+      "file": "station_trips_index/Pat_43_3279.json",
+      "count": 433,
+      "originalCount": 433
+    },
+    {
+      "stationId": "Pat:43:4922",
+      "file": "station_trips_index/Pat_43_4922.json",
+      "count": 281,
+      "originalCount": 281
+    },
+    {
+      "stationId": "Pat:43:3622",
+      "file": "station_trips_index/Pat_43_3622.json",
+      "count": 449,
+      "originalCount": 449
+    },
+    {
+      "stationId": "Pat:43:7233",
+      "file": "station_trips_index/Pat_43_7233.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:43:7231",
+      "file": "station_trips_index/Pat_43_7231.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "Pat:43:7228",
+      "file": "station_trips_index/Pat_43_7228.json",
+      "count": 89,
+      "originalCount": 89
+    },
+    {
+      "stationId": "Pat:43:8762",
+      "file": "station_trips_index/Pat_43_8762.json",
+      "count": 243,
+      "originalCount": 243
+    },
+    {
+      "stationId": "Pat:43:8761",
+      "file": "station_trips_index/Pat_43_8761.json",
+      "count": 253,
+      "originalCount": 253
+    },
+    {
+      "stationId": "Pat:43:8760",
+      "file": "station_trips_index/Pat_43_8760.json",
+      "count": 243,
+      "originalCount": 243
+    },
+    {
+      "stationId": "Pat:43:8759",
+      "file": "station_trips_index/Pat_43_8759.json",
+      "count": 243,
+      "originalCount": 243
+    },
+    {
+      "stationId": "Pat:43:8758",
+      "file": "station_trips_index/Pat_43_8758.json",
+      "count": 253,
+      "originalCount": 253
+    },
+    {
+      "stationId": "Pat:43:8757",
+      "file": "station_trips_index/Pat_43_8757.json",
+      "count": 243,
+      "originalCount": 243
+    },
+    {
+      "stationId": "Pat:42:3832",
+      "file": "station_trips_index/Pat_42_3832.json",
+      "count": 101,
+      "originalCount": 101
+    },
+    {
+      "stationId": "Pat:42:3826",
+      "file": "station_trips_index/Pat_42_3826.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "Pat:42:3824",
+      "file": "station_trips_index/Pat_42_3824.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "Pat:42:3823",
+      "file": "station_trips_index/Pat_42_3823.json",
+      "count": 107,
+      "originalCount": 107
+    },
+    {
+      "stationId": "Pat:42:3820",
+      "file": "station_trips_index/Pat_42_3820.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "Pat:42:3819",
+      "file": "station_trips_index/Pat_42_3819.json",
+      "count": 115,
+      "originalCount": 115
+    },
+    {
+      "stationId": "at:42:3647:0:2",
+      "file": "station_trips_index/at_42_3647_0_2.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "Pat:43:8242",
+      "file": "station_trips_index/Pat_43_8242.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:43:8243",
+      "file": "station_trips_index/Pat_43_8243.json",
+      "count": 79,
+      "originalCount": 79
+    },
+    {
+      "stationId": "Pat:46:7421",
+      "file": "station_trips_index/Pat_46_7421.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "Pat:46:7422",
+      "file": "station_trips_index/Pat_46_7422.json",
+      "count": 67,
+      "originalCount": 67
+    },
+    {
+      "stationId": "at:48:394:0:4",
+      "file": "station_trips_index/at_48_394_0_4.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "Pat:43:3499",
+      "file": "station_trips_index/Pat_43_3499.json",
+      "count": 300,
+      "originalCount": 300
+    },
+    {
+      "stationId": "Pat:43:3852",
+      "file": "station_trips_index/Pat_43_3852.json",
+      "count": 300,
+      "originalCount": 300
+    },
+    {
+      "stationId": "Pat:43:4759",
+      "file": "station_trips_index/Pat_43_4759.json",
+      "count": 300,
+      "originalCount": 300
+    },
+    {
+      "stationId": "Pat:43:4417",
+      "file": "station_trips_index/Pat_43_4417.json",
+      "count": 388,
+      "originalCount": 388
+    },
+    {
+      "stationId": "Pat:43:5274",
+      "file": "station_trips_index/Pat_43_5274.json",
+      "count": 406,
+      "originalCount": 406
+    },
+    {
+      "stationId": "Pat:43:4500",
+      "file": "station_trips_index/Pat_43_4500.json",
+      "count": 627,
+      "originalCount": 627
+    },
+    {
+      "stationId": "Pat:43:7370",
+      "file": "station_trips_index/Pat_43_7370.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "Pat:43:8012",
+      "file": "station_trips_index/Pat_43_8012.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "Pat:43:8008",
+      "file": "station_trips_index/Pat_43_8008.json",
+      "count": 141,
+      "originalCount": 141
+    },
+    {
+      "stationId": "Pat:43:8011",
+      "file": "station_trips_index/Pat_43_8011.json",
+      "count": 131,
+      "originalCount": 131
+    },
+    {
+      "stationId": "Pat:43:8004",
+      "file": "station_trips_index/Pat_43_8004.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:8002",
+      "file": "station_trips_index/Pat_43_8002.json",
+      "count": 141,
+      "originalCount": 141
+    },
+    {
+      "stationId": "Pat:43:5005",
+      "file": "station_trips_index/Pat_43_5005.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:3496",
+      "file": "station_trips_index/Pat_43_3496.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:4798",
+      "file": "station_trips_index/Pat_43_4798.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:5006",
+      "file": "station_trips_index/Pat_43_5006.json",
+      "count": 141,
+      "originalCount": 141
+    },
+    {
+      "stationId": "Pat:43:4216",
+      "file": "station_trips_index/Pat_43_4216.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:3064",
+      "file": "station_trips_index/Pat_43_3064.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:4196",
+      "file": "station_trips_index/Pat_43_4196.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:4029",
+      "file": "station_trips_index/Pat_43_4029.json",
+      "count": 264,
+      "originalCount": 264
+    },
+    {
+      "stationId": "Pat:43:4225",
+      "file": "station_trips_index/Pat_43_4225.json",
+      "count": 264,
+      "originalCount": 264
+    },
+    {
+      "stationId": "Pat:43:5301",
+      "file": "station_trips_index/Pat_43_5301.json",
+      "count": 264,
+      "originalCount": 264
+    },
+    {
+      "stationId": "Pat:43:3544",
+      "file": "station_trips_index/Pat_43_3544.json",
+      "count": 264,
+      "originalCount": 264
+    },
+    {
+      "stationId": "Pat:43:4003",
+      "file": "station_trips_index/Pat_43_4003.json",
+      "count": 264,
+      "originalCount": 264
+    },
+    {
+      "stationId": "Pat:49:948",
+      "file": "station_trips_index/Pat_49_948.json",
+      "count": 260,
+      "originalCount": 260
+    },
+    {
+      "stationId": "Pat:43:4875",
+      "file": "station_trips_index/Pat_43_4875.json",
+      "count": 269,
+      "originalCount": 269
+    },
+    {
+      "stationId": "Pde:05515:41000",
+      "file": "station_trips_index/Pde_05515_41000.json",
+      "count": 148,
+      "originalCount": 148
+    },
+    {
+      "stationId": "Pat:43:3580",
+      "file": "station_trips_index/Pat_43_3580.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "Pat:43:5304",
+      "file": "station_trips_index/Pat_43_5304.json",
+      "count": 87,
+      "originalCount": 87
+    },
+    {
+      "stationId": "Pat:43:4102",
+      "file": "station_trips_index/Pat_43_4102.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "Pat:43:3339",
+      "file": "station_trips_index/Pat_43_3339.json",
+      "count": 102,
+      "originalCount": 102
+    },
+    {
+      "stationId": "Pat:43:7161",
+      "file": "station_trips_index/Pat_43_7161.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:43:7162",
+      "file": "station_trips_index/Pat_43_7162.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:43:7163",
+      "file": "station_trips_index/Pat_43_7163.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:7164",
+      "file": "station_trips_index/Pat_43_7164.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pat:43:7165",
+      "file": "station_trips_index/Pat_43_7165.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:7166",
+      "file": "station_trips_index/Pat_43_7166.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:7167",
+      "file": "station_trips_index/Pat_43_7167.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:43:7168",
+      "file": "station_trips_index/Pat_43_7168.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "Pat:47:1209",
+      "file": "station_trips_index/Pat_47_1209.json",
+      "count": 93,
+      "originalCount": 93
+    },
+    {
+      "stationId": "Pat:47:1210",
+      "file": "station_trips_index/Pat_47_1210.json",
+      "count": 93,
+      "originalCount": 93
+    },
+    {
+      "stationId": "Pat:43:5189",
+      "file": "station_trips_index/Pat_43_5189.json",
+      "count": 132,
+      "originalCount": 132
+    },
+    {
+      "stationId": "Pat:43:4975",
+      "file": "station_trips_index/Pat_43_4975.json",
+      "count": 132,
+      "originalCount": 132
+    },
+    {
+      "stationId": "Pat:43:3046",
+      "file": "station_trips_index/Pat_43_3046.json",
+      "count": 144,
+      "originalCount": 144
+    },
+    {
+      "stationId": "Pat:43:4882",
+      "file": "station_trips_index/Pat_43_4882.json",
+      "count": 130,
+      "originalCount": 130
+    },
+    {
+      "stationId": "Pat:43:3310",
+      "file": "station_trips_index/Pat_43_3310.json",
+      "count": 144,
+      "originalCount": 144
+    },
+    {
+      "stationId": "Pat:43:3830",
+      "file": "station_trips_index/Pat_43_3830.json",
+      "count": 129,
+      "originalCount": 129
+    },
+    {
+      "stationId": "Pat:43:4787",
+      "file": "station_trips_index/Pat_43_4787.json",
+      "count": 129,
+      "originalCount": 129
+    },
+    {
+      "stationId": "Pat:43:3309",
+      "file": "station_trips_index/Pat_43_3309.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:3778",
+      "file": "station_trips_index/Pat_43_3778.json",
+      "count": 143,
+      "originalCount": 143
+    },
+    {
+      "stationId": "Pat:43:4616",
+      "file": "station_trips_index/Pat_43_4616.json",
+      "count": 137,
+      "originalCount": 137
+    },
+    {
+      "stationId": "Pat:43:3162",
+      "file": "station_trips_index/Pat_43_3162.json",
+      "count": 141,
+      "originalCount": 141
+    },
+    {
+      "stationId": "Pat:43:4015",
+      "file": "station_trips_index/Pat_43_4015.json",
+      "count": 164,
+      "originalCount": 164
+    },
+    {
+      "stationId": "Pat:43:3991",
+      "file": "station_trips_index/Pat_43_3991.json",
+      "count": 145,
+      "originalCount": 145
+    },
+    {
+      "stationId": "Pat:43:4852",
+      "file": "station_trips_index/Pat_43_4852.json",
+      "count": 165,
+      "originalCount": 165
+    },
+    {
+      "stationId": "Pat:43:3388",
+      "file": "station_trips_index/Pat_43_3388.json",
+      "count": 165,
+      "originalCount": 165
+    },
+    {
+      "stationId": "Pat:43:3449",
+      "file": "station_trips_index/Pat_43_3449.json",
+      "count": 165,
+      "originalCount": 165
+    },
+    {
+      "stationId": "Pat:43:3806",
+      "file": "station_trips_index/Pat_43_3806.json",
+      "count": 145,
+      "originalCount": 145
+    },
+    {
+      "stationId": "Pat:43:4765",
+      "file": "station_trips_index/Pat_43_4765.json",
+      "count": 145,
+      "originalCount": 145
+    },
+    {
+      "stationId": "Pat:43:4207",
+      "file": "station_trips_index/Pat_43_4207.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:43:4202",
+      "file": "station_trips_index/Pat_43_4202.json",
+      "count": 261,
+      "originalCount": 261
+    },
+    {
+      "stationId": "Pat:43:3780",
+      "file": "station_trips_index/Pat_43_3780.json",
+      "count": 277,
+      "originalCount": 277
+    },
+    {
+      "stationId": "Pat:43:3733",
+      "file": "station_trips_index/Pat_43_3733.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "Pat:43:3608",
+      "file": "station_trips_index/Pat_43_3608.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "Pat:43:4552",
+      "file": "station_trips_index/Pat_43_4552.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "Pat:43:5303",
+      "file": "station_trips_index/Pat_43_5303.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "Pat:43:4656",
+      "file": "station_trips_index/Pat_43_4656.json",
+      "count": 149,
+      "originalCount": 149
+    },
+    {
+      "stationId": "Pat:43:20307",
+      "file": "station_trips_index/Pat_43_20307.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "Pat:43:99987",
+      "file": "station_trips_index/Pat_43_99987.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pcz:0:5436275",
+      "file": "station_trips_index/Pcz_0_5436275.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pat:44:47840",
+      "file": "station_trips_index/Pat_44_47840.json",
+      "count": 101,
+      "originalCount": 101
+    },
+    {
+      "stationId": "Pat:49:176",
+      "file": "station_trips_index/Pat_49_176.json",
+      "count": 427,
+      "originalCount": 427
+    },
+    {
+      "stationId": "Pat:49:591",
+      "file": "station_trips_index/Pat_49_591.json",
+      "count": 448,
+      "originalCount": 448
+    },
+    {
+      "stationId": "Pat:49:1333",
+      "file": "station_trips_index/Pat_49_1333.json",
+      "count": 401,
+      "originalCount": 401
+    },
+    {
+      "stationId": "Pat:43:4045",
+      "file": "station_trips_index/Pat_43_4045.json",
+      "count": 418,
+      "originalCount": 418
+    },
+    {
+      "stationId": "Pat:43:3170",
+      "file": "station_trips_index/Pat_43_3170.json",
+      "count": 402,
+      "originalCount": 402
+    },
+    {
+      "stationId": "Pat:43:4783",
+      "file": "station_trips_index/Pat_43_4783.json",
+      "count": 155,
+      "originalCount": 155
+    },
+    {
+      "stationId": "Pat:43:3647",
+      "file": "station_trips_index/Pat_43_3647.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pat:43:4814",
+      "file": "station_trips_index/Pat_43_4814.json",
+      "count": 301,
+      "originalCount": 301
+    },
+    {
+      "stationId": "Pat:41:3831",
+      "file": "station_trips_index/Pat_41_3831.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:41:5248",
+      "file": "station_trips_index/Pat_41_5248.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:41:3186",
+      "file": "station_trips_index/Pat_41_3186.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:41:4592",
+      "file": "station_trips_index/Pat_41_4592.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:41:3298",
+      "file": "station_trips_index/Pat_41_3298.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:41:4731",
+      "file": "station_trips_index/Pat_41_4731.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "Pat:41:4732",
+      "file": "station_trips_index/Pat_41_4732.json",
+      "count": 94,
+      "originalCount": 94
+    },
+    {
+      "stationId": "at:43:7169:0:7",
+      "file": "station_trips_index/at_43_7169_0_7.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "Pat:43:4671",
+      "file": "station_trips_index/Pat_43_4671.json",
+      "count": 63,
+      "originalCount": 63
+    },
+    {
+      "stationId": "Pat:43:5070",
+      "file": "station_trips_index/Pat_43_5070.json",
+      "count": 158,
+      "originalCount": 158
+    },
+    {
+      "stationId": "Pde:05315:11201",
+      "file": "station_trips_index/Pde_05315_11201.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "at:43:7169:0:6",
+      "file": "station_trips_index/at_43_7169_0_6.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "at:48:1436:0:4",
+      "file": "station_trips_index/at_48_1436_0_4.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Pat:43:4025",
+      "file": "station_trips_index/Pat_43_4025.json",
+      "count": 189,
+      "originalCount": 189
+    },
+    {
+      "stationId": "Pat:43:4318",
+      "file": "station_trips_index/Pat_43_4318.json",
+      "count": 177,
+      "originalCount": 177
+    },
+    {
+      "stationId": "Pat:43:4695",
+      "file": "station_trips_index/Pat_43_4695.json",
+      "count": 188,
+      "originalCount": 188
+    },
+    {
+      "stationId": "Pat:43:4790",
+      "file": "station_trips_index/Pat_43_4790.json",
+      "count": 253,
+      "originalCount": 253
+    },
+    {
+      "stationId": "de:09161:9000:3:2",
+      "file": "station_trips_index/de_09161_9000_3_2.json",
+      "count": 26,
+      "originalCount": 26
+    },
+    {
+      "stationId": "Pat:43:3430",
+      "file": "station_trips_index/Pat_43_3430.json",
+      "count": 191,
+      "originalCount": 191
+    },
+    {
+      "stationId": "Pat:43:8000",
+      "file": "station_trips_index/Pat_43_8000.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "Pat:43:8005",
+      "file": "station_trips_index/Pat_43_8005.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "Pat:43:5271",
+      "file": "station_trips_index/Pat_43_5271.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:43:3677",
+      "file": "station_trips_index/Pat_43_3677.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:43:3686",
+      "file": "station_trips_index/Pat_43_3686.json",
+      "count": 162,
+      "originalCount": 162
+    },
+    {
+      "stationId": "Pat:43:3681",
+      "file": "station_trips_index/Pat_43_3681.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:43:3079",
+      "file": "station_trips_index/Pat_43_3079.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:43:4531",
+      "file": "station_trips_index/Pat_43_4531.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:43:5235",
+      "file": "station_trips_index/Pat_43_5235.json",
+      "count": 162,
+      "originalCount": 162
+    },
+    {
+      "stationId": "Pat:43:4639",
+      "file": "station_trips_index/Pat_43_4639.json",
+      "count": 182,
+      "originalCount": 182
+    },
+    {
+      "stationId": "Pat:43:3706",
+      "file": "station_trips_index/Pat_43_3706.json",
+      "count": 170,
+      "originalCount": 170
+    },
+    {
+      "stationId": "Pat:43:4142",
+      "file": "station_trips_index/Pat_43_4142.json",
+      "count": 183,
+      "originalCount": 183
+    },
+    {
+      "stationId": "Pat:43:4377",
+      "file": "station_trips_index/Pat_43_4377.json",
+      "count": 175,
+      "originalCount": 175
+    },
+    {
+      "stationId": "de:09161:9000:5:7",
+      "file": "station_trips_index/de_09161_9000_5_7.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pat:43:4408",
+      "file": "station_trips_index/Pat_43_4408.json",
+      "count": 138,
+      "originalCount": 138
+    },
+    {
+      "stationId": "Pat:43:3794",
+      "file": "station_trips_index/Pat_43_3794.json",
+      "count": 134,
+      "originalCount": 134
+    },
+    {
+      "stationId": "Pat:43:4743",
+      "file": "station_trips_index/Pat_43_4743.json",
+      "count": 138,
+      "originalCount": 138
+    },
+    {
+      "stationId": "Pat:43:3205",
+      "file": "station_trips_index/Pat_43_3205.json",
+      "count": 138,
+      "originalCount": 138
+    },
+    {
+      "stationId": "at:48:130:0:12",
+      "file": "station_trips_index/at_48_130_0_12.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "Pat:43:3851",
+      "file": "station_trips_index/Pat_43_3851.json",
+      "count": 54,
+      "originalCount": 54
+    },
+    {
+      "stationId": "de:09776:1592:2:4",
+      "file": "station_trips_index/de_09776_1592_2_4.json",
+      "count": 36,
+      "originalCount": 36
+    },
+    {
+      "stationId": "Pat:43:5094",
+      "file": "station_trips_index/Pat_43_5094.json",
+      "count": 125,
+      "originalCount": 125
+    },
+    {
+      "stationId": "at:41:3351:0:1",
+      "file": "station_trips_index/at_41_3351_0_1.json",
+      "count": 47,
+      "originalCount": 47
+    },
+    {
+      "stationId": "Pit:22079:stv1",
+      "file": "station_trips_index/Pit_22079_stv1.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "Pit:22015:116",
+      "file": "station_trips_index/Pit_22015_116.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "Pat:43:3712",
+      "file": "station_trips_index/Pat_43_3712.json",
+      "count": 155,
+      "originalCount": 155
+    },
+    {
+      "stationId": "Pat:43:4455",
+      "file": "station_trips_index/Pat_43_4455.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "Pbe:26:8814001",
+      "file": "station_trips_index/Pbe_26_8814001.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:42:3663",
+      "file": "station_trips_index/Pat_42_3663.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "Pat:43:3292",
+      "file": "station_trips_index/Pat_43_3292.json",
+      "count": 249,
+      "originalCount": 249
+    },
+    {
+      "stationId": "Pat:43:3314",
+      "file": "station_trips_index/Pat_43_3314.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:43:4651",
+      "file": "station_trips_index/Pat_43_4651.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "Pat:41:5969",
+      "file": "station_trips_index/Pat_41_5969.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:41:5970",
+      "file": "station_trips_index/Pat_41_5970.json",
+      "count": 61,
+      "originalCount": 61
+    },
+    {
+      "stationId": "Pat:41:5971",
+      "file": "station_trips_index/Pat_41_5971.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "Pat:41:5972",
+      "file": "station_trips_index/Pat_41_5972.json",
+      "count": 61,
+      "originalCount": 61
+    },
+    {
+      "stationId": "Pat:43:7382",
+      "file": "station_trips_index/Pat_43_7382.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7383",
+      "file": "station_trips_index/Pat_43_7383.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7384",
+      "file": "station_trips_index/Pat_43_7384.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7385",
+      "file": "station_trips_index/Pat_43_7385.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "Pat:43:7386",
+      "file": "station_trips_index/Pat_43_7386.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "de:08421:1008:31:1",
+      "file": "station_trips_index/de_08421_1008_31_1.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "de:08111:6115:5:10",
+      "file": "station_trips_index/de_08111_6115_5_10.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "de:08111:6115:5:9",
+      "file": "station_trips_index/de_08111_6115_5_9.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "Pit:22021:1725",
+      "file": "station_trips_index/Pit_22021_1725.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "Pit:22021:2235",
+      "file": "station_trips_index/Pit_22021_2235.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "Pit:22021:1179",
+      "file": "station_trips_index/Pit_22021_1179.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "Pit:22021:1177",
+      "file": "station_trips_index/Pit_22021_1177.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "Pit:22021:1170",
+      "file": "station_trips_index/Pit_22021_1170.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "Pde:11000:900003201",
+      "file": "station_trips_index/Pde_11000_900003201.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "Pde:11000:900058101",
+      "file": "station_trips_index/Pde_11000_900058101.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "Ppl:51020",
+      "file": "station_trips_index/Ppl_51020.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "Pat:44:46641",
+      "file": "station_trips_index/Pat_44_46641.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "Pat:43:4983",
+      "file": "station_trips_index/Pat_43_4983.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:43:4978",
+      "file": "station_trips_index/Pat_43_4978.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:43:4423",
+      "file": "station_trips_index/Pat_43_4423.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:43:5023",
+      "file": "station_trips_index/Pat_43_5023.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "Pat:43:4429",
+      "file": "station_trips_index/Pat_43_4429.json",
+      "count": 98,
+      "originalCount": 98
+    },
+    {
+      "stationId": "Pat:43:99986",
+      "file": "station_trips_index/Pat_43_99986.json",
+      "count": 55,
+      "originalCount": 55
+    },
+    {
+      "stationId": "Pit:22021:998",
+      "file": "station_trips_index/Pit_22021_998.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Pit:22021:468",
+      "file": "station_trips_index/Pit_22021_468.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Psk:56:7",
+      "file": "station_trips_index/Psk_56_7.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "Pat:43:7229",
+      "file": "station_trips_index/Pat_43_7229.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "de:02000:10950:11:1",
+      "file": "station_trips_index/de_02000_10950_11_1.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pro:34:obb1",
+      "file": "station_trips_index/Pro_34_obb1.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Phu:15130:27001786",
+      "file": "station_trips_index/Phu_15130_27001786.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Phu:55061",
+      "file": "station_trips_index/Phu_55061.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Phu:55064",
+      "file": "station_trips_index/Phu_55064.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Pua:22033",
+      "file": "station_trips_index/Pua_22033.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pua:22517",
+      "file": "station_trips_index/Pua_22517.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pua:22072",
+      "file": "station_trips_index/Pua_22072.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pua:22025",
+      "file": "station_trips_index/Pua_22025.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Pua:22005",
+      "file": "station_trips_index/Pua_22005.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "Phu:15343:27001902",
+      "file": "station_trips_index/Phu_15343_27001902.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "at:48:1133:0:4",
+      "file": "station_trips_index/at_48_1133_0_4.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "at:48:130:0:2",
+      "file": "station_trips_index/at_48_130_0_2.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "de:02000:10950:1:5",
+      "file": "station_trips_index/de_02000_10950_1_5.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "de:09161:9000:4:4",
+      "file": "station_trips_index/de_09161_9000_4_4.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "de:08111:6115:1:1",
+      "file": "station_trips_index/de_08111_6115_1_1.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "de:08111:6115:3:5",
+      "file": "station_trips_index/de_08111_6115_3_5.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "de:08421:1008:32:2",
+      "file": "station_trips_index/de_08421_1008_32_2.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "Ppl:18:stv14804",
+      "file": "station_trips_index/Ppl_18_stv14804.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "Pcz:55803:NVBW_CSD_5",
+      "file": "station_trips_index/Pcz_55803_NVBW_CSD_5.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "de:08111:6115:8:16",
+      "file": "station_trips_index/de_08111_6115_8_16.json",
+      "count": 8,
+      "originalCount": 8
+    }
+  ],
+  "limitedPerStation": 0
+}

@@ -1,0 +1,110 @@
+{
+  "country": "EU",
+  "source": "eurostar",
+  "totalStationsWithTrips": 17,
+  "files": [
+    {
+      "stationId": "st_pancras_international_station_area",
+      "file": "station_trips_index/st_pancras_international_station_area.json",
+      "count": 4780,
+      "originalCount": 4780
+    },
+    {
+      "stationId": "paris_nord_station_area",
+      "file": "station_trips_index/paris_nord_station_area.json",
+      "count": 9130,
+      "originalCount": 9130
+    },
+    {
+      "stationId": "bruxelles_midi_station_area",
+      "file": "station_trips_index/bruxelles_midi_station_area.json",
+      "count": 8119,
+      "originalCount": 8119
+    },
+    {
+      "stationId": "rotterdam_centraal_station_area",
+      "file": "station_trips_index/rotterdam_centraal_station_area.json",
+      "count": 3384,
+      "originalCount": 3384
+    },
+    {
+      "stationId": "amsterdam_centraal_station_area",
+      "file": "station_trips_index/amsterdam_centraal_station_area.json",
+      "count": 3380,
+      "originalCount": 3380
+    },
+    {
+      "stationId": "lille_europe_station_area",
+      "file": "station_trips_index/lille_europe_station_area.json",
+      "count": 1534,
+      "originalCount": 1534
+    },
+    {
+      "stationId": "antwerpen_centraal_station_area",
+      "file": "station_trips_index/antwerpen_centraal_station_area.json",
+      "count": 2640,
+      "originalCount": 2640
+    },
+    {
+      "stationId": "schiphol_airport_station_area",
+      "file": "station_trips_index/schiphol_airport_station_area.json",
+      "count": 2548,
+      "originalCount": 2548
+    },
+    {
+      "stationId": "liege_guillemins_station_area",
+      "file": "station_trips_index/liege_guillemins_station_area.json",
+      "count": 780,
+      "originalCount": 780
+    },
+    {
+      "stationId": "aachen_hbf_station_area",
+      "file": "station_trips_index/aachen_hbf_station_area.json",
+      "count": 780,
+      "originalCount": 780
+    },
+    {
+      "stationId": "koln_hbf_station_area",
+      "file": "station_trips_index/koln_hbf_station_area.json",
+      "count": 780,
+      "originalCount": 780
+    },
+    {
+      "stationId": "dortmund_hbf_station_area",
+      "file": "station_trips_index/dortmund_hbf_station_area.json",
+      "count": 225,
+      "originalCount": 225
+    },
+    {
+      "stationId": "essen_hbf_station_area",
+      "file": "station_trips_index/essen_hbf_station_area.json",
+      "count": 225,
+      "originalCount": 225
+    },
+    {
+      "stationId": "dusseldorf_hbf_station_area",
+      "file": "station_trips_index/dusseldorf_hbf_station_area.json",
+      "count": 225,
+      "originalCount": 225
+    },
+    {
+      "stationId": "duisburg_hbf_station_area",
+      "file": "station_trips_index/duisburg_hbf_station_area.json",
+      "count": 180,
+      "originalCount": 180
+    },
+    {
+      "stationId": "roissy_airport_cdg_2_station_area",
+      "file": "station_trips_index/roissy_airport_cdg_2_station_area.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "marne_la_vallee_chessy_station_area",
+      "file": "station_trips_index/marne_la_vallee_chessy_station_area.json",
+      "count": 106,
+      "originalCount": 106
+    }
+  ],
+  "limitedPerStation": 0
+}

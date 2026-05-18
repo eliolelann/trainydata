@@ -1,0 +1,21 @@
+{
+  "country": "FR",
+  "source": "trenitalia-france",
+  "filterMethod": "route_type",
+  "allowedRouteTypes": [
+    "101",
+    "2"
+  ],
+  "totalRoutes": 31,
+  "railRoutes": 31,
+  "totalTrips": 4295,
+  "railTrips": 4295,
+  "railStopTimes": 17630,
+  "totalStops": 18,
+  "railStations": 18,
+  "generatedTripDetails": 4289,
+  "tripsIndexParts": 1,
+  "stationTripsIndexFiles": 18,
+  "calendarDatesParts": 1,
+  "skipTripDetails": false
+}

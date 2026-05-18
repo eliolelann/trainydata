@@ -1,0 +1,28 @@
+{
+  "country": "AT",
+  "source": "oebb",
+  "filterMethod": "route_type",
+  "allowedRouteTypes": [
+    "101",
+    "102",
+    "103",
+    "105",
+    "106",
+    "107",
+    "109",
+    "117",
+    "2"
+  ],
+  "totalRoutes": 273,
+  "railRoutes": 259,
+  "totalTrips": 15165,
+  "railTrips": 14690,
+  "railStopTimes": 172778,
+  "totalStops": 7698,
+  "railStations": 1154,
+  "generatedTripDetails": 14690,
+  "tripsIndexParts": 3,
+  "stationTripsIndexFiles": 1154,
+  "calendarDatesParts": 17,
+  "skipTripDetails": false
+}

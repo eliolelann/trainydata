@@ -1,0 +1,116 @@
+{
+  "country": "FR",
+  "source": "trenitalia-france",
+  "totalStationsWithTrips": 18,
+  "files": [
+    {
+      "stationId": "10007",
+      "file": "station_trips_index/10007.json",
+      "count": 4220,
+      "originalCount": 4220
+    },
+    {
+      "stationId": "10006",
+      "file": "station_trips_index/10006.json",
+      "count": 3010,
+      "originalCount": 3010
+    },
+    {
+      "stationId": "10054",
+      "file": "station_trips_index/10054.json",
+      "count": 93,
+      "originalCount": 93
+    },
+    {
+      "stationId": "10009",
+      "file": "station_trips_index/10009.json",
+      "count": 1829,
+      "originalCount": 1829
+    },
+    {
+      "stationId": "10014",
+      "file": "station_trips_index/10014.json",
+      "count": 1378,
+      "originalCount": 1378
+    },
+    {
+      "stationId": "10015",
+      "file": "station_trips_index/10015.json",
+      "count": 1378,
+      "originalCount": 1378
+    },
+    {
+      "stationId": "10016",
+      "file": "station_trips_index/10016.json",
+      "count": 1377,
+      "originalCount": 1377
+    },
+    {
+      "stationId": "10010",
+      "file": "station_trips_index/10010.json",
+      "count": 1152,
+      "originalCount": 1152
+    },
+    {
+      "stationId": "10000",
+      "file": "station_trips_index/10000.json",
+      "count": 598,
+      "originalCount": 598
+    },
+    {
+      "stationId": "10001",
+      "file": "station_trips_index/10001.json",
+      "count": 598,
+      "originalCount": 598
+    },
+    {
+      "stationId": "10049",
+      "file": "station_trips_index/10049.json",
+      "count": 598,
+      "originalCount": 598
+    },
+    {
+      "stationId": "10004",
+      "file": "station_trips_index/10004.json",
+      "count": 529,
+      "originalCount": 529
+    },
+    {
+      "stationId": "10005",
+      "file": "station_trips_index/10005.json",
+      "count": 529,
+      "originalCount": 529
+    },
+    {
+      "stationId": "10056",
+      "file": "station_trips_index/10056.json",
+      "count": 34,
+      "originalCount": 34
+    },
+    {
+      "stationId": "10011",
+      "file": "station_trips_index/10011.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "10008",
+      "file": "station_trips_index/10008.json",
+      "count": 267,
+      "originalCount": 267
+    },
+    {
+      "stationId": "10003",
+      "file": "station_trips_index/10003.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "10057",
+      "file": "station_trips_index/10057.json",
+      "count": 5,
+      "originalCount": 5
+    }
+  ],
+  "limitedPerStation": 0
+}
