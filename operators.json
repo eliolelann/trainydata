@@ -1,0 +1,44 @@
+[
+  {
+    "id": "renfe",
+    "name": "Renfe",
+    "country": "ES",
+    "color": "#7B1FA2"
+  },
+  {
+    "id": "sncf",
+    "name": "SNCF",
+    "country": "FR",
+    "color": "#D52B1E"
+  },
+  {
+    "id": "iryo",
+    "name": "iryo",
+    "country": "ES",
+    "color": "#E60012"
+  },
+  {
+    "id": "ouigo-es",
+    "name": "OUIGO España",
+    "country": "ES",
+    "color": "#E91E63"
+  },
+  {
+    "id": "tgv-lyria",
+    "name": "TGV Lyria",
+    "country": "FR",
+    "color": "#B00020"
+  },
+  {
+    "id": "trenitalia-france",
+    "name": "Trenitalia France",
+    "country": "FR",
+    "color": "#00843D"
+  },
+  {
+    "id": "eurostar",
+    "name": "Eurostar",
+    "country": "EU",
+    "color": "#24135F"
+  }
+]
