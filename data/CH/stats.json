@@ -20,5 +20,9 @@
   "railStopTimes": 2297540,
   "totalStops": 101773,
   "railStations": 3190,
-  "generatedTripDetails": 208932
+  "generatedTripDetails": 0,
+  "tripsIndexParts": 42,
+  "stationTripsIndexFiles": 3190,
+  "calendarDatesParts": 711,
+  "skipTripDetails": true
 }
