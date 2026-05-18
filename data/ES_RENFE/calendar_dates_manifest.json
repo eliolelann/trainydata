@@ -1,0 +1,33 @@
+{
+  "country": "ES",
+  "source": "renfe",
+  "totalCalendarDates": 44862,
+  "chunkSize": 10000,
+  "parts": [
+    {
+      "index": 0,
+      "file": "calendar_dates_parts/calendar_dates_000.json",
+      "count": 10000
+    },
+    {
+      "index": 1,
+      "file": "calendar_dates_parts/calendar_dates_001.json",
+      "count": 10000
+    },
+    {
+      "index": 2,
+      "file": "calendar_dates_parts/calendar_dates_002.json",
+      "count": 10000
+    },
+    {
+      "index": 3,
+      "file": "calendar_dates_parts/calendar_dates_003.json",
+      "count": 10000
+    },
+    {
+      "index": 4,
+      "file": "calendar_dates_parts/calendar_dates_004.json",
+      "count": 4862
+    }
+  ]
+}

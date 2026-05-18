@@ -1,0 +1,6122 @@
+{
+  "country": "ES",
+  "source": "renfe",
+  "totalStationsWithTrips": 1019,
+  "files": [
+    {
+      "stationId": "17000",
+      "file": "station_trips_index/17000.json",
+      "count": 1474,
+      "originalCount": 1474
+    },
+    {
+      "stationId": "18000",
+      "file": "station_trips_index/18000.json",
+      "count": 547,
+      "originalCount": 547
+    },
+    {
+      "stationId": "35001",
+      "file": "station_trips_index/35001.json",
+      "count": 341,
+      "originalCount": 341
+    },
+    {
+      "stationId": "35105",
+      "file": "station_trips_index/35105.json",
+      "count": 245,
+      "originalCount": 245
+    },
+    {
+      "stationId": "35200",
+      "file": "station_trips_index/35200.json",
+      "count": 321,
+      "originalCount": 321
+    },
+    {
+      "stationId": "35203",
+      "file": "station_trips_index/35203.json",
+      "count": 228,
+      "originalCount": 228
+    },
+    {
+      "stationId": "35206",
+      "file": "station_trips_index/35206.json",
+      "count": 304,
+      "originalCount": 304
+    },
+    {
+      "stationId": "30000",
+      "file": "station_trips_index/30000.json",
+      "count": 240,
+      "originalCount": 240
+    },
+    {
+      "stationId": "35400",
+      "file": "station_trips_index/35400.json",
+      "count": 387,
+      "originalCount": 387
+    },
+    {
+      "stationId": "37500",
+      "file": "station_trips_index/37500.json",
+      "count": 208,
+      "originalCount": 208
+    },
+    {
+      "stationId": "37603",
+      "file": "station_trips_index/37603.json",
+      "count": 95,
+      "originalCount": 95
+    },
+    {
+      "stationId": "37606",
+      "file": "station_trips_index/37606.json",
+      "count": 241,
+      "originalCount": 241
+    },
+    {
+      "stationId": "30002",
+      "file": "station_trips_index/30002.json",
+      "count": 91,
+      "originalCount": 91
+    },
+    {
+      "stationId": "60400",
+      "file": "station_trips_index/60400.json",
+      "count": 305,
+      "originalCount": 305
+    },
+    {
+      "stationId": "50207",
+      "file": "station_trips_index/50207.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "50300",
+      "file": "station_trips_index/50300.json",
+      "count": 55,
+      "originalCount": 55
+    },
+    {
+      "stationId": "56004",
+      "file": "station_trips_index/56004.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "56009",
+      "file": "station_trips_index/56009.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "56100",
+      "file": "station_trips_index/56100.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "56200",
+      "file": "station_trips_index/56200.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "56310",
+      "file": "station_trips_index/56310.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "56312",
+      "file": "station_trips_index/56312.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "11200",
+      "file": "station_trips_index/11200.json",
+      "count": 541,
+      "originalCount": 541
+    },
+    {
+      "stationId": "13106",
+      "file": "station_trips_index/13106.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "13200",
+      "file": "station_trips_index/13200.json",
+      "count": 118,
+      "originalCount": 118
+    },
+    {
+      "stationId": "11511",
+      "file": "station_trips_index/11511.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "11400",
+      "file": "station_trips_index/11400.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "11300",
+      "file": "station_trips_index/11300.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "11208",
+      "file": "station_trips_index/11208.json",
+      "count": 400,
+      "originalCount": 400
+    },
+    {
+      "stationId": "22308",
+      "file": "station_trips_index/22308.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "22402",
+      "file": "station_trips_index/22402.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "94033",
+      "file": "station_trips_index/94033.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "96122",
+      "file": "station_trips_index/96122.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "94021",
+      "file": "station_trips_index/94021.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "94346",
+      "file": "station_trips_index/94346.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "81002",
+      "file": "station_trips_index/81002.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "81100",
+      "file": "station_trips_index/81100.json",
+      "count": 102,
+      "originalCount": 102
+    },
+    {
+      "stationId": "81108",
+      "file": "station_trips_index/81108.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "81200",
+      "file": "station_trips_index/81200.json",
+      "count": 360,
+      "originalCount": 360
+    },
+    {
+      "stationId": "81202",
+      "file": "station_trips_index/81202.json",
+      "count": 385,
+      "originalCount": 385
+    },
+    {
+      "stationId": "04040",
+      "file": "station_trips_index/04040.json",
+      "count": 1065,
+      "originalCount": 1065
+    },
+    {
+      "stationId": "78400",
+      "file": "station_trips_index/78400.json",
+      "count": 539,
+      "originalCount": 539
+    },
+    {
+      "stationId": "04104",
+      "file": "station_trips_index/04104.json",
+      "count": 808,
+      "originalCount": 808
+    },
+    {
+      "stationId": "71801",
+      "file": "station_trips_index/71801.json",
+      "count": 1291,
+      "originalCount": 1291
+    },
+    {
+      "stationId": "65000",
+      "file": "station_trips_index/65000.json",
+      "count": 614,
+      "originalCount": 614
+    },
+    {
+      "stationId": "65300",
+      "file": "station_trips_index/65300.json",
+      "count": 259,
+      "originalCount": 259
+    },
+    {
+      "stationId": "65311",
+      "file": "station_trips_index/65311.json",
+      "count": 118,
+      "originalCount": 118
+    },
+    {
+      "stationId": "65312",
+      "file": "station_trips_index/65312.json",
+      "count": 120,
+      "originalCount": 120
+    },
+    {
+      "stationId": "65402",
+      "file": "station_trips_index/65402.json",
+      "count": 54,
+      "originalCount": 54
+    },
+    {
+      "stationId": "80108",
+      "file": "station_trips_index/80108.json",
+      "count": 300,
+      "originalCount": 300
+    },
+    {
+      "stationId": "80100",
+      "file": "station_trips_index/80100.json",
+      "count": 375,
+      "originalCount": 375
+    },
+    {
+      "stationId": "20309",
+      "file": "station_trips_index/20309.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "20305",
+      "file": "station_trips_index/20305.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "20300",
+      "file": "station_trips_index/20300.json",
+      "count": 226,
+      "originalCount": 226
+    },
+    {
+      "stationId": "22100",
+      "file": "station_trips_index/22100.json",
+      "count": 484,
+      "originalCount": 484
+    },
+    {
+      "stationId": "70600",
+      "file": "station_trips_index/70600.json",
+      "count": 191,
+      "originalCount": 191
+    },
+    {
+      "stationId": "04007",
+      "file": "station_trips_index/04007.json",
+      "count": 118,
+      "originalCount": 118
+    },
+    {
+      "stationId": "60000",
+      "file": "station_trips_index/60000.json",
+      "count": 978,
+      "originalCount": 978
+    },
+    {
+      "stationId": "08223",
+      "file": "station_trips_index/08223.json",
+      "count": 312,
+      "originalCount": 312
+    },
+    {
+      "stationId": "23004",
+      "file": "station_trips_index/23004.json",
+      "count": 372,
+      "originalCount": 372
+    },
+    {
+      "stationId": "23008",
+      "file": "station_trips_index/23008.json",
+      "count": 370,
+      "originalCount": 370
+    },
+    {
+      "stationId": "31400",
+      "file": "station_trips_index/31400.json",
+      "count": 504,
+      "originalCount": 504
+    },
+    {
+      "stationId": "20216",
+      "file": "station_trips_index/20216.json",
+      "count": 208,
+      "originalCount": 208
+    },
+    {
+      "stationId": "20213",
+      "file": "station_trips_index/20213.json",
+      "count": 208,
+      "originalCount": 208
+    },
+    {
+      "stationId": "20211",
+      "file": "station_trips_index/20211.json",
+      "count": 208,
+      "originalCount": 208
+    },
+    {
+      "stationId": "20200",
+      "file": "station_trips_index/20200.json",
+      "count": 224,
+      "originalCount": 224
+    },
+    {
+      "stationId": "20111",
+      "file": "station_trips_index/20111.json",
+      "count": 220,
+      "originalCount": 220
+    },
+    {
+      "stationId": "20100",
+      "file": "station_trips_index/20100.json",
+      "count": 220,
+      "originalCount": 220
+    },
+    {
+      "stationId": "15100",
+      "file": "station_trips_index/15100.json",
+      "count": 579,
+      "originalCount": 579
+    },
+    {
+      "stationId": "14100",
+      "file": "station_trips_index/14100.json",
+      "count": 727,
+      "originalCount": 727
+    },
+    {
+      "stationId": "11014",
+      "file": "station_trips_index/11014.json",
+      "count": 393,
+      "originalCount": 393
+    },
+    {
+      "stationId": "30100",
+      "file": "station_trips_index/30100.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "32004",
+      "file": "station_trips_index/32004.json",
+      "count": 39,
+      "originalCount": 39
+    },
+    {
+      "stationId": "32003",
+      "file": "station_trips_index/32003.json",
+      "count": 39,
+      "originalCount": 39
+    },
+    {
+      "stationId": "32002",
+      "file": "station_trips_index/32002.json",
+      "count": 39,
+      "originalCount": 39
+    },
+    {
+      "stationId": "10500",
+      "file": "station_trips_index/10500.json",
+      "count": 205,
+      "originalCount": 205
+    },
+    {
+      "stationId": "10600",
+      "file": "station_trips_index/10600.json",
+      "count": 914,
+      "originalCount": 914
+    },
+    {
+      "stationId": "10504",
+      "file": "station_trips_index/10504.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "10503",
+      "file": "station_trips_index/10503.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "10502",
+      "file": "station_trips_index/10502.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "10501",
+      "file": "station_trips_index/10501.json",
+      "count": 71,
+      "originalCount": 71
+    },
+    {
+      "stationId": "50500",
+      "file": "station_trips_index/50500.json",
+      "count": 399,
+      "originalCount": 399
+    },
+    {
+      "stationId": "50102",
+      "file": "station_trips_index/50102.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "50100",
+      "file": "station_trips_index/50100.json",
+      "count": 175,
+      "originalCount": 175
+    },
+    {
+      "stationId": "60406",
+      "file": "station_trips_index/60406.json",
+      "count": 179,
+      "originalCount": 179
+    },
+    {
+      "stationId": "60500",
+      "file": "station_trips_index/60500.json",
+      "count": 179,
+      "originalCount": 179
+    },
+    {
+      "stationId": "60600",
+      "file": "station_trips_index/60600.json",
+      "count": 379,
+      "originalCount": 379
+    },
+    {
+      "stationId": "64100",
+      "file": "station_trips_index/64100.json",
+      "count": 372,
+      "originalCount": 372
+    },
+    {
+      "stationId": "65422",
+      "file": "station_trips_index/65422.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "81109",
+      "file": "station_trips_index/81109.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "81110",
+      "file": "station_trips_index/81110.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "60911",
+      "file": "station_trips_index/60911.json",
+      "count": 625,
+      "originalCount": 625
+    },
+    {
+      "stationId": "04307",
+      "file": "station_trips_index/04307.json",
+      "count": 333,
+      "originalCount": 333
+    },
+    {
+      "stationId": "79300",
+      "file": "station_trips_index/79300.json",
+      "count": 341,
+      "originalCount": 341
+    },
+    {
+      "stationId": "71500",
+      "file": "station_trips_index/71500.json",
+      "count": 104,
+      "originalCount": 104
+    },
+    {
+      "stationId": "65304",
+      "file": "station_trips_index/65304.json",
+      "count": 114,
+      "originalCount": 114
+    },
+    {
+      "stationId": "65200",
+      "file": "station_trips_index/65200.json",
+      "count": 133,
+      "originalCount": 133
+    },
+    {
+      "stationId": "65318",
+      "file": "station_trips_index/65318.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "60902",
+      "file": "station_trips_index/60902.json",
+      "count": 485,
+      "originalCount": 485
+    },
+    {
+      "stationId": "60905",
+      "file": "station_trips_index/60905.json",
+      "count": 371,
+      "originalCount": 371
+    },
+    {
+      "stationId": "61307",
+      "file": "station_trips_index/61307.json",
+      "count": 408,
+      "originalCount": 408
+    },
+    {
+      "stationId": "61304",
+      "file": "station_trips_index/61304.json",
+      "count": 448,
+      "originalCount": 448
+    },
+    {
+      "stationId": "61303",
+      "file": "station_trips_index/61303.json",
+      "count": 408,
+      "originalCount": 408
+    },
+    {
+      "stationId": "61200",
+      "file": "station_trips_index/61200.json",
+      "count": 527,
+      "originalCount": 527
+    },
+    {
+      "stationId": "62002",
+      "file": "station_trips_index/62002.json",
+      "count": 241,
+      "originalCount": 241
+    },
+    {
+      "stationId": "62103",
+      "file": "station_trips_index/62103.json",
+      "count": 184,
+      "originalCount": 184
+    },
+    {
+      "stationId": "06006",
+      "file": "station_trips_index/06006.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "06003",
+      "file": "station_trips_index/06003.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "06002",
+      "file": "station_trips_index/06002.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "51003",
+      "file": "station_trips_index/51003.json",
+      "count": 377,
+      "originalCount": 377
+    },
+    {
+      "stationId": "37300",
+      "file": "station_trips_index/37300.json",
+      "count": 100,
+      "originalCount": 100
+    },
+    {
+      "stationId": "37200",
+      "file": "station_trips_index/37200.json",
+      "count": 266,
+      "originalCount": 266
+    },
+    {
+      "stationId": "54413",
+      "file": "station_trips_index/54413.json",
+      "count": 207,
+      "originalCount": 207
+    },
+    {
+      "stationId": "02003",
+      "file": "station_trips_index/02003.json",
+      "count": 163,
+      "originalCount": 163
+    },
+    {
+      "stationId": "02002",
+      "file": "station_trips_index/02002.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "37704",
+      "file": "station_trips_index/37704.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "05000",
+      "file": "station_trips_index/05000.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "05012",
+      "file": "station_trips_index/05012.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "02030",
+      "file": "station_trips_index/02030.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "51300",
+      "file": "station_trips_index/51300.json",
+      "count": 82,
+      "originalCount": 82
+    },
+    {
+      "stationId": "51400",
+      "file": "station_trips_index/51400.json",
+      "count": 82,
+      "originalCount": 82
+    },
+    {
+      "stationId": "51406",
+      "file": "station_trips_index/51406.json",
+      "count": 82,
+      "originalCount": 82
+    },
+    {
+      "stationId": "51405",
+      "file": "station_trips_index/51405.json",
+      "count": 82,
+      "originalCount": 82
+    },
+    {
+      "stationId": "43019",
+      "file": "station_trips_index/43019.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "43011",
+      "file": "station_trips_index/43011.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "74200",
+      "file": "station_trips_index/74200.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "78200",
+      "file": "station_trips_index/78200.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "03208",
+      "file": "station_trips_index/03208.json",
+      "count": 377,
+      "originalCount": 377
+    },
+    {
+      "stationId": "03216",
+      "file": "station_trips_index/03216.json",
+      "count": 258,
+      "originalCount": 258
+    },
+    {
+      "stationId": "11500",
+      "file": "station_trips_index/11500.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "15410",
+      "file": "station_trips_index/15410.json",
+      "count": 77,
+      "originalCount": 77
+    },
+    {
+      "stationId": "15211",
+      "file": "station_trips_index/15211.json",
+      "count": 98,
+      "originalCount": 98
+    },
+    {
+      "stationId": "15122",
+      "file": "station_trips_index/15122.json",
+      "count": 56,
+      "originalCount": 56
+    },
+    {
+      "stationId": "14223",
+      "file": "station_trips_index/14223.json",
+      "count": 114,
+      "originalCount": 114
+    },
+    {
+      "stationId": "14213",
+      "file": "station_trips_index/14213.json",
+      "count": 103,
+      "originalCount": 103
+    },
+    {
+      "stationId": "14202",
+      "file": "station_trips_index/14202.json",
+      "count": 95,
+      "originalCount": 95
+    },
+    {
+      "stationId": "14114",
+      "file": "station_trips_index/14114.json",
+      "count": 93,
+      "originalCount": 93
+    },
+    {
+      "stationId": "08004",
+      "file": "station_trips_index/08004.json",
+      "count": 397,
+      "originalCount": 397
+    },
+    {
+      "stationId": "03309",
+      "file": "station_trips_index/03309.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "15203",
+      "file": "station_trips_index/15203.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "11600",
+      "file": "station_trips_index/11600.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "20104",
+      "file": "station_trips_index/20104.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "20005",
+      "file": "station_trips_index/20005.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "16403",
+      "file": "station_trips_index/16403.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "08251",
+      "file": "station_trips_index/08251.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "08247",
+      "file": "station_trips_index/08247.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "30200",
+      "file": "station_trips_index/30200.json",
+      "count": 136,
+      "originalCount": 136
+    },
+    {
+      "stationId": "08240",
+      "file": "station_trips_index/08240.json",
+      "count": 97,
+      "originalCount": 97
+    },
+    {
+      "stationId": "31412",
+      "file": "station_trips_index/31412.json",
+      "count": 243,
+      "originalCount": 243
+    },
+    {
+      "stationId": "20102",
+      "file": "station_trips_index/20102.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "20109",
+      "file": "station_trips_index/20109.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "20113",
+      "file": "station_trips_index/20113.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "03213",
+      "file": "station_trips_index/03213.json",
+      "count": 235,
+      "originalCount": 235
+    },
+    {
+      "stationId": "03410",
+      "file": "station_trips_index/03410.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "92102",
+      "file": "station_trips_index/92102.json",
+      "count": 36,
+      "originalCount": 36
+    },
+    {
+      "stationId": "62001",
+      "file": "station_trips_index/62001.json",
+      "count": 17,
+      "originalCount": 17
+    },
+    {
+      "stationId": "03412",
+      "file": "station_trips_index/03412.json",
+      "count": 17,
+      "originalCount": 17
+    },
+    {
+      "stationId": "99159",
+      "file": "station_trips_index/99159.json",
+      "count": 30,
+      "originalCount": 30
+    },
+    {
+      "stationId": "08224",
+      "file": "station_trips_index/08224.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "23021",
+      "file": "station_trips_index/23021.json",
+      "count": 19,
+      "originalCount": 19
+    },
+    {
+      "stationId": "31416",
+      "file": "station_trips_index/31416.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "23002",
+      "file": "station_trips_index/23002.json",
+      "count": 92,
+      "originalCount": 92
+    },
+    {
+      "stationId": "99161",
+      "file": "station_trips_index/99161.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "99143",
+      "file": "station_trips_index/99143.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "55020",
+      "file": "station_trips_index/55020.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "55018",
+      "file": "station_trips_index/55018.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "55007",
+      "file": "station_trips_index/55007.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "99117",
+      "file": "station_trips_index/99117.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "87374",
+      "file": "station_trips_index/87374.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "87088",
+      "file": "station_trips_index/87088.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "87173",
+      "file": "station_trips_index/87173.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "87302",
+      "file": "station_trips_index/87302.json",
+      "count": 146,
+      "originalCount": 146
+    },
+    {
+      "stationId": "87814",
+      "file": "station_trips_index/87814.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "87912",
+      "file": "station_trips_index/87912.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "87089",
+      "file": "station_trips_index/87089.json",
+      "count": 106,
+      "originalCount": 106
+    },
+    {
+      "stationId": "87810",
+      "file": "station_trips_index/87810.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "87303",
+      "file": "station_trips_index/87303.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "87067",
+      "file": "station_trips_index/87067.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "61005",
+      "file": "station_trips_index/61005.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "61012",
+      "file": "station_trips_index/61012.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "61015",
+      "file": "station_trips_index/61015.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "15401",
+      "file": "station_trips_index/15401.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15218",
+      "file": "station_trips_index/15218.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15200",
+      "file": "station_trips_index/15200.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15120",
+      "file": "station_trips_index/15120.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15118",
+      "file": "station_trips_index/15118.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15116",
+      "file": "station_trips_index/15116.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15113",
+      "file": "station_trips_index/15113.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15112",
+      "file": "station_trips_index/15112.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15109",
+      "file": "station_trips_index/15109.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15108",
+      "file": "station_trips_index/15108.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15106",
+      "file": "station_trips_index/15106.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "15015",
+      "file": "station_trips_index/15015.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "15012",
+      "file": "station_trips_index/15012.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "15009",
+      "file": "station_trips_index/15009.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "15008",
+      "file": "station_trips_index/15008.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "15007",
+      "file": "station_trips_index/15007.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "15004",
+      "file": "station_trips_index/15004.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "15003",
+      "file": "station_trips_index/15003.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "15001",
+      "file": "station_trips_index/15001.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "11000",
+      "file": "station_trips_index/11000.json",
+      "count": 240,
+      "originalCount": 240
+    },
+    {
+      "stationId": "10605",
+      "file": "station_trips_index/10605.json",
+      "count": 110,
+      "originalCount": 110
+    },
+    {
+      "stationId": "10604",
+      "file": "station_trips_index/10604.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "10603",
+      "file": "station_trips_index/10603.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "10602",
+      "file": "station_trips_index/10602.json",
+      "count": 96,
+      "originalCount": 96
+    },
+    {
+      "stationId": "10610",
+      "file": "station_trips_index/10610.json",
+      "count": 140,
+      "originalCount": 140
+    },
+    {
+      "stationId": "23011",
+      "file": "station_trips_index/23011.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "23010",
+      "file": "station_trips_index/23010.json",
+      "count": 99,
+      "originalCount": 99
+    },
+    {
+      "stationId": "23009",
+      "file": "station_trips_index/23009.json",
+      "count": 82,
+      "originalCount": 82
+    },
+    {
+      "stationId": "23000",
+      "file": "station_trips_index/23000.json",
+      "count": 56,
+      "originalCount": 56
+    },
+    {
+      "stationId": "22300",
+      "file": "station_trips_index/22300.json",
+      "count": 64,
+      "originalCount": 64
+    },
+    {
+      "stationId": "31411",
+      "file": "station_trips_index/31411.json",
+      "count": 48,
+      "originalCount": 48
+    },
+    {
+      "stationId": "31415",
+      "file": "station_trips_index/31415.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "23013",
+      "file": "station_trips_index/23013.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "23005",
+      "file": "station_trips_index/23005.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "23018",
+      "file": "station_trips_index/23018.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "23001",
+      "file": "station_trips_index/23001.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "20106",
+      "file": "station_trips_index/20106.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "20103",
+      "file": "station_trips_index/20103.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "20007",
+      "file": "station_trips_index/20007.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "20006",
+      "file": "station_trips_index/20006.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "20008",
+      "file": "station_trips_index/20008.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "20002",
+      "file": "station_trips_index/20002.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "20204",
+      "file": "station_trips_index/20204.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20207",
+      "file": "station_trips_index/20207.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "20208",
+      "file": "station_trips_index/20208.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20210",
+      "file": "station_trips_index/20210.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20212",
+      "file": "station_trips_index/20212.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22101",
+      "file": "station_trips_index/22101.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22102",
+      "file": "station_trips_index/22102.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22103",
+      "file": "station_trips_index/22103.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22104",
+      "file": "station_trips_index/22104.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22106",
+      "file": "station_trips_index/22106.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22108",
+      "file": "station_trips_index/22108.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22109",
+      "file": "station_trips_index/22109.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22110",
+      "file": "station_trips_index/22110.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22200",
+      "file": "station_trips_index/22200.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22201",
+      "file": "station_trips_index/22201.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "22107",
+      "file": "station_trips_index/22107.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22105",
+      "file": "station_trips_index/22105.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22006",
+      "file": "station_trips_index/22006.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22005",
+      "file": "station_trips_index/22005.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22004",
+      "file": "station_trips_index/22004.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22003",
+      "file": "station_trips_index/22003.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22002",
+      "file": "station_trips_index/22002.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "22001",
+      "file": "station_trips_index/22001.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "20218",
+      "file": "station_trips_index/20218.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "20214",
+      "file": "station_trips_index/20214.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "20203",
+      "file": "station_trips_index/20203.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "20306",
+      "file": "station_trips_index/20306.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20310",
+      "file": "station_trips_index/20310.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20312",
+      "file": "station_trips_index/20312.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20313",
+      "file": "station_trips_index/20313.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20314",
+      "file": "station_trips_index/20314.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20316",
+      "file": "station_trips_index/20316.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20317",
+      "file": "station_trips_index/20317.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20318",
+      "file": "station_trips_index/20318.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20319",
+      "file": "station_trips_index/20319.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20320",
+      "file": "station_trips_index/20320.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "20400",
+      "file": "station_trips_index/20400.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "20402",
+      "file": "station_trips_index/20402.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "20403",
+      "file": "station_trips_index/20403.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "20404",
+      "file": "station_trips_index/20404.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "20410",
+      "file": "station_trips_index/20410.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "21001",
+      "file": "station_trips_index/21001.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "21002",
+      "file": "station_trips_index/21002.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "21003",
+      "file": "station_trips_index/21003.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "21004",
+      "file": "station_trips_index/21004.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "21005",
+      "file": "station_trips_index/21005.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "21008",
+      "file": "station_trips_index/21008.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "21010",
+      "file": "station_trips_index/21010.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "21009",
+      "file": "station_trips_index/21009.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "21007",
+      "file": "station_trips_index/21007.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "31303",
+      "file": "station_trips_index/31303.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "31304",
+      "file": "station_trips_index/31304.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "31306",
+      "file": "station_trips_index/31306.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "31308",
+      "file": "station_trips_index/31308.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "51100",
+      "file": "station_trips_index/51100.json",
+      "count": 125,
+      "originalCount": 125
+    },
+    {
+      "stationId": "51110",
+      "file": "station_trips_index/51110.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "51103",
+      "file": "station_trips_index/51103.json",
+      "count": 125,
+      "originalCount": 125
+    },
+    {
+      "stationId": "51200",
+      "file": "station_trips_index/51200.json",
+      "count": 42,
+      "originalCount": 42
+    },
+    {
+      "stationId": "51203",
+      "file": "station_trips_index/51203.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "51205",
+      "file": "station_trips_index/51205.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "51401",
+      "file": "station_trips_index/51401.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "51404",
+      "file": "station_trips_index/51404.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "51409",
+      "file": "station_trips_index/51409.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "51202",
+      "file": "station_trips_index/51202.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "50600",
+      "file": "station_trips_index/50600.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "50507",
+      "file": "station_trips_index/50507.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "50506",
+      "file": "station_trips_index/50506.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "50504",
+      "file": "station_trips_index/50504.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "03100",
+      "file": "station_trips_index/03100.json",
+      "count": 49,
+      "originalCount": 49
+    },
+    {
+      "stationId": "43005",
+      "file": "station_trips_index/43005.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "43008",
+      "file": "station_trips_index/43008.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "43009",
+      "file": "station_trips_index/43009.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "43015",
+      "file": "station_trips_index/43015.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "43021",
+      "file": "station_trips_index/43021.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "43012",
+      "file": "station_trips_index/43012.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "01007",
+      "file": "station_trips_index/01007.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "01005",
+      "file": "station_trips_index/01005.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "01003",
+      "file": "station_trips_index/01003.json",
+      "count": 75,
+      "originalCount": 75
+    },
+    {
+      "stationId": "51111",
+      "file": "station_trips_index/51111.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "42008",
+      "file": "station_trips_index/42008.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "42009",
+      "file": "station_trips_index/42009.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "42012",
+      "file": "station_trips_index/42012.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "42013",
+      "file": "station_trips_index/42013.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "42015",
+      "file": "station_trips_index/42015.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "42016",
+      "file": "station_trips_index/42016.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "42018",
+      "file": "station_trips_index/42018.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "42019",
+      "file": "station_trips_index/42019.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "42020",
+      "file": "station_trips_index/42020.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "40100",
+      "file": "station_trips_index/40100.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "42005",
+      "file": "station_trips_index/42005.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "42006",
+      "file": "station_trips_index/42006.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "54403",
+      "file": "station_trips_index/54403.json",
+      "count": 83,
+      "originalCount": 83
+    },
+    {
+      "stationId": "54404",
+      "file": "station_trips_index/54404.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "54405",
+      "file": "station_trips_index/54405.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "54406",
+      "file": "station_trips_index/54406.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "54407",
+      "file": "station_trips_index/54407.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "54408",
+      "file": "station_trips_index/54408.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "54410",
+      "file": "station_trips_index/54410.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "54412",
+      "file": "station_trips_index/54412.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "54501",
+      "file": "station_trips_index/54501.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "54517",
+      "file": "station_trips_index/54517.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "50502",
+      "file": "station_trips_index/50502.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "50501",
+      "file": "station_trips_index/50501.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "50417",
+      "file": "station_trips_index/50417.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "50413",
+      "file": "station_trips_index/50413.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "50407",
+      "file": "station_trips_index/50407.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "50403",
+      "file": "station_trips_index/50403.json",
+      "count": 26,
+      "originalCount": 26
+    },
+    {
+      "stationId": "50400",
+      "file": "station_trips_index/50400.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "01009",
+      "file": "station_trips_index/01009.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "54400",
+      "file": "station_trips_index/54400.json",
+      "count": 61,
+      "originalCount": 61
+    },
+    {
+      "stationId": "57003",
+      "file": "station_trips_index/57003.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "56103",
+      "file": "station_trips_index/56103.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "56301",
+      "file": "station_trips_index/56301.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "56305",
+      "file": "station_trips_index/56305.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "56308",
+      "file": "station_trips_index/56308.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "60914",
+      "file": "station_trips_index/60914.json",
+      "count": 155,
+      "originalCount": 155
+    },
+    {
+      "stationId": "60913",
+      "file": "station_trips_index/60913.json",
+      "count": 186,
+      "originalCount": 186
+    },
+    {
+      "stationId": "65400",
+      "file": "station_trips_index/65400.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "65314",
+      "file": "station_trips_index/65314.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "65308",
+      "file": "station_trips_index/65308.json",
+      "count": 108,
+      "originalCount": 108
+    },
+    {
+      "stationId": "65306",
+      "file": "station_trips_index/65306.json",
+      "count": 108,
+      "originalCount": 108
+    },
+    {
+      "stationId": "65208",
+      "file": "station_trips_index/65208.json",
+      "count": 108,
+      "originalCount": 108
+    },
+    {
+      "stationId": "65003",
+      "file": "station_trips_index/65003.json",
+      "count": 108,
+      "originalCount": 108
+    },
+    {
+      "stationId": "65206",
+      "file": "station_trips_index/65206.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "60904",
+      "file": "station_trips_index/60904.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "60907",
+      "file": "station_trips_index/60907.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "62109",
+      "file": "station_trips_index/62109.json",
+      "count": 142,
+      "originalCount": 142
+    },
+    {
+      "stationId": "62104",
+      "file": "station_trips_index/62104.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "62102",
+      "file": "station_trips_index/62102.json",
+      "count": 142,
+      "originalCount": 142
+    },
+    {
+      "stationId": "62101",
+      "file": "station_trips_index/62101.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "62100",
+      "file": "station_trips_index/62100.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "62003",
+      "file": "station_trips_index/62003.json",
+      "count": 142,
+      "originalCount": 142
+    },
+    {
+      "stationId": "60800",
+      "file": "station_trips_index/60800.json",
+      "count": 147,
+      "originalCount": 147
+    },
+    {
+      "stationId": "60900",
+      "file": "station_trips_index/60900.json",
+      "count": 33,
+      "originalCount": 33
+    },
+    {
+      "stationId": "64200",
+      "file": "station_trips_index/64200.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "69011",
+      "file": "station_trips_index/69011.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "69008",
+      "file": "station_trips_index/69008.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "69006",
+      "file": "station_trips_index/69006.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "69002",
+      "file": "station_trips_index/69002.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64007",
+      "file": "station_trips_index/64007.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64102",
+      "file": "station_trips_index/64102.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64103",
+      "file": "station_trips_index/64103.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64104",
+      "file": "station_trips_index/64104.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64105",
+      "file": "station_trips_index/64105.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64107",
+      "file": "station_trips_index/64107.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64201",
+      "file": "station_trips_index/64201.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64202",
+      "file": "station_trips_index/64202.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "64203",
+      "file": "station_trips_index/64203.json",
+      "count": 74,
+      "originalCount": 74
+    },
+    {
+      "stationId": "65002",
+      "file": "station_trips_index/65002.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "65008",
+      "file": "station_trips_index/65008.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "65005",
+      "file": "station_trips_index/65005.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "65007",
+      "file": "station_trips_index/65007.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "65202",
+      "file": "station_trips_index/65202.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "65204",
+      "file": "station_trips_index/65204.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "65207",
+      "file": "station_trips_index/65207.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "65209",
+      "file": "station_trips_index/65209.json",
+      "count": 62,
+      "originalCount": 62
+    },
+    {
+      "stationId": "65205",
+      "file": "station_trips_index/65205.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "65203",
+      "file": "station_trips_index/65203.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "65201",
+      "file": "station_trips_index/65201.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "65006",
+      "file": "station_trips_index/65006.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "65001",
+      "file": "station_trips_index/65001.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "71400",
+      "file": "station_trips_index/71400.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "71401",
+      "file": "station_trips_index/71401.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "71502",
+      "file": "station_trips_index/71502.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "71503",
+      "file": "station_trips_index/71503.json",
+      "count": 80,
+      "originalCount": 80
+    },
+    {
+      "stationId": "71600",
+      "file": "station_trips_index/71600.json",
+      "count": 88,
+      "originalCount": 88
+    },
+    {
+      "stationId": "71700",
+      "file": "station_trips_index/71700.json",
+      "count": 44,
+      "originalCount": 44
+    },
+    {
+      "stationId": "71802",
+      "file": "station_trips_index/71802.json",
+      "count": 153,
+      "originalCount": 153
+    },
+    {
+      "stationId": "79400",
+      "file": "station_trips_index/79400.json",
+      "count": 72,
+      "originalCount": 72
+    },
+    {
+      "stationId": "71209",
+      "file": "station_trips_index/71209.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "71210",
+      "file": "station_trips_index/71210.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "71211",
+      "file": "station_trips_index/71211.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "71300",
+      "file": "station_trips_index/71300.json",
+      "count": 17,
+      "originalCount": 17
+    },
+    {
+      "stationId": "71302",
+      "file": "station_trips_index/71302.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "71303",
+      "file": "station_trips_index/71303.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "71304",
+      "file": "station_trips_index/71304.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "71305",
+      "file": "station_trips_index/71305.json",
+      "count": 13,
+      "originalCount": 13
+    },
+    {
+      "stationId": "71306",
+      "file": "station_trips_index/71306.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "71307",
+      "file": "station_trips_index/71307.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "71204",
+      "file": "station_trips_index/71204.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "71206",
+      "file": "station_trips_index/71206.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "71207",
+      "file": "station_trips_index/71207.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "71208",
+      "file": "station_trips_index/71208.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "73001",
+      "file": "station_trips_index/73001.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "73002",
+      "file": "station_trips_index/73002.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "73003",
+      "file": "station_trips_index/73003.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "73005",
+      "file": "station_trips_index/73005.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "73006",
+      "file": "station_trips_index/73006.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "73007",
+      "file": "station_trips_index/73007.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "73008",
+      "file": "station_trips_index/73008.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "73100",
+      "file": "station_trips_index/73100.json",
+      "count": 23,
+      "originalCount": 23
+    },
+    {
+      "stationId": "76004",
+      "file": "station_trips_index/76004.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "72101",
+      "file": "station_trips_index/72101.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "76001",
+      "file": "station_trips_index/76001.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "76003",
+      "file": "station_trips_index/76003.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "73010",
+      "file": "station_trips_index/73010.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "73009",
+      "file": "station_trips_index/73009.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "73004",
+      "file": "station_trips_index/73004.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "76002",
+      "file": "station_trips_index/76002.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "73101",
+      "file": "station_trips_index/73101.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "73102",
+      "file": "station_trips_index/73102.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "65411",
+      "file": "station_trips_index/65411.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "79315",
+      "file": "station_trips_index/79315.json",
+      "count": 52,
+      "originalCount": 52
+    },
+    {
+      "stationId": "79312",
+      "file": "station_trips_index/79312.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "79309",
+      "file": "station_trips_index/79309.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "79303",
+      "file": "station_trips_index/79303.json",
+      "count": 76,
+      "originalCount": 76
+    },
+    {
+      "stationId": "79203",
+      "file": "station_trips_index/79203.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "79202",
+      "file": "station_trips_index/79202.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "79200",
+      "file": "station_trips_index/79200.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "79104",
+      "file": "station_trips_index/79104.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "79009",
+      "file": "station_trips_index/79009.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "70806",
+      "file": "station_trips_index/70806.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "70807",
+      "file": "station_trips_index/70807.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "71100",
+      "file": "station_trips_index/71100.json",
+      "count": 60,
+      "originalCount": 60
+    },
+    {
+      "stationId": "71103",
+      "file": "station_trips_index/71103.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "71105",
+      "file": "station_trips_index/71105.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "71108",
+      "file": "station_trips_index/71108.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "71200",
+      "file": "station_trips_index/71200.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "71201",
+      "file": "station_trips_index/71201.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "71205",
+      "file": "station_trips_index/71205.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "78201",
+      "file": "station_trips_index/78201.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78203",
+      "file": "station_trips_index/78203.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78301",
+      "file": "station_trips_index/78301.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78302",
+      "file": "station_trips_index/78302.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78005",
+      "file": "station_trips_index/78005.json",
+      "count": 19,
+      "originalCount": 19
+    },
+    {
+      "stationId": "78500",
+      "file": "station_trips_index/78500.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78408",
+      "file": "station_trips_index/78408.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78407",
+      "file": "station_trips_index/78407.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78406",
+      "file": "station_trips_index/78406.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78405",
+      "file": "station_trips_index/78405.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78404",
+      "file": "station_trips_index/78404.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78403",
+      "file": "station_trips_index/78403.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78402",
+      "file": "station_trips_index/78402.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "78501",
+      "file": "station_trips_index/78501.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78502",
+      "file": "station_trips_index/78502.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78503",
+      "file": "station_trips_index/78503.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78504",
+      "file": "station_trips_index/78504.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78505",
+      "file": "station_trips_index/78505.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78506",
+      "file": "station_trips_index/78506.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78600",
+      "file": "station_trips_index/78600.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78604",
+      "file": "station_trips_index/78604.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "78700",
+      "file": "station_trips_index/78700.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "74204",
+      "file": "station_trips_index/74204.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74206",
+      "file": "station_trips_index/74206.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74207",
+      "file": "station_trips_index/74207.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74208",
+      "file": "station_trips_index/74208.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74209",
+      "file": "station_trips_index/74209.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74211",
+      "file": "station_trips_index/74211.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74213",
+      "file": "station_trips_index/74213.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74214",
+      "file": "station_trips_index/74214.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74216",
+      "file": "station_trips_index/74216.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "74217",
+      "file": "station_trips_index/74217.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "79311",
+      "file": "station_trips_index/79311.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "79314",
+      "file": "station_trips_index/79314.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "79004",
+      "file": "station_trips_index/79004.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "79100",
+      "file": "station_trips_index/79100.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "79105",
+      "file": "station_trips_index/79105.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "79106",
+      "file": "station_trips_index/79106.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "79107",
+      "file": "station_trips_index/79107.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "79204",
+      "file": "station_trips_index/79204.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79205",
+      "file": "station_trips_index/79205.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79301",
+      "file": "station_trips_index/79301.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79302",
+      "file": "station_trips_index/79302.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79304",
+      "file": "station_trips_index/79304.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79305",
+      "file": "station_trips_index/79305.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79306",
+      "file": "station_trips_index/79306.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79308",
+      "file": "station_trips_index/79308.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "79316",
+      "file": "station_trips_index/79316.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "11516",
+      "file": "station_trips_index/11516.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "11515",
+      "file": "station_trips_index/11515.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "11514",
+      "file": "station_trips_index/11514.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "11522",
+      "file": "station_trips_index/11522.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "11513",
+      "file": "station_trips_index/11513.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "11512",
+      "file": "station_trips_index/11512.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "11507",
+      "file": "station_trips_index/11507.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "11504",
+      "file": "station_trips_index/11504.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "11503",
+      "file": "station_trips_index/11503.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "11501",
+      "file": "station_trips_index/11501.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "11405",
+      "file": "station_trips_index/11405.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "11404",
+      "file": "station_trips_index/11404.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "11402",
+      "file": "station_trips_index/11402.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "11306",
+      "file": "station_trips_index/11306.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "11305",
+      "file": "station_trips_index/11305.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "11213",
+      "file": "station_trips_index/11213.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "11212",
+      "file": "station_trips_index/11212.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "11210",
+      "file": "station_trips_index/11210.json",
+      "count": 41,
+      "originalCount": 41
+    },
+    {
+      "stationId": "11205",
+      "file": "station_trips_index/11205.json",
+      "count": 19,
+      "originalCount": 19
+    },
+    {
+      "stationId": "11204",
+      "file": "station_trips_index/11204.json",
+      "count": 19,
+      "originalCount": 19
+    },
+    {
+      "stationId": "11203",
+      "file": "station_trips_index/11203.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "80001",
+      "file": "station_trips_index/80001.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "80003",
+      "file": "station_trips_index/80003.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "80005",
+      "file": "station_trips_index/80005.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "80109",
+      "file": "station_trips_index/80109.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "80114",
+      "file": "station_trips_index/80114.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "80115",
+      "file": "station_trips_index/80115.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "81203",
+      "file": "station_trips_index/81203.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "81205",
+      "file": "station_trips_index/81205.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "11111",
+      "file": "station_trips_index/11111.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "11109",
+      "file": "station_trips_index/11109.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "81206",
+      "file": "station_trips_index/81206.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "81207",
+      "file": "station_trips_index/81207.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "81208",
+      "file": "station_trips_index/81208.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "81209",
+      "file": "station_trips_index/81209.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "81210",
+      "file": "station_trips_index/81210.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "70800",
+      "file": "station_trips_index/70800.json",
+      "count": 24,
+      "originalCount": 24
+    },
+    {
+      "stationId": "70801",
+      "file": "station_trips_index/70801.json",
+      "count": 30,
+      "originalCount": 30
+    },
+    {
+      "stationId": "81105",
+      "file": "station_trips_index/81105.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "81102",
+      "file": "station_trips_index/81102.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "60200",
+      "file": "station_trips_index/60200.json",
+      "count": 124,
+      "originalCount": 124
+    },
+    {
+      "stationId": "60202",
+      "file": "station_trips_index/60202.json",
+      "count": 23,
+      "originalCount": 23
+    },
+    {
+      "stationId": "60203",
+      "file": "station_trips_index/60203.json",
+      "count": 85,
+      "originalCount": 85
+    },
+    {
+      "stationId": "60300",
+      "file": "station_trips_index/60300.json",
+      "count": 123,
+      "originalCount": 123
+    },
+    {
+      "stationId": "60301",
+      "file": "station_trips_index/60301.json",
+      "count": 78,
+      "originalCount": 78
+    },
+    {
+      "stationId": "35002",
+      "file": "station_trips_index/35002.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "35005",
+      "file": "station_trips_index/35005.json",
+      "count": 57,
+      "originalCount": 57
+    },
+    {
+      "stationId": "35207",
+      "file": "station_trips_index/35207.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "35301",
+      "file": "station_trips_index/35301.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "35302",
+      "file": "station_trips_index/35302.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "35303",
+      "file": "station_trips_index/35303.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "35402",
+      "file": "station_trips_index/35402.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "35405",
+      "file": "station_trips_index/35405.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "35406",
+      "file": "station_trips_index/35406.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "94004",
+      "file": "station_trips_index/94004.json",
+      "count": 161,
+      "originalCount": 161
+    },
+    {
+      "stationId": "94002",
+      "file": "station_trips_index/94002.json",
+      "count": 161,
+      "originalCount": 161
+    },
+    {
+      "stationId": "50002",
+      "file": "station_trips_index/50002.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "10400",
+      "file": "station_trips_index/10400.json",
+      "count": 86,
+      "originalCount": 86
+    },
+    {
+      "stationId": "10300",
+      "file": "station_trips_index/10300.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "10208",
+      "file": "station_trips_index/10208.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "10207",
+      "file": "station_trips_index/10207.json",
+      "count": 51,
+      "originalCount": 51
+    },
+    {
+      "stationId": "10209",
+      "file": "station_trips_index/10209.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "10206",
+      "file": "station_trips_index/10206.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "10205",
+      "file": "station_trips_index/10205.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "10204",
+      "file": "station_trips_index/10204.json",
+      "count": 50,
+      "originalCount": 50
+    },
+    {
+      "stationId": "10203",
+      "file": "station_trips_index/10203.json",
+      "count": 81,
+      "originalCount": 81
+    },
+    {
+      "stationId": "10202",
+      "file": "station_trips_index/10202.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "10201",
+      "file": "station_trips_index/10201.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "10200",
+      "file": "station_trips_index/10200.json",
+      "count": 112,
+      "originalCount": 112
+    },
+    {
+      "stationId": "10100",
+      "file": "station_trips_index/10100.json",
+      "count": 39,
+      "originalCount": 39
+    },
+    {
+      "stationId": "10005",
+      "file": "station_trips_index/10005.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "10002",
+      "file": "station_trips_index/10002.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "10001",
+      "file": "station_trips_index/10001.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "10000",
+      "file": "station_trips_index/10000.json",
+      "count": 73,
+      "originalCount": 73
+    },
+    {
+      "stationId": "18001",
+      "file": "station_trips_index/18001.json",
+      "count": 45,
+      "originalCount": 45
+    },
+    {
+      "stationId": "18002",
+      "file": "station_trips_index/18002.json",
+      "count": 46,
+      "originalCount": 46
+    },
+    {
+      "stationId": "10104",
+      "file": "station_trips_index/10104.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "10103",
+      "file": "station_trips_index/10103.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "10101",
+      "file": "station_trips_index/10101.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "97100",
+      "file": "station_trips_index/97100.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "97200",
+      "file": "station_trips_index/97200.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "97201",
+      "file": "station_trips_index/97201.json",
+      "count": 37,
+      "originalCount": 37
+    },
+    {
+      "stationId": "12100",
+      "file": "station_trips_index/12100.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12014",
+      "file": "station_trips_index/12014.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12013",
+      "file": "station_trips_index/12013.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12012",
+      "file": "station_trips_index/12012.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12011",
+      "file": "station_trips_index/12011.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12010",
+      "file": "station_trips_index/12010.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12009",
+      "file": "station_trips_index/12009.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12008",
+      "file": "station_trips_index/12008.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "12007",
+      "file": "station_trips_index/12007.json",
+      "count": 12,
+      "originalCount": 12
+    },
+    {
+      "stationId": "12006",
+      "file": "station_trips_index/12006.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "12005",
+      "file": "station_trips_index/12005.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "12004",
+      "file": "station_trips_index/12004.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "12002",
+      "file": "station_trips_index/12002.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "12001",
+      "file": "station_trips_index/12001.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "10302",
+      "file": "station_trips_index/10302.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "35012",
+      "file": "station_trips_index/35012.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "10409",
+      "file": "station_trips_index/10409.json",
+      "count": 58,
+      "originalCount": 58
+    },
+    {
+      "stationId": "70103",
+      "file": "station_trips_index/70103.json",
+      "count": 31,
+      "originalCount": 31
+    },
+    {
+      "stationId": "70200",
+      "file": "station_trips_index/70200.json",
+      "count": 38,
+      "originalCount": 38
+    },
+    {
+      "stationId": "70209",
+      "file": "station_trips_index/70209.json",
+      "count": 23,
+      "originalCount": 23
+    },
+    {
+      "stationId": "70302",
+      "file": "station_trips_index/70302.json",
+      "count": 39,
+      "originalCount": 39
+    },
+    {
+      "stationId": "70400",
+      "file": "station_trips_index/70400.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "84101",
+      "file": "station_trips_index/84101.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "84103",
+      "file": "station_trips_index/84103.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "84104",
+      "file": "station_trips_index/84104.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "82100",
+      "file": "station_trips_index/82100.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "70210",
+      "file": "station_trips_index/70210.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70208",
+      "file": "station_trips_index/70208.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70207",
+      "file": "station_trips_index/70207.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70300",
+      "file": "station_trips_index/70300.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "70101",
+      "file": "station_trips_index/70101.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "70102",
+      "file": "station_trips_index/70102.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "70107",
+      "file": "station_trips_index/70107.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "70104",
+      "file": "station_trips_index/70104.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "70105",
+      "file": "station_trips_index/70105.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "70002",
+      "file": "station_trips_index/70002.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70003",
+      "file": "station_trips_index/70003.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70005",
+      "file": "station_trips_index/70005.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70109",
+      "file": "station_trips_index/70109.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70100",
+      "file": "station_trips_index/70100.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70108",
+      "file": "station_trips_index/70108.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70112",
+      "file": "station_trips_index/70112.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70111",
+      "file": "station_trips_index/70111.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "35109",
+      "file": "station_trips_index/35109.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "37604",
+      "file": "station_trips_index/37604.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "37608",
+      "file": "station_trips_index/37608.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "37611",
+      "file": "station_trips_index/37611.json",
+      "count": 28,
+      "originalCount": 28
+    },
+    {
+      "stationId": "37410",
+      "file": "station_trips_index/37410.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "37409",
+      "file": "station_trips_index/37409.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "37407",
+      "file": "station_trips_index/37407.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "37406",
+      "file": "station_trips_index/37406.json",
+      "count": 29,
+      "originalCount": 29
+    },
+    {
+      "stationId": "37404",
+      "file": "station_trips_index/37404.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "37402",
+      "file": "station_trips_index/37402.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "37400",
+      "file": "station_trips_index/37400.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "37311",
+      "file": "station_trips_index/37311.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "40008",
+      "file": "station_trips_index/40008.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "40006",
+      "file": "station_trips_index/40006.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "40005",
+      "file": "station_trips_index/40005.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "40004",
+      "file": "station_trips_index/40004.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "40002",
+      "file": "station_trips_index/40002.json",
+      "count": 40,
+      "originalCount": 40
+    },
+    {
+      "stationId": "40105",
+      "file": "station_trips_index/40105.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "40107",
+      "file": "station_trips_index/40107.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "40108",
+      "file": "station_trips_index/40108.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "40113",
+      "file": "station_trips_index/40113.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "40115",
+      "file": "station_trips_index/40115.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "40119",
+      "file": "station_trips_index/40119.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "40122",
+      "file": "station_trips_index/40122.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "50700",
+      "file": "station_trips_index/50700.json",
+      "count": 21,
+      "originalCount": 21
+    },
+    {
+      "stationId": "11009",
+      "file": "station_trips_index/11009.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "11006",
+      "file": "station_trips_index/11006.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "11004",
+      "file": "station_trips_index/11004.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "60402",
+      "file": "station_trips_index/60402.json",
+      "count": 177,
+      "originalCount": 177
+    },
+    {
+      "stationId": "60503",
+      "file": "station_trips_index/60503.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "60505",
+      "file": "station_trips_index/60505.json",
+      "count": 177,
+      "originalCount": 177
+    },
+    {
+      "stationId": "60507",
+      "file": "station_trips_index/60507.json",
+      "count": 58,
+      "originalCount": 58
+    },
+    {
+      "stationId": "50200",
+      "file": "station_trips_index/50200.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "50202",
+      "file": "station_trips_index/50202.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "03001",
+      "file": "station_trips_index/03001.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "60206",
+      "file": "station_trips_index/60206.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "60207",
+      "file": "station_trips_index/60207.json",
+      "count": 32,
+      "originalCount": 32
+    },
+    {
+      "stationId": "65401",
+      "file": "station_trips_index/65401.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "65403",
+      "file": "station_trips_index/65403.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "65404",
+      "file": "station_trips_index/65404.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "65405",
+      "file": "station_trips_index/65405.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "65420",
+      "file": "station_trips_index/65420.json",
+      "count": 27,
+      "originalCount": 27
+    },
+    {
+      "stationId": "81106",
+      "file": "station_trips_index/81106.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "60901",
+      "file": "station_trips_index/60901.json",
+      "count": 90,
+      "originalCount": 90
+    },
+    {
+      "stationId": "14230",
+      "file": "station_trips_index/14230.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14220",
+      "file": "station_trips_index/14220.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14216",
+      "file": "station_trips_index/14216.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14210",
+      "file": "station_trips_index/14210.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14206",
+      "file": "station_trips_index/14206.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14200",
+      "file": "station_trips_index/14200.json",
+      "count": 70,
+      "originalCount": 70
+    },
+    {
+      "stationId": "14115",
+      "file": "station_trips_index/14115.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "14113",
+      "file": "station_trips_index/14113.json",
+      "count": 25,
+      "originalCount": 25
+    },
+    {
+      "stationId": "14112",
+      "file": "station_trips_index/14112.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "14111",
+      "file": "station_trips_index/14111.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "14108",
+      "file": "station_trips_index/14108.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14107",
+      "file": "station_trips_index/14107.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "14104",
+      "file": "station_trips_index/14104.json",
+      "count": 68,
+      "originalCount": 68
+    },
+    {
+      "stationId": "14103",
+      "file": "station_trips_index/14103.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14102",
+      "file": "station_trips_index/14102.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "14117",
+      "file": "station_trips_index/14117.json",
+      "count": 66,
+      "originalCount": 66
+    },
+    {
+      "stationId": "14101",
+      "file": "station_trips_index/14101.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "15014",
+      "file": "station_trips_index/15014.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "15006",
+      "file": "station_trips_index/15006.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "32006",
+      "file": "station_trips_index/32006.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "32007",
+      "file": "station_trips_index/32007.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "32008",
+      "file": "station_trips_index/32008.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "32009",
+      "file": "station_trips_index/32009.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "30110",
+      "file": "station_trips_index/30110.json",
+      "count": 22,
+      "originalCount": 22
+    },
+    {
+      "stationId": "32001",
+      "file": "station_trips_index/32001.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "31200",
+      "file": "station_trips_index/31200.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31112",
+      "file": "station_trips_index/31112.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31109",
+      "file": "station_trips_index/31109.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31108",
+      "file": "station_trips_index/31108.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31107",
+      "file": "station_trips_index/31107.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31106",
+      "file": "station_trips_index/31106.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31104",
+      "file": "station_trips_index/31104.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31006",
+      "file": "station_trips_index/31006.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "31002",
+      "file": "station_trips_index/31002.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "37302",
+      "file": "station_trips_index/37302.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "37305",
+      "file": "station_trips_index/37305.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "37308",
+      "file": "station_trips_index/37308.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "67200",
+      "file": "station_trips_index/67200.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "67107",
+      "file": "station_trips_index/67107.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "67105",
+      "file": "station_trips_index/67105.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "67103",
+      "file": "station_trips_index/67103.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "67113",
+      "file": "station_trips_index/67113.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "67101",
+      "file": "station_trips_index/67101.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "67100",
+      "file": "station_trips_index/67100.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "67021",
+      "file": "station_trips_index/67021.json",
+      "count": 15,
+      "originalCount": 15
+    },
+    {
+      "stationId": "67010",
+      "file": "station_trips_index/67010.json",
+      "count": 17,
+      "originalCount": 17
+    },
+    {
+      "stationId": "67009",
+      "file": "station_trips_index/67009.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "67007",
+      "file": "station_trips_index/67007.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "67004",
+      "file": "station_trips_index/67004.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "67020",
+      "file": "station_trips_index/67020.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "67019",
+      "file": "station_trips_index/67019.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "67018",
+      "file": "station_trips_index/67018.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "67017",
+      "file": "station_trips_index/67017.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "67016",
+      "file": "station_trips_index/67016.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "67015",
+      "file": "station_trips_index/67015.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "67014",
+      "file": "station_trips_index/67014.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "67013",
+      "file": "station_trips_index/67013.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "67011",
+      "file": "station_trips_index/67011.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "67215",
+      "file": "station_trips_index/67215.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "67208",
+      "file": "station_trips_index/67208.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "67207",
+      "file": "station_trips_index/67207.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "67206",
+      "file": "station_trips_index/67206.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "67205",
+      "file": "station_trips_index/67205.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "67203",
+      "file": "station_trips_index/67203.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "14211",
+      "file": "station_trips_index/14211.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "70403",
+      "file": "station_trips_index/70403.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70404",
+      "file": "station_trips_index/70404.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "70405",
+      "file": "station_trips_index/70405.json",
+      "count": 5,
+      "originalCount": 5
+    },
+    {
+      "stationId": "70500",
+      "file": "station_trips_index/70500.json",
+      "count": 20,
+      "originalCount": 20
+    },
+    {
+      "stationId": "70501",
+      "file": "station_trips_index/70501.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70502",
+      "file": "station_trips_index/70502.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70504",
+      "file": "station_trips_index/70504.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70505",
+      "file": "station_trips_index/70505.json",
+      "count": 9,
+      "originalCount": 9
+    },
+    {
+      "stationId": "70700",
+      "file": "station_trips_index/70700.json",
+      "count": 26,
+      "originalCount": 26
+    },
+    {
+      "stationId": "70503",
+      "file": "station_trips_index/70503.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "34010",
+      "file": "station_trips_index/34010.json",
+      "count": 18,
+      "originalCount": 18
+    },
+    {
+      "stationId": "34002",
+      "file": "station_trips_index/34002.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "34005",
+      "file": "station_trips_index/34005.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "34007",
+      "file": "station_trips_index/34007.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "34008",
+      "file": "station_trips_index/34008.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "34011",
+      "file": "station_trips_index/34011.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "34012",
+      "file": "station_trips_index/34012.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "34013",
+      "file": "station_trips_index/34013.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "34014",
+      "file": "station_trips_index/34014.json",
+      "count": 3,
+      "originalCount": 3
+    },
+    {
+      "stationId": "70202",
+      "file": "station_trips_index/70202.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70204",
+      "file": "station_trips_index/70204.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70401",
+      "file": "station_trips_index/70401.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "55001",
+      "file": "station_trips_index/55001.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55003",
+      "file": "station_trips_index/55003.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55005",
+      "file": "station_trips_index/55005.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55008",
+      "file": "station_trips_index/55008.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55010",
+      "file": "station_trips_index/55010.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55011",
+      "file": "station_trips_index/55011.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55012",
+      "file": "station_trips_index/55012.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55013",
+      "file": "station_trips_index/55013.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55014",
+      "file": "station_trips_index/55014.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55015",
+      "file": "station_trips_index/55015.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55017",
+      "file": "station_trips_index/55017.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "55019",
+      "file": "station_trips_index/55019.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "70701",
+      "file": "station_trips_index/70701.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70702",
+      "file": "station_trips_index/70702.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70703",
+      "file": "station_trips_index/70703.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70706",
+      "file": "station_trips_index/70706.json",
+      "count": 16,
+      "originalCount": 16
+    },
+    {
+      "stationId": "70603",
+      "file": "station_trips_index/70603.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70602",
+      "file": "station_trips_index/70602.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70604",
+      "file": "station_trips_index/70604.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70605",
+      "file": "station_trips_index/70605.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70606",
+      "file": "station_trips_index/70606.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "70607",
+      "file": "station_trips_index/70607.json",
+      "count": 14,
+      "originalCount": 14
+    },
+    {
+      "stationId": "69010",
+      "file": "station_trips_index/69010.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "69009",
+      "file": "station_trips_index/69009.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "69007",
+      "file": "station_trips_index/69007.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "69005",
+      "file": "station_trips_index/69005.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "69004",
+      "file": "station_trips_index/69004.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "69003",
+      "file": "station_trips_index/69003.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "69001",
+      "file": "station_trips_index/69001.json",
+      "count": 35,
+      "originalCount": 35
+    },
+    {
+      "stationId": "70704",
+      "file": "station_trips_index/70704.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "70705",
+      "file": "station_trips_index/70705.json",
+      "count": 11,
+      "originalCount": 11
+    },
+    {
+      "stationId": "05193",
+      "file": "station_trips_index/05193.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05191",
+      "file": "station_trips_index/05191.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05189",
+      "file": "station_trips_index/05189.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05187",
+      "file": "station_trips_index/05187.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05185",
+      "file": "station_trips_index/05185.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05183",
+      "file": "station_trips_index/05183.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05181",
+      "file": "station_trips_index/05181.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05179",
+      "file": "station_trips_index/05179.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05177",
+      "file": "station_trips_index/05177.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05175",
+      "file": "station_trips_index/05175.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05173",
+      "file": "station_trips_index/05173.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05171",
+      "file": "station_trips_index/05171.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05169",
+      "file": "station_trips_index/05169.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05167",
+      "file": "station_trips_index/05167.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05165",
+      "file": "station_trips_index/05165.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05163",
+      "file": "station_trips_index/05163.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05161",
+      "file": "station_trips_index/05161.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05159",
+      "file": "station_trips_index/05159.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05157",
+      "file": "station_trips_index/05157.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05156",
+      "file": "station_trips_index/05156.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05155",
+      "file": "station_trips_index/05155.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05153",
+      "file": "station_trips_index/05153.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05151",
+      "file": "station_trips_index/05151.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05149",
+      "file": "station_trips_index/05149.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05147",
+      "file": "station_trips_index/05147.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05145",
+      "file": "station_trips_index/05145.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05143",
+      "file": "station_trips_index/05143.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05141",
+      "file": "station_trips_index/05141.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05139",
+      "file": "station_trips_index/05139.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05137",
+      "file": "station_trips_index/05137.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05135",
+      "file": "station_trips_index/05135.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05133",
+      "file": "station_trips_index/05133.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05131",
+      "file": "station_trips_index/05131.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05129",
+      "file": "station_trips_index/05129.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05127",
+      "file": "station_trips_index/05127.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05125",
+      "file": "station_trips_index/05125.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05123",
+      "file": "station_trips_index/05123.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05121",
+      "file": "station_trips_index/05121.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05119",
+      "file": "station_trips_index/05119.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05117",
+      "file": "station_trips_index/05117.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05115",
+      "file": "station_trips_index/05115.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05113",
+      "file": "station_trips_index/05113.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05111",
+      "file": "station_trips_index/05111.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05109",
+      "file": "station_trips_index/05109.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05107",
+      "file": "station_trips_index/05107.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05106",
+      "file": "station_trips_index/05106.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05105",
+      "file": "station_trips_index/05105.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05108",
+      "file": "station_trips_index/05108.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05103",
+      "file": "station_trips_index/05103.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05104",
+      "file": "station_trips_index/05104.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05102",
+      "file": "station_trips_index/05102.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05197",
+      "file": "station_trips_index/05197.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05299",
+      "file": "station_trips_index/05299.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05293",
+      "file": "station_trips_index/05293.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05291",
+      "file": "station_trips_index/05291.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05285",
+      "file": "station_trips_index/05285.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05283",
+      "file": "station_trips_index/05283.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05279",
+      "file": "station_trips_index/05279.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05275",
+      "file": "station_trips_index/05275.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05271",
+      "file": "station_trips_index/05271.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05269",
+      "file": "station_trips_index/05269.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05267",
+      "file": "station_trips_index/05267.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05265",
+      "file": "station_trips_index/05265.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05263",
+      "file": "station_trips_index/05263.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05261",
+      "file": "station_trips_index/05261.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05259",
+      "file": "station_trips_index/05259.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05255",
+      "file": "station_trips_index/05255.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05251",
+      "file": "station_trips_index/05251.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05249",
+      "file": "station_trips_index/05249.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05245",
+      "file": "station_trips_index/05245.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05243",
+      "file": "station_trips_index/05243.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05325",
+      "file": "station_trips_index/05325.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05323",
+      "file": "station_trips_index/05323.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05321",
+      "file": "station_trips_index/05321.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05320",
+      "file": "station_trips_index/05320.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05319",
+      "file": "station_trips_index/05319.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05317",
+      "file": "station_trips_index/05317.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05316",
+      "file": "station_trips_index/05316.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05315",
+      "file": "station_trips_index/05315.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05313",
+      "file": "station_trips_index/05313.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05311",
+      "file": "station_trips_index/05311.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05308",
+      "file": "station_trips_index/05308.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05306",
+      "file": "station_trips_index/05306.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05304",
+      "file": "station_trips_index/05304.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05303",
+      "file": "station_trips_index/05303.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05302",
+      "file": "station_trips_index/05302.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05301",
+      "file": "station_trips_index/05301.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05300",
+      "file": "station_trips_index/05300.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05199",
+      "file": "station_trips_index/05199.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05297",
+      "file": "station_trips_index/05297.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05295",
+      "file": "station_trips_index/05295.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05289",
+      "file": "station_trips_index/05289.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05287",
+      "file": "station_trips_index/05287.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05281",
+      "file": "station_trips_index/05281.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05277",
+      "file": "station_trips_index/05277.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05273",
+      "file": "station_trips_index/05273.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05257",
+      "file": "station_trips_index/05257.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05253",
+      "file": "station_trips_index/05253.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05247",
+      "file": "station_trips_index/05247.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05244",
+      "file": "station_trips_index/05244.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05241",
+      "file": "station_trips_index/05241.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05239",
+      "file": "station_trips_index/05239.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05571",
+      "file": "station_trips_index/05571.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05569",
+      "file": "station_trips_index/05569.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05567",
+      "file": "station_trips_index/05567.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05565",
+      "file": "station_trips_index/05565.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05563",
+      "file": "station_trips_index/05563.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05561",
+      "file": "station_trips_index/05561.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05559",
+      "file": "station_trips_index/05559.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05557",
+      "file": "station_trips_index/05557.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05555",
+      "file": "station_trips_index/05555.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05553",
+      "file": "station_trips_index/05553.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05551",
+      "file": "station_trips_index/05551.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05549",
+      "file": "station_trips_index/05549.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05547",
+      "file": "station_trips_index/05547.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05545",
+      "file": "station_trips_index/05545.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05543",
+      "file": "station_trips_index/05543.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05542",
+      "file": "station_trips_index/05542.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05541",
+      "file": "station_trips_index/05541.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05539",
+      "file": "station_trips_index/05539.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05537",
+      "file": "station_trips_index/05537.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05535",
+      "file": "station_trips_index/05535.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05534",
+      "file": "station_trips_index/05534.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05533",
+      "file": "station_trips_index/05533.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05531",
+      "file": "station_trips_index/05531.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05529",
+      "file": "station_trips_index/05529.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05527",
+      "file": "station_trips_index/05527.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05525",
+      "file": "station_trips_index/05525.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05523",
+      "file": "station_trips_index/05523.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05522",
+      "file": "station_trips_index/05522.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05521",
+      "file": "station_trips_index/05521.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05517",
+      "file": "station_trips_index/05517.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05515",
+      "file": "station_trips_index/05515.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05513",
+      "file": "station_trips_index/05513.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05511",
+      "file": "station_trips_index/05511.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05509",
+      "file": "station_trips_index/05509.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05508",
+      "file": "station_trips_index/05508.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05507",
+      "file": "station_trips_index/05507.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05505",
+      "file": "station_trips_index/05505.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05504",
+      "file": "station_trips_index/05504.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "15217",
+      "file": "station_trips_index/15217.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05573",
+      "file": "station_trips_index/05573.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05575",
+      "file": "station_trips_index/05575.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05577",
+      "file": "station_trips_index/05577.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05579",
+      "file": "station_trips_index/05579.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05649",
+      "file": "station_trips_index/05649.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05647",
+      "file": "station_trips_index/05647.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05645",
+      "file": "station_trips_index/05645.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05644",
+      "file": "station_trips_index/05644.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05643",
+      "file": "station_trips_index/05643.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05641",
+      "file": "station_trips_index/05641.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05637",
+      "file": "station_trips_index/05637.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05623",
+      "file": "station_trips_index/05623.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05621",
+      "file": "station_trips_index/05621.json",
+      "count": 4,
+      "originalCount": 4
+    },
+    {
+      "stationId": "05602",
+      "file": "station_trips_index/05602.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05651",
+      "file": "station_trips_index/05651.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05655",
+      "file": "station_trips_index/05655.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05657",
+      "file": "station_trips_index/05657.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05661",
+      "file": "station_trips_index/05661.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05663",
+      "file": "station_trips_index/05663.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05672",
+      "file": "station_trips_index/05672.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05673",
+      "file": "station_trips_index/05673.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05675",
+      "file": "station_trips_index/05675.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05677",
+      "file": "station_trips_index/05677.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05679",
+      "file": "station_trips_index/05679.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05681",
+      "file": "station_trips_index/05681.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05683",
+      "file": "station_trips_index/05683.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05685",
+      "file": "station_trips_index/05685.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05687",
+      "file": "station_trips_index/05687.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05689",
+      "file": "station_trips_index/05689.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05691",
+      "file": "station_trips_index/05691.json",
+      "count": 7,
+      "originalCount": 7
+    },
+    {
+      "stationId": "05497",
+      "file": "station_trips_index/05497.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05493",
+      "file": "station_trips_index/05493.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05489",
+      "file": "station_trips_index/05489.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05487",
+      "file": "station_trips_index/05487.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05484",
+      "file": "station_trips_index/05484.json",
+      "count": 8,
+      "originalCount": 8
+    },
+    {
+      "stationId": "05473",
+      "file": "station_trips_index/05473.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "05467",
+      "file": "station_trips_index/05467.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "05463",
+      "file": "station_trips_index/05463.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "05461",
+      "file": "station_trips_index/05461.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "05457",
+      "file": "station_trips_index/05457.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "05455",
+      "file": "station_trips_index/05455.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "13206",
+      "file": "station_trips_index/13206.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "05451",
+      "file": "station_trips_index/05451.json",
+      "count": 10,
+      "originalCount": 10
+    },
+    {
+      "stationId": "05652",
+      "file": "station_trips_index/05652.json",
+      "count": 6,
+      "originalCount": 6
+    },
+    {
+      "stationId": "05459",
+      "file": "station_trips_index/05459.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05460",
+      "file": "station_trips_index/05460.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05465",
+      "file": "station_trips_index/05465.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05469",
+      "file": "station_trips_index/05469.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05470",
+      "file": "station_trips_index/05470.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05471",
+      "file": "station_trips_index/05471.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05474",
+      "file": "station_trips_index/05474.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05475",
+      "file": "station_trips_index/05475.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05477",
+      "file": "station_trips_index/05477.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05479",
+      "file": "station_trips_index/05479.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05481",
+      "file": "station_trips_index/05481.json",
+      "count": 1,
+      "originalCount": 1
+    },
+    {
+      "stationId": "05483",
+      "file": "station_trips_index/05483.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05721",
+      "file": "station_trips_index/05721.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05722",
+      "file": "station_trips_index/05722.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05724",
+      "file": "station_trips_index/05724.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05727",
+      "file": "station_trips_index/05727.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05730",
+      "file": "station_trips_index/05730.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05731",
+      "file": "station_trips_index/05731.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05732",
+      "file": "station_trips_index/05732.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05733",
+      "file": "station_trips_index/05733.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05734",
+      "file": "station_trips_index/05734.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05735",
+      "file": "station_trips_index/05735.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05736",
+      "file": "station_trips_index/05736.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05737",
+      "file": "station_trips_index/05737.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05738",
+      "file": "station_trips_index/05738.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05739",
+      "file": "station_trips_index/05739.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05740",
+      "file": "station_trips_index/05740.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05741",
+      "file": "station_trips_index/05741.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05742",
+      "file": "station_trips_index/05742.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05743",
+      "file": "station_trips_index/05743.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05744",
+      "file": "station_trips_index/05744.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05747",
+      "file": "station_trips_index/05747.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05748",
+      "file": "station_trips_index/05748.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05749",
+      "file": "station_trips_index/05749.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05750",
+      "file": "station_trips_index/05750.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05751",
+      "file": "station_trips_index/05751.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05752",
+      "file": "station_trips_index/05752.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05753",
+      "file": "station_trips_index/05753.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05754",
+      "file": "station_trips_index/05754.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05756",
+      "file": "station_trips_index/05756.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05757",
+      "file": "station_trips_index/05757.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05758",
+      "file": "station_trips_index/05758.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05799",
+      "file": "station_trips_index/05799.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05759",
+      "file": "station_trips_index/05759.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05755",
+      "file": "station_trips_index/05755.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05760",
+      "file": "station_trips_index/05760.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05790",
+      "file": "station_trips_index/05790.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05761",
+      "file": "station_trips_index/05761.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05763",
+      "file": "station_trips_index/05763.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05766",
+      "file": "station_trips_index/05766.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05767",
+      "file": "station_trips_index/05767.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05770",
+      "file": "station_trips_index/05770.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05776",
+      "file": "station_trips_index/05776.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05803",
+      "file": "station_trips_index/05803.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "05778",
+      "file": "station_trips_index/05778.json",
+      "count": 2,
+      "originalCount": 2
+    },
+    {
+      "stationId": "07004",
+      "file": "station_trips_index/07004.json",
+      "count": 4,
+      "originalCount": 4
+    }
+  ],
+  "limitedPerStation": 3000
+}
