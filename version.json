@@ -1,0 +1,5 @@
+{
+  "version": "2026-05-18-001",
+  "stationsUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/stations.json",
+  "operatorsUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/operators.json"
+}
