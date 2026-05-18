@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-18-test",
+  "version": "2026-05-18-v5",
   "feeds": [
     {
       "id": "CH",
@@ -14,6 +14,55 @@
       "country": "ES",
       "source": "renfe",
       "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/ES_RENFE"
+    },
+    {
+      "id": "ES_OUIGO",
+      "name": "Spain - Ouigo",
+      "country": "ES",
+      "source": "ouigo",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/ES_OUIGO"
+    },
+    {
+      "id": "FR_SNCF",
+      "name": "France - SNCF",
+      "country": "FR",
+      "source": "sncf",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/FR_SNCF"
+    },
+    {
+      "id": "FR_TRENITALIA",
+      "name": "France - Trenitalia",
+      "country": "FR",
+      "source": "trenitalia-france",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/FR_TRENITALIA"
+    },
+    {
+      "id": "AT_OBB",
+      "name": "Austria - ÖBB",
+      "country": "AT",
+      "source": "oebb",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/AT_OBB"
+    },
+    {
+      "id": "DE_FV",
+      "name": "Germany - DB ICE/IC",
+      "country": "DE",
+      "source": "gtfs.de-fv",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/DE_FV"
+    },
+    {
+      "id": "DE_RV",
+      "name": "Germany - Regional Rail",
+      "country": "DE",
+      "source": "gtfs.de-rv",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/DE_RV"
+    },
+    {
+      "id": "EU_EUROSTAR",
+      "name": "Europe - Eurostar",
+      "country": "EU",
+      "source": "eurostar",
+      "baseUrl": "https://raw.githubusercontent.com/eliolelann/trainydata/main/data/EU_EUROSTAR"
     }
   ]
 }
